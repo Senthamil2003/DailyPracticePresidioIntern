@@ -17,7 +17,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("User name or password should not be empty");
             }
-            return User;
+            return User.Trim();
 
         }
         

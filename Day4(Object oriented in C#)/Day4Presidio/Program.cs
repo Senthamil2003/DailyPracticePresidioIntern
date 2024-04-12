@@ -91,7 +91,8 @@ namespace Day4Presidio
         /// <param name="TotalCount">Total count of the doctor</param>
         static void DisplayDoctors(int TotalCount)
         {
-            for(int i=0;i<TotalCount; i++)
+            Console.WriteLine("---------------------------------------");
+            for (int i=0;i<TotalCount; i++)
             {
 
                 doctors[i].ShowDoctorsDetails();
@@ -124,6 +125,7 @@ namespace Day4Presidio
                 {
                     
                     doctors[i].ShowDoctorsDetails();
+                    Console.WriteLine("---------------------------------------");
                 }
             }
             if (flag == 0)
@@ -139,8 +141,11 @@ namespace Day4Presidio
         /// <param name="DoctorsCount">Totl count of doctor</param>
         static void HospitalManagement(int DoctorsCount)
         {
-            Console.WriteLine("Enter the option\n 1.Add doctor \n 2.Show Doctors \n 3.Search Doctor for speciality");
+            Console.WriteLine("---------------------------------------");
+            Console.WriteLine("Enter the option\n 1.Add doctor \n 2.Show Doctors \n 3.Search Doctor for speciality \n press any key to Exit");
+            Console.WriteLine("---------------------------------------");
             int option = int.Parse(Console.ReadLine() ?? "");
+            Console.WriteLine("---------------------------------------");
             switch (option)
             {
                 case 1:

@@ -4,14 +4,36 @@ using System.Diagnostics.Metrics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Text.RegularExpressions;
 namespace ConsoleApp1
 {
     internal class SixthProb
     {
+        static bool GetSentance(string input, out string data)
+        {
+            data = "";
+            string pattern = @"^[a-zA-Z,]+$";
+
+            input = input.Trim();
+            bool patternMatch = Regex.IsMatch(input, pattern);
+
+            if (patternMatch && input.Length > 0)
+            {
+                data = input;
+                return true;
+            }
+            return false;
+
+
+        }
         static void ReadUser()
         {
-            string Sentance=Console.ReadLine()??"";
+            Console.WriteLine("Enter the Word with comma");
+            string Sentance;
+            while (!GetSentance(Console.ReadLine() ?? "", out Sentance))
+            {
+                Console.WriteLine("Enter the valid sentance");
+            }
             SplitSentance(Sentance);
             
             

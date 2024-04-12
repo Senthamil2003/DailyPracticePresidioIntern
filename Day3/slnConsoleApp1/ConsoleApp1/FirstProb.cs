@@ -1,8 +1,13 @@
-using System.Linq.Expressions;
+using System;
+using System.Collections.Generic;
+using System.Diagnostics.Metrics;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Program
+    internal class FirstProb
     {
         static int Add(int x, int y)
         {
@@ -14,7 +19,7 @@ namespace ConsoleApp1
         }
         static float Divide(int x, int y)
         {
-            return x / y;
+            return (float) x / y;
         }
         static int product(int x, int y)
         {
@@ -36,7 +41,10 @@ namespace ConsoleApp1
 
         static void Calculate(int option)
         {
+           
+            
             int x = GetNum();
+            
             int y = GetNum();
             switch (option)
             {
@@ -47,7 +55,7 @@ namespace ConsoleApp1
                     Printfunction(Subract(x, y), "subraction");
                     break;
                 case 3:
-                    Printfunction((int)Divide(x, y), "Division");
+                    Printfunction1(Divide(x, y), "Division");
                     break;
                 case 4:
                     Printfunction(product(x, y), "Multiply");
@@ -67,11 +75,17 @@ namespace ConsoleApp1
         {
             Console.WriteLine($"The {value} of two values is {result}");
         }
+        static void Printfunction1(float result, string value)
+        {
+            Console.WriteLine($"The {value} of two values is {result}");
+        }
 
 
         static void Main(string[] args)
         {
             Console.WriteLine("Enter option");
+            Console.WriteLine("1.Add\n 2.Subraction \n 3.Division \n 4.Multiply \n 5.Modulo");
+
             int option;
             option = int.Parse(Console.ReadLine());
             Calculate(option);

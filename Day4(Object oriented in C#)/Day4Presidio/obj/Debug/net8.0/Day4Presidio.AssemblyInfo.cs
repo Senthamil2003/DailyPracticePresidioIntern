@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day4Presidio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c31aa0a765a092ed1e4481af482886f10a8de2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+157b53fcc05921da9a0961a1f68785cbc019c0a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day4Presidio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day4Presidio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
