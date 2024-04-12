@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("enter the number");
             while (!int.TryParse(Console.ReadLine(), out num))
                 Console.WriteLine("Enter the valid input");
-            return TermintaionCheck(num);
+            return TermintaionCheck(num); 
         }
         static bool TermintaionCheck(int num)
         {
