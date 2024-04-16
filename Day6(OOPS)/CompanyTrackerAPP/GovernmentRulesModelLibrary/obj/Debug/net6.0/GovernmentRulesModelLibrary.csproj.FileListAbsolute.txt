@@ -1,0 +1,12 @@
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\bin\Debug\net6.0\GovernmentRulesModelLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\bin\Debug\net6.0\GovernmentRulesModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\bin\Debug\net6.0\GovernmentRulesModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\obj\Debug\net6.0\GovernmentRulesModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\obj\Debug\net6.0\GovernmentRulesModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\obj\Debug\net6.0\GovernmentRulesModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\obj\Debug\net6.0\GovernmentRulesModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\obj\Debug\net6.0\GovernmentRulesModelLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\obj\Debug\net6.0\GovernmentRulesModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\obj\Debug\net6.0\refint\GovernmentRulesModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\obj\Debug\net6.0\GovernmentRulesModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day6(OOPS)\CompanyTrackerAPP\GovernmentRulesModelLibrary\obj\Debug\net6.0\ref\GovernmentRulesModelLibrary.dll

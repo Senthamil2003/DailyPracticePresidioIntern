@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day6Sln/1.0.0": {
+        "dependencies": {
+          "ReferenceModel": "1.0.0"
+        },
+        "runtime": {
+          "Day6Sln.dll": {}
+        }
+      },
+      "ReferenceModel/1.0.0": {
+        "runtime": {
+          "ReferenceModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day6Sln/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReferenceModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

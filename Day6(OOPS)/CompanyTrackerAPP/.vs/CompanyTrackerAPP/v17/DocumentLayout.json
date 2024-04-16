@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A87D5B45-E482-47F4-A632-21BC60F39797}|GovernmentRulesModelLibrary\\GovernmentRulesModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day6(oops)\\companytrackerapp\\governmentrulesmodellibrary\\tcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87D5B45-E482-47F4-A632-21BC60F39797}|GovernmentRulesModelLibrary\\GovernmentRulesModelLibrary.csproj|solutionrelative:governmentrulesmodellibrary\\tcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46132CBC-18E9-4EC6-B359-16B0603CCFE4}|CompanyTrackersln(Assignment)\\CompanyTrackersln(Assignment).csproj|c:\\users\\vc\\documents\\projects\\day6(oops)\\companytrackerapp\\companytrackersln(assignment)\\companymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46132CBC-18E9-4EC6-B359-16B0603CCFE4}|CompanyTrackersln(Assignment)\\CompanyTrackersln(Assignment).csproj|solutionrelative:companytrackersln(assignment)\\companymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87D5B45-E482-47F4-A632-21BC60F39797}|GovernmentRulesModelLibrary\\GovernmentRulesModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day6(oops)\\companytrackerapp\\governmentrulesmodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87D5B45-E482-47F4-A632-21BC60F39797}|GovernmentRulesModelLibrary\\GovernmentRulesModelLibrary.csproj|solutionrelative:governmentrulesmodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87D5B45-E482-47F4-A632-21BC60F39797}|GovernmentRulesModelLibrary\\GovernmentRulesModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day6(oops)\\companytrackerapp\\governmentrulesmodellibrary\\accenture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87D5B45-E482-47F4-A632-21BC60F39797}|GovernmentRulesModelLibrary\\GovernmentRulesModelLibrary.csproj|solutionrelative:governmentrulesmodellibrary\\accenture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87D5B45-E482-47F4-A632-21BC60F39797}|GovernmentRulesModelLibrary\\GovernmentRulesModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day6(oops)\\companytrackerapp\\governmentrulesmodellibrary\\igovernmentrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87D5B45-E482-47F4-A632-21BC60F39797}|GovernmentRulesModelLibrary\\GovernmentRulesModelLibrary.csproj|solutionrelative:governmentrulesmodellibrary\\igovernmentrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCS.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\GovernmentRulesModelLibrary\\TCS.cs",
+              "RelativeDocumentMoniker": "GovernmentRulesModelLibrary\\TCS.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\GovernmentRulesModelLibrary\\TCS.cs",
+              "RelativeToolTip": "GovernmentRulesModelLibrary\\TCS.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:47:27.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\GovernmentRulesModelLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "GovernmentRulesModelLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\GovernmentRulesModelLibrary\\Employee.cs",
+              "RelativeToolTip": "GovernmentRulesModelLibrary\\Employee.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:48:15.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accenture.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\GovernmentRulesModelLibrary\\Accenture.cs",
+              "RelativeDocumentMoniker": "GovernmentRulesModelLibrary\\Accenture.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\GovernmentRulesModelLibrary\\Accenture.cs",
+              "RelativeToolTip": "GovernmentRulesModelLibrary\\Accenture.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:47:58.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IgovernmentRules.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\GovernmentRulesModelLibrary\\IgovernmentRules.cs",
+              "RelativeDocumentMoniker": "GovernmentRulesModelLibrary\\IgovernmentRules.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\GovernmentRulesModelLibrary\\IgovernmentRules.cs",
+              "RelativeToolTip": "GovernmentRulesModelLibrary\\IgovernmentRules.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:40:37.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyManager.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\CompanyTrackersln(Assignment)\\CompanyManager.cs",
+              "RelativeDocumentMoniker": "CompanyTrackersln(Assignment)\\CompanyManager.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day6(OOPS)\\CompanyTrackerAPP\\CompanyTrackersln(Assignment)\\CompanyManager.cs",
+              "RelativeToolTip": "CompanyTrackersln(Assignment)\\CompanyManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:36:42.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
