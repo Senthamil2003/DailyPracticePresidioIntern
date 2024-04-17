@@ -2,6 +2,7 @@
 {
     public class Employee:InternalCompanyWork
     {
+        public Department EmployeeDepartment { get; set; }
         int Age;
         DateTime DateOfBirth;
         public int Id { get; set; }

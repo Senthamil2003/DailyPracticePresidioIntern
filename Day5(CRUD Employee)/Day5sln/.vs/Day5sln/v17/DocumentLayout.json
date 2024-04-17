@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\",
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|c:\\users\\vc\\documents\\projects\\day5\\day5sln\\day5app\\day5app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|solutionrelative:day5app\\day5app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|c:\\users\\vc\\documents\\projects\\day5(crud employee)\\day5sln\\day5app\\crudappwithemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|solutionrelative:day5app\\crudappwithemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|c:\\users\\vc\\documents\\projects\\day5\\day5sln\\day5app\\cowandbull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|solutionrelative:day5app\\cowandbull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8563E06C-D678-4F5C-BB42-4E808B1E22D5}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day5(crud employee)\\day5sln\\requesttrackermodellibrary\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E06C-D678-4F5C-BB42-4E808B1E22D5}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|solutionrelative:requesttrackermodellibrary\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8563E06C-D678-4F5C-BB42-4E808B1E22D5}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day5\\day5sln\\requesttrackermodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8563E06C-D678-4F5C-BB42-4E808B1E22D5}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day5(crud employee)\\day5sln\\requesttrackermodellibrary\\requesttrackermodellibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8563E06C-D678-4F5C-BB42-4E808B1E22D5}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|solutionrelative:requesttrackermodellibrary\\requesttrackermodellibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E06C-D678-4F5C-BB42-4E808B1E22D5}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day5(crud employee)\\day5sln\\requesttrackermodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8563E06C-D678-4F5C-BB42-4E808B1E22D5}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|solutionrelative:requesttrackermodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|c:\\users\\vc\\documents\\projects\\day5\\day5sln\\day5app\\crudappwithemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|solutionrelative:day5app\\crudappwithemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|c:\\users\\vc\\documents\\projects\\day5(crud employee)\\day5sln\\day5app\\day5app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|solutionrelative:day5app\\day5app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|c:\\users\\vc\\documents\\projects\\day5(crud employee)\\day5sln\\day5app\\cowandbull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACC2F76-8E57-466E-8830-2874BB03F061}|Day5App\\Day5App.csproj|solutionrelative:day5app\\cowandbull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +34,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\RequestTrackerModelLibrary\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\ContractEmployee.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\RequestTrackerModelLibrary\\ContractEmployee.cs",
+              "RelativeToolTip": "RequestTrackerModelLibrary\\ContractEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T04:58:20.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestTrackerModelLibrary",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",
+              "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",
+              "RelativeToolTip": "RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T04:58:01.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Day5App",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\Day5App\\Day5App.csproj",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\Day5App\\Day5App.csproj",
               "RelativeDocumentMoniker": "Day5App\\Day5App.csproj",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\Day5App\\Day5App.csproj",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\Day5App\\Day5App.csproj",
               "RelativeToolTip": "Day5App\\Day5App.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-15T11:15:10.558Z",
@@ -42,39 +76,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CowAndBull.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\Day5App\\CowAndBull.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\Day5App\\CowAndBull.cs",
               "RelativeDocumentMoniker": "Day5App\\CowAndBull.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\Day5App\\CowAndBull.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\Day5App\\CowAndBull.cs",
               "RelativeToolTip": "Day5App\\CowAndBull.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAgwC0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T10:40:17.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T10:40:17.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CrudAppWithEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\Day5App\\CrudAppWithEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\Day5App\\CrudAppWithEmployee.cs",
               "RelativeDocumentMoniker": "Day5App\\CrudAppWithEmployee.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\Day5App\\CrudAppWithEmployee.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\Day5App\\CrudAppWithEmployee.cs",
               "RelativeToolTip": "Day5App\\CrudAppWithEmployee.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T06:58:37.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\RequestTrackerModelLibrary\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\RequestTrackerModelLibrary\\Employee.cs",
               "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\Employee.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\RequestTrackerModelLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\RequestTrackerModelLibrary\\Employee.cs",
               "RelativeToolTip": "RequestTrackerModelLibrary\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wBAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T06:31:02.417Z",
               "EditorCaption": ""

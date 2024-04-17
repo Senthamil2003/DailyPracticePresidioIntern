@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6Sln", "Day6Sln\Day6Sln.csproj", "{A37DEA40-7299-4541-BCBF-35FF49636767}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6Sln", "Day6Sln\Day6Sln.csproj", "{A37DEA40-7299-4541-BCBF-35FF49636767}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceModel", "ReferenceModel\ReferenceModel.csproj", "{2FF59E3E-DA89-40B5-901D-2E25E2476A48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceModel", "ReferenceModel\ReferenceModel.csproj", "{2FF59E3E-DA89-40B5-901D-2E25E2476A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestTrackerDALLibrary", "RequestTrackerDALLibrary\RequestTrackerDALLibrary.csproj", "{0D9CFC9D-2862-4530-B182-769EC3FB4CB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2FF59E3E-DA89-40B5-901D-2E25E2476A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FF59E3E-DA89-40B5-901D-2E25E2476A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FF59E3E-DA89-40B5-901D-2E25E2476A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9CFC9D-2862-4530-B182-769EC3FB4CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9CFC9D-2862-4530-B182-769EC3FB4CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9CFC9D-2862-4530-B182-769EC3FB4CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9CFC9D-2862-4530-B182-769EC3FB4CB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

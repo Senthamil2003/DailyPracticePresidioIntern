@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",
       "projectName": "RequestTrackerModelLibrary",
-      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",
+      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",
       "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day5\\Day5sln\\RequestTrackerModelLibrary\\obj\\",
+      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day5(CRUD Employee)\\Day5sln\\RequestTrackerModelLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
