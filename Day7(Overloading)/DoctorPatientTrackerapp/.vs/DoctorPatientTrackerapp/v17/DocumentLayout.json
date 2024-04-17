@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B03CE3C4-2260-42EE-87B2-122B852ACAA4}|HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day7(overloading)\\doctorpatienttrackerapp\\hospitaltrackermodellibrary\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03CE3C4-2260-42EE-87B2-122B852ACAA4}|HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj|solutionrelative:hospitaltrackermodellibrary\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A23647-8A9C-437D-A18C-4909866FE9C4}|HospitalTrackerDALLibrary\\HospitalTrackerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day7(overloading)\\doctorpatienttrackerapp\\hospitaltrackerdallibrary\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A23647-8A9C-437D-A18C-4909866FE9C4}|HospitalTrackerDALLibrary\\HospitalTrackerDALLibrary.csproj|solutionrelative:hospitaltrackerdallibrary\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A23647-8A9C-437D-A18C-4909866FE9C4}|HospitalTrackerDALLibrary\\HospitalTrackerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day7(overloading)\\doctorpatienttrackerapp\\hospitaltrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A23647-8A9C-437D-A18C-4909866FE9C4}|HospitalTrackerDALLibrary\\HospitalTrackerDALLibrary.csproj|solutionrelative:hospitaltrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A23647-8A9C-437D-A18C-4909866FE9C4}|HospitalTrackerDALLibrary\\HospitalTrackerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day7(overloading)\\doctorpatienttrackerapp\\hospitaltrackerdallibrary\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A23647-8A9C-437D-A18C-4909866FE9C4}|HospitalTrackerDALLibrary\\HospitalTrackerDALLibrary.csproj|solutionrelative:hospitaltrackerdallibrary\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A23647-8A9C-437D-A18C-4909866FE9C4}|HospitalTrackerDALLibrary\\HospitalTrackerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day7(overloading)\\doctorpatienttrackerapp\\hospitaltrackerdallibrary\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A23647-8A9C-437D-A18C-4909866FE9C4}|HospitalTrackerDALLibrary\\HospitalTrackerDALLibrary.csproj|solutionrelative:hospitaltrackerdallibrary\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03CE3C4-2260-42EE-87B2-122B852ACAA4}|HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day7(overloading)\\doctorpatienttrackerapp\\hospitaltrackermodellibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03CE3C4-2260-42EE-87B2-122B852ACAA4}|HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj|solutionrelative:hospitaltrackermodellibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03CE3C4-2260-42EE-87B2-122B852ACAA4}|HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day7(overloading)\\doctorpatienttrackerapp\\hospitaltrackermodellibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03CE3C4-2260-42EE-87B2-122B852ACAA4}|HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj|solutionrelative:hospitaltrackermodellibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03CE3C4-2260-42EE-87B2-122B852ACAA4}|HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day7(overloading)\\doctorpatienttrackerapp\\hospitaltrackermodellibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03CE3C4-2260-42EE-87B2-122B852ACAA4}|HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj|solutionrelative:hospitaltrackermodellibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D1C5615-C375-4FB4-838E-30A79638A8C5}|DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj|c:\\users\\vc\\documents\\projects\\day7(overloading)\\doctorpatienttrackerapp\\doctorpatienttrackersln\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D1C5615-C375-4FB4-838E-30A79638A8C5}|DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj|solutionrelative:doctorpatienttrackersln\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerDALLibrary\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HospitalTrackerDALLibrary\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerDALLibrary\\AppointmentRepository.cs",
+              "RelativeToolTip": "HospitalTrackerDALLibrary\\AppointmentRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAcwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:46:31.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalTrackerModelLibrary\\Appointment.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\Appointment.cs",
+              "RelativeToolTip": "HospitalTrackerModelLibrary\\Appointment.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:45:48.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "HospitalTrackerModelLibrary\\Person.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\Person.cs",
+              "RelativeToolTip": "HospitalTrackerModelLibrary\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:31:24.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalTrackerModelLibrary\\Patient.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\Patient.cs",
+              "RelativeToolTip": "HospitalTrackerModelLibrary\\Patient.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:19:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalTrackerModelLibrary\\Doctor.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\Doctor.cs",
+              "RelativeToolTip": "HospitalTrackerModelLibrary\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:39:33.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerDALLibrary\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HospitalTrackerDALLibrary\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerDALLibrary\\PatientRepository.cs",
+              "RelativeToolTip": "HospitalTrackerDALLibrary\\PatientRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:40:39.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerDALLibrary\\IRepository.cs",
+              "RelativeDocumentMoniker": "HospitalTrackerDALLibrary\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerDALLibrary\\IRepository.cs",
+              "RelativeToolTip": "HospitalTrackerDALLibrary\\IRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:37:41.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerDALLibrary\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "HospitalTrackerDALLibrary\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerDALLibrary\\DoctorRepository.cs",
+              "RelativeToolTip": "HospitalTrackerDALLibrary\\DoctorRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:40:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\Program.cs",
               "RelativeDocumentMoniker": "DoctorPatientTrackersln\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\Program.cs",
               "RelativeToolTip": "DoctorPatientTrackersln\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAoAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T09:29:58.891Z",
               "EditorCaption": ""
