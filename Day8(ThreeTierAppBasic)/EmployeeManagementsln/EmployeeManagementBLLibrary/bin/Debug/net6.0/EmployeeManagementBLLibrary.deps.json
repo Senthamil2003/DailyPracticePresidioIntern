@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmployeeManagementBLLibrary/1.0.0": {
+        "dependencies": {
+          "EmployeeManagementDALLibrary": "1.0.0",
+          "EmployeeManagementModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagementBLLibrary.dll": {}
+        }
+      },
+      "EmployeeManagementDALLibrary/1.0.0": {
+        "dependencies": {
+          "EmployeeManagementModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagementDALLibrary.dll": {}
+        }
+      },
+      "EmployeeManagementModelLibrary/1.0.0": {
+        "runtime": {
+          "EmployeeManagementModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeManagementBLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagementDALLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagementModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

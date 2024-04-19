@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "EmployeeManagementBLLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EmployeeManagementDALLibrary": "1.0.0",
+          "EmployeeManagementModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManagementBLLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManagementBLLibrary.dll": {}
+        }
+      },
+      "EmployeeManagementDALLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EmployeeManagementModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManagementDALLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManagementDALLibrary.dll": {}
+        }
+      },
+      "EmployeeManagementModelLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EmployeeManagementModelLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManagementModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeManagementBLLibrary/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeManagementBLLibrary/EmployeeManagementBLLibrary.csproj",
+      "msbuildProject": "../EmployeeManagementBLLibrary/EmployeeManagementBLLibrary.csproj"
+    },
+    "EmployeeManagementDALLibrary/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeManagementDALLibrary/EmployeeManagementDALLibrary.csproj",
+      "msbuildProject": "../EmployeeManagementDALLibrary/EmployeeManagementDALLibrary.csproj"
+    },
+    "EmployeeManagementModelLibrary/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeManagementModelLibrary/EmployeeManagementModelLibrary.csproj",
+      "msbuildProject": "../EmployeeManagementModelLibrary/EmployeeManagementModelLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "EmployeeManagementBLLibrary >= 1.0.0",
+      "EmployeeManagementModelLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\VC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
+      "projectName": "EmployeeManagementApp",
+      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
+      "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\VC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj": {
+              "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj"
+            },
+            "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj": {
+              "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

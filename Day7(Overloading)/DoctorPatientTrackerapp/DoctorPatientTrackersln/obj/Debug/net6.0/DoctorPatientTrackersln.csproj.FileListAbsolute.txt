@@ -1,0 +1,15 @@
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\bin\Debug\net6.0\DoctorPatientTrackersln.exe
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\bin\Debug\net6.0\DoctorPatientTrackersln.deps.json
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\bin\Debug\net6.0\DoctorPatientTrackersln.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\bin\Debug\net6.0\DoctorPatientTrackersln.dll
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\bin\Debug\net6.0\DoctorPatientTrackersln.pdb
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\DoctorPatientTrackersln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\DoctorPatientTrackersln.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\DoctorPatientTrackersln.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\DoctorPatientTrackersln.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\DoctorPatientTrackersln.sourcelink.json
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\DoctorPatientTrackersln.dll
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\refint\DoctorPatientTrackersln.dll
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\DoctorPatientTrackersln.pdb
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\DoctorPatientTrackersln.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day7(Overloading)\DoctorPatientTrackerapp\DoctorPatientTrackersln\obj\Debug\net6.0\ref\DoctorPatientTrackersln.dll

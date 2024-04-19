@@ -1,0 +1,16 @@
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\bin\Debug\net6.0\EmployeeManagementDALLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\bin\Debug\net6.0\EmployeeManagementDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\bin\Debug\net6.0\EmployeeManagementDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\bin\Debug\net6.0\EmployeeManagementModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\bin\Debug\net6.0\EmployeeManagementModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\EmployeeManagementDALLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\EmployeeManagementDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\EmployeeManagementDALLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\EmployeeManagementDALLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\EmployeeManagementDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\EmployeeManagementDALLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\Employee.208CA0AB.Up2Date
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\EmployeeManagementDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\refint\EmployeeManagementDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\EmployeeManagementDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day8(ThreeTierAppBasic)\EmployeeManagementsln\EmployeeManagementDALLibrary\obj\Debug\net6.0\ref\EmployeeManagementDALLibrary.dll
