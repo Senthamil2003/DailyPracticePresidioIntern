@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\bankaccountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\bankaccountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{064401EB-92C3-47B3-8FBF-D9B80A228374}|SimpleBankManagerApp\\SimpleBankManagerApp.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerapp\\simplebankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064401EB-92C3-47B3-8FBF-D9B80A228374}|SimpleBankManagerApp\\SimpleBankManagerApp.csproj|solutionrelative:simplebankmanagerapp\\simplebankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\customexceptions\\duplicatevalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\customexceptions\\duplicatevalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\bankaccountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\bankaccountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\customexceptions\\authenticationfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\customexceptions\\authenticationfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064401EB-92C3-47B3-8FBF-D9B80A228374}|SimpleBankManagerApp\\SimpleBankManagerApp.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerapp\\simplebankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064401EB-92C3-47B3-8FBF-D9B80A228374}|SimpleBankManagerApp\\SimpleBankManagerApp.csproj|solutionrelative:simplebankmanagerapp\\simplebankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\customexceptions\\duplicatevalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\customexceptions\\duplicatevalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagermodellibrary\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,17 +74,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SimpleBankManager.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerApp\\SimpleBankManager.cs",
               "RelativeDocumentMoniker": "SimpleBankManagerApp\\SimpleBankManager.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerApp\\SimpleBankManager.cs",
               "RelativeToolTip": "SimpleBankManagerApp\\SimpleBankManager.cs",
-              "ViewState": "AQIAAMsAAAAAAAAAAAAUwJsAAAAiAAAA",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAiwPsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T07:25:05.99Z",
               "EditorCaption": ""
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DuplicateValueException.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
               "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
@@ -117,13 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BankAccountBL.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\BankAccountBL.cs",
               "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\BankAccountBL.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\BankAccountBL.cs",
               "RelativeToolTip": "SimpleBankManagerBLLibrary\\BankAccountBL.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA3wBAAAAAJAAAA",
+              "ViewState": "AQIAAGIAAAAAAAAAAAApwGsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T05:27:18.867Z",
               "EditorCaption": ""

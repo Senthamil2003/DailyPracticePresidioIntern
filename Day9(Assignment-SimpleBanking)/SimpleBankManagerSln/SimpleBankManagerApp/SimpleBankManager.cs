@@ -30,9 +30,9 @@ namespace SimpleBankManagerApp
             {
                 Console.WriteLine("Enter the amount to deposit");
                 double amount = Convert.ToDouble(Console.ReadLine());
-                bankAccountService.Deposit(Account.AccountNumber, amount);
+                Account=bankAccountService.Deposit(Account.AccountNumber, amount);
                 Console.WriteLine("Amound added successfully!!!!!!!!!!!!!");
-                Transaction transaction = new Transaction(null, null, amount, DateTime.Now, "Deposit");
+                Transaction transaction = new Transaction(Account, null, amount, DateTime.Now, "Deposit");
                 transactionService.AddTransaction(transaction);
    
                 Console.WriteLine("Transaction Added Successfully!!!!!!!!!");
@@ -50,9 +50,9 @@ namespace SimpleBankManagerApp
             {
                 Console.WriteLine("Enter the amount to deposit");
                 double amount = Convert.ToDouble(Console.ReadLine());
-                bankAccountService.Withdraw(Account.AccountNumber, amount);
+               Account= bankAccountService.Withdraw(Account.AccountNumber, amount);
                 Console.WriteLine("Amound added successfully!!!!!!!!!!!!!");
-                Transaction transaction = new Transaction(null, null, amount, DateTime.Now, "Withdraw");
+                Transaction transaction = new Transaction(Account, null, amount, DateTime.Now, "Withdraw");
                 transactionService.AddTransaction(transaction);
                 Console.WriteLine("Transaction Added Successfully!!!!!!!!!");
             }
@@ -87,7 +87,7 @@ namespace SimpleBankManagerApp
            
 
         }
-        void GetAllTransaction()
+        void GetAllTransaction(BankAccount Account)
         {
             try
             {
@@ -95,17 +95,30 @@ namespace SimpleBankManagerApp
                 Console.WriteLine("-----------------------------------------------------------");
                 foreach (Transaction item in data)
                 {
-                    if (item.Sender != null && item.Reciever != null)
+                    if (item.Reciever == null)
                     {
-                        Console.WriteLine(item.ToString());
-
+                        if(item.Sender.AccountNumber == Account.AccountNumber)
+                        Console.WriteLine(item.TransactionId + "\n" + "Transfer Type " + item.TransferType + "\n" + "Amount " + item.Amount + "\n");
+                        Console.WriteLine("-----------------------------------------------------------");
                     }
                     else
                     {
-                        Console.WriteLine(item.TransactionId+"\n"+"Transfer Type " +item.TransferType+"\n"+"Amount "+ item.Amount+"\n");
-                        
+                        if(item.Sender.AccountNumber== Account.AccountNumber)
+                        {
+                            Console.WriteLine("Transfer Type: Sender");
+                            Console.WriteLine(item.ToString());
+                            Console.WriteLine("-----------------------------------------------------------");
+
+                        }
+                        else if(item.Reciever.AccountNumber== Account.AccountNumber)
+                        {
+                            Console.WriteLine("Transfer Type: Recieved");
+                            Console.WriteLine(item.ToString());
+                            Console.WriteLine("-----------------------------------------------------------");
+
+                        }
                     }
-                    Console.WriteLine("-----------------------------------------------------------");
+                    
 
                 }
             }
@@ -141,7 +154,7 @@ namespace SimpleBankManagerApp
                         MoneyTransfer(Account);
                         break;
                     case 4:
-                        GetAllTransaction();
+                        GetAllTransaction(Account);
                         break;
                     case 5:
                         Balance(Account); 
