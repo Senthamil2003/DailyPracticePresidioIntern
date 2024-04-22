@@ -128,6 +128,15 @@ namespace SimpleBankManagerBLLibrary
             throw new NullValueException("No data available in the BankAccount database");
         }
 
+        public void DataValidation()
+        {
+            throw new NotImplementedException();
+
+        }
+        public void FileStorage()
+        {
+            throw new NotImplementedException();
+        }
      
       
     }
