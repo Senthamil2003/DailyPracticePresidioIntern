@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeManagementBLLibrary
+namespace EmployeeManagementBLLibrary.CustomExceptionHandler
 {
     public class DuplicateDepartmentNameException : Exception
     {

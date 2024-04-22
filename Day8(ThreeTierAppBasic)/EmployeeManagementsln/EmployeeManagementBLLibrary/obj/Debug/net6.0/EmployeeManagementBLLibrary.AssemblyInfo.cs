@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmployeeManagementBLLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28cef92b6896f037e68dbf02e905bdccb3e8432f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08c16363c2b117cabaae722b0d7f0b5696c87286")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmployeeManagementBLLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmployeeManagementBLLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

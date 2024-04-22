@@ -13,6 +13,7 @@ namespace ReferenceModel
         public int Department_Head { get; set; }
         public override bool Equals(object? obj)
         {
+        
             return this.Name.Equals((obj as Department).Name);
         }
         public override string ToString()

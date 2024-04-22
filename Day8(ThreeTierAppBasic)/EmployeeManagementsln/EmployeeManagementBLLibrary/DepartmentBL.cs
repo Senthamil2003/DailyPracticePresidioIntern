@@ -1,4 +1,5 @@
-﻿using EmployeeManagementDALLibrary;
+﻿using EmployeeManagementBLLibrary.CustomExceptionHandler;
+using EmployeeManagementDALLibrary;
 using EmployeeManagementModelLibrary;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ namespace EmployeeManagementBLLibrary
 {
     public class DepartmentBL : IDepartmentService
     {
-        readonly DepartmentRepository _departmentRepository;
+        readonly IRepository<int,Department> _departmentRepository;
         public DepartmentBL()
         {
             _departmentRepository = new DepartmentRepository();
@@ -24,7 +25,7 @@ namespace EmployeeManagementBLLibrary
             {
                 return result.Id;
             }
-            throw new DuplicateDepartmentNameException();
+            throw new DuplicateEmployeeNameException();
         }
 
         public Department ChangeDepartmentName(string departmentOldName, string departmentNewName)

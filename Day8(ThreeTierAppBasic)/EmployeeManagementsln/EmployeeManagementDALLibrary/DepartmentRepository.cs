@@ -16,7 +16,7 @@ namespace EmployeeManagementDALLibrary
         {
             _departments = new Dictionary<int, Department>();
         }
-        int GenerateId()
+        public int GenerateId()
         {
           
             if (_departments.Count == 0)

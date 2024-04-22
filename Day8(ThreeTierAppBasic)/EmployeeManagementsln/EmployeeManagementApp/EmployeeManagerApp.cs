@@ -1,4 +1,5 @@
 ﻿using EmployeeManagementBLLibrary;
+using EmployeeManagementBLLibrary.CustomExceptionHandler;
 using EmployeeManagementModelLibrary;
 using System;
 using System.Collections.Generic;

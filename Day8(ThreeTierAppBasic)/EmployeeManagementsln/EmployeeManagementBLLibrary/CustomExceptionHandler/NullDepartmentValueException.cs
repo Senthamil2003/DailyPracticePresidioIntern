@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeManagementBLLibrary
+namespace EmployeeManagementBLLibrary.CustomExceptionHandler
 {
-    public class NullEmployeeValueException : Exception
+    public class NullDepartmentValueException : Exception
     {
         string msg;
-        public NullEmployeeValueException()
+        public NullDepartmentValueException()
         {
             msg = "No values Found"; // Assign the value to the class-level variable
         }

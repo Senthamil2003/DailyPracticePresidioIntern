@@ -1,4 +1,5 @@
 ﻿using EmployeeManagementBLLibrary;
+using EmployeeManagementBLLibrary.CustomExceptionHandler;
 using EmployeeManagementModelLibrary;
 namespace EmployeeManagementApp
 {
