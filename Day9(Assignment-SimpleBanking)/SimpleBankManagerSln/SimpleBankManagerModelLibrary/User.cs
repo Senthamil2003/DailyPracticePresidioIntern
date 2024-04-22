@@ -2,7 +2,7 @@
 {
     public class User
     {
-        public int UserId { get; set; }
+        public double UserId { get; set; }
         public string Name { get; set; }
         public double MobileNumber {  get; set; }
         public DateTime DateOfBirth { get; set; }

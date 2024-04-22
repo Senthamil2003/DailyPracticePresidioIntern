@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 
 namespace SimpleBankManagerDALLibrary
 {
-    public class BankAccountRepository : IRepository<int, BankAccount>
+    public class BankAccountRepository : IRepository<double, BankAccount>
     {
-        readonly Dictionary<int, BankAccount> _BankAccounts;
+        readonly Dictionary<double, BankAccount> _BankAccounts;
         public BankAccountRepository()
         {
-            _BankAccounts = new Dictionary<int, BankAccount>();
+            _BankAccounts = new Dictionary<double, BankAccount>();
         }
-        public int GenerateId()
+        public double GenerateId()
         {
 
             if (_BankAccounts.Count == 0)
                 return 1;
-            int id = _BankAccounts.Keys.Max();
+            double id = _BankAccounts.Keys.Max();
             return ++id;
         }
         public BankAccount Add(BankAccount item)
@@ -28,13 +28,15 @@ namespace SimpleBankManagerDALLibrary
             {
                 return null;
             }
-            int id = GenerateId();
-            item.UserId = id;
+            double id = GenerateId();
+            id += 1000000;
+            item.UserId = 
+            item.AccountNumber = id;
             _BankAccounts.Add(id, item);
             return item;
         }
 
-        public BankAccount Delete(int key)
+        public BankAccount Delete(double key)
         {
             if (_BankAccounts.ContainsKey(key))
             {
@@ -45,8 +47,9 @@ namespace SimpleBankManagerDALLibrary
             return null;
         }
 
-        public BankAccount? Get(int key)
+        public BankAccount? Get(double key)
         {
+            
             return _BankAccounts.ContainsKey(key) ? _BankAccounts[key] : null;
         }
 
