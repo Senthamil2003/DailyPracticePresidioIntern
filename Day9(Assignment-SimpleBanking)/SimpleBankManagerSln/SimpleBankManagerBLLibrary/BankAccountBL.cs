@@ -21,7 +21,7 @@ namespace SimpleBankManagerBLLibrary
             {
                 return result.UserId;
             }
-            throw new DuplicateValueException("Bank Account");
+            throw new DuplicateValueException("Duplicate User Name found please enter unique user name");
         }
 
         public BankAccount ChangePassword(string UserName, string Password)
@@ -69,7 +69,7 @@ namespace SimpleBankManagerBLLibrary
 
         public BankAccount UpdateAccount(BankAccount Account)
         {
-           var result= _BankAccountRepository.Update(Account);
+            var result= _BankAccountRepository.Update(Account);
             if(result != null)
             {
                 return result;
@@ -91,6 +91,15 @@ namespace SimpleBankManagerBLLibrary
             
         }
 
+        public BankAccount TransferMoney(double SenderAccountNumber,double RecieverAccountNumber,double Amount)
+        {
+           
+            Withdraw(SenderAccountNumber, Amount);
+            BankAccount result= Deposit(RecieverAccountNumber,Amount);
+            return result;
+
+
+        }
         public List<Transaction> GetTransactions(double AccountNumber)
         {
             var result =GetBankAccountByAccountNumber(AccountNumber);
@@ -104,7 +113,19 @@ namespace SimpleBankManagerBLLibrary
 
         public BankAccount LoginFunctionality(string UserName, string Password)
         {
-            throw new NotImplementedException();
+            List<BankAccount> data = _BankAccountRepository.GetAll();
+            if (data != null)
+            {
+                foreach (BankAccount bankAccount in data)
+                {
+                    if(bankAccount.UserName == UserName && bankAccount.VerifyPassword(Password))
+                    {
+                        return bankAccount;
+                    }
+                }
+                throw new AuthenticationFailed("User name Password not match");
+            }
+            throw new NullValueException("No data available in the BankAccount database");
         }
 
      

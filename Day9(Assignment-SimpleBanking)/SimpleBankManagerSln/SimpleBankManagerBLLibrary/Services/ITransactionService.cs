@@ -11,7 +11,7 @@ using SimpleBankManagerModelLibrary;
 namespace SimpleBankManagerBLLibrary.Services
 {
 
-    public interface ITransaction
+    public interface ITransactionService
     {
         int AddTransaction(Transaction Transaction);
         Transaction GetTransactionById(int id);

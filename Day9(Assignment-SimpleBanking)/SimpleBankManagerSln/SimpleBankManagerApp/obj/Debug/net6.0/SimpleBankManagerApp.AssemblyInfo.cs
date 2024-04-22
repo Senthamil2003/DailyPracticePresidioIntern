@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleBankManagerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdb61f02c86b0cebb84ea1a6c80aa65a4b7da283")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4820365cb52642190f898a253d2dd348e8841ec5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleBankManagerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleBankManagerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

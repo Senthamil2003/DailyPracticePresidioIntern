@@ -11,20 +11,33 @@ namespace SimpleBankManagerModelLibrary
     {
         public int TransactionId { get; set; }
 
-        public User Sender { get; set; }
+        public BankAccount Sender { get; set; }
 
-        public User Reciever { get; set; }
+        public BankAccount Reciever { get; set; }
 
         public double Amount { get; set; }  
 
         public DateTime DateOfTransaction { get; set; } 
 
+        public string TransferType { get; set; }    
+
+        public Transaction(BankAccount sender, BankAccount reciever, double amount, DateTime dateOfTransaction,string type)
+        {
+           
+            Sender = sender;
+            Reciever = reciever;
+            Amount = amount;
+            DateOfTransaction = dateOfTransaction;
+            TransferType = type;
+        }
+
         public Transaction()
         {
+            TransferType =string.Empty;
             Amount = 0;
             DateOfTransaction = DateTime.Now;
-            Sender= new User();
-            Reciever = new User();
+            Sender= new BankAccount();
+            Reciever = new BankAccount();
             TransactionId = 0;
 
         }
@@ -40,7 +53,7 @@ namespace SimpleBankManagerModelLibrary
 
         public override string ToString()
         {
-            return "Transaction Id" + TransactionId + "\n" +"Transaction Date Time:"+DateOfTransaction+"\n" + "Sender Name " + Sender.Name + "\n" + "RecieverName " + Reciever.Name + "\n" + "Transaction Amount" + Amount;
+            return "Transaction Id" + TransactionId + "\n" +"Transfer Type: "+TransferType+"\n"+"Transaction Date Time:"+DateOfTransaction+"\n" + "Sender Name " + Sender.Name + "\n" + "RecieverName " + Reciever.Name + "\n" + "Transaction Amount" + Amount;
         }
 
     }

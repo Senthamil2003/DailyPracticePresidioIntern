@@ -29,8 +29,9 @@ namespace SimpleBankManagerDALLibrary
                 return null;
             }
             double id = GenerateId();
-            id += 1000000;
-            item.UserId = 
+            if(_BankAccounts.Count==0)
+                id += 1000000;
+            item.UserId = id;
             item.AccountNumber = id;
             _BankAccounts.Add(id, item);
             return item;

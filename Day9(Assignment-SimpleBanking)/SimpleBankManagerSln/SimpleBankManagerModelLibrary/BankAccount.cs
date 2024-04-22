@@ -37,11 +37,10 @@ namespace SimpleBankManagerModelLibrary
 
         }
 
-        public BankAccount(string name, double mobile,DateTime dateOfBirth,double accountNumber,string userName,double savingsAmount,string password):base(name,mobile,dateOfBirth)
+        public BankAccount(string name, double mobile,DateTime dateOfBirth,string userName,string password):base(name,mobile,dateOfBirth)
         {
-            AccountNumber=accountNumber;
+           
             UserName=userName;
-            SavingsAmount=savingsAmount;
             Password = password;
         }
         public override bool Equals(object? obj)

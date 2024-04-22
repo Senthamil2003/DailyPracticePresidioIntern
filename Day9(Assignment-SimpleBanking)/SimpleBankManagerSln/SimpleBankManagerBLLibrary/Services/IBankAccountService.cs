@@ -24,5 +24,6 @@ namespace SimpleBankManagerBLLibrary.Services
         List<BankAccount> GetBankAccountList();
 
         List<Transaction> GetTransactions(double AccountNumber);
+        BankAccount TransferMoney(double SenderAccountNumber, double RecieverAccountNumber, double Amount);
     }
 }

@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace SimpleBankManagerBLLibrary
 {
-    public class TransactionBL : ITransaction
+    public class TransactionBL : ITransactionService
     {
         readonly IRepository<int, Transaction> _TransactionRepository;
         public TransactionBL()
