@@ -10,7 +10,7 @@ namespace SimpleBankManagerBLLibrary.CustomExceptions
     {
         string NewMessage;
         public DuplicateValueException(string value) {
-            NewMessage ="Duplicate " + value+ "Value Exist" ;
+            NewMessage =value ;
             
         }
         public override string Message => NewMessage;

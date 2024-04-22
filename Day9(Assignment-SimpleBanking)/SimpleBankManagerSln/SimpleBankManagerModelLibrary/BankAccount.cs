@@ -11,6 +11,9 @@ namespace SimpleBankManagerModelLibrary
         public double AccountNumber { get; set; }
         public string UserName { get; set; }
 
+        private string Password { get; set; }
+
+
         public double SavingsAmount {  get; set; }
         public List<Transaction> TransactionList { get; set; }
 
@@ -20,13 +23,26 @@ namespace SimpleBankManagerModelLibrary
             UserName = string.Empty;
             SavingsAmount = 0;
             TransactionList = new List<Transaction>();
+            Password = string.Empty;
 
         }
-        public BankAccount(string name, double mobile,DateTime dateOfBirth,double accountNumber,string userName,double savingsAmount):base(name,mobile,dateOfBirth)
+        public bool VerifyPassword(string password)
+        {
+            return Password == password;
+        }
+        public string ChangePassword(string NewPassword)
+        {
+            Password = NewPassword;
+            return Password;
+
+        }
+
+        public BankAccount(string name, double mobile,DateTime dateOfBirth,double accountNumber,string userName,double savingsAmount,string password):base(name,mobile,dateOfBirth)
         {
             AccountNumber=accountNumber;
             UserName=userName;
             SavingsAmount=savingsAmount;
+            Password = password;
         }
         public override bool Equals(object? obj)
         {

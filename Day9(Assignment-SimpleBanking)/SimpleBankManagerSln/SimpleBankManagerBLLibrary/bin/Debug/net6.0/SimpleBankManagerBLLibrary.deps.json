@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SimpleBankManagerBLLibrary/1.0.0": {
+        "dependencies": {
+          "SimpleBankManagerDALLibrary": "1.0.0",
+          "SimpleBankManagerModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SimpleBankManagerBLLibrary.dll": {}
+        }
+      },
+      "SimpleBankManagerDALLibrary/1.0.0": {
+        "dependencies": {
+          "SimpleBankManagerModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SimpleBankManagerDALLibrary.dll": {}
+        }
+      },
+      "SimpleBankManagerModelLibrary/1.0.0": {
+        "runtime": {
+          "SimpleBankManagerModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleBankManagerBLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleBankManagerDALLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleBankManagerModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

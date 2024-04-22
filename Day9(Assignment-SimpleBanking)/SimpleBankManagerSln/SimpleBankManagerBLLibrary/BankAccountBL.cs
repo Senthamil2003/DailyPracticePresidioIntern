@@ -40,6 +40,7 @@ namespace SimpleBankManagerBLLibrary
             throw new NullValueException("Account");
             
         }
+
         public BankAccount Withdraw(double AccountNumber, double WithdrawAmount)
         {
             var result = GetBankAccountByAccountNumber(AccountNumber);
@@ -85,7 +86,7 @@ namespace SimpleBankManagerBLLibrary
             {
                 return result;
             }
-            throw new NullValueException("No data available in the database");
+            throw new NullValueException("No data available in the BankAccount database");
 
             
         }

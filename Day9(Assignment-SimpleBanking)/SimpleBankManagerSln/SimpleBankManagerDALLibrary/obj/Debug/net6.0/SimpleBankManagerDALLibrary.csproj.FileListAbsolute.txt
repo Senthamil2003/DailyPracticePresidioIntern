@@ -1,0 +1,16 @@
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\bin\Debug\net6.0\SimpleBankManagerDALLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\bin\Debug\net6.0\SimpleBankManagerDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\bin\Debug\net6.0\SimpleBankManagerDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\bin\Debug\net6.0\SimpleBankManagerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\bin\Debug\net6.0\SimpleBankManagerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\SimpleBankManagerDALLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\SimpleBankManagerDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\SimpleBankManagerDALLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\SimpleBankManagerDALLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\SimpleBankManagerDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\SimpleBankManagerDALLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\SimpleBa.C3F35445.Up2Date
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\SimpleBankManagerDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\refint\SimpleBankManagerDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\SimpleBankManagerDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerDALLibrary\obj\Debug\net6.0\ref\SimpleBankManagerDALLibrary.dll
