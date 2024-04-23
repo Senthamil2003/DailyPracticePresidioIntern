@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleBankManagerBLLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42a5bcfa0212955899008b7c14d52f63def47c9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfcff9385474aedd23d51ff3c1c23f473a019bbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleBankManagerBLLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleBankManagerBLLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

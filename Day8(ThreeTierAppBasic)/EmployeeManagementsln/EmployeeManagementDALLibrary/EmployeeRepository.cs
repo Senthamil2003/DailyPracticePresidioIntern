@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeManagementDALLibrary
 {
-    public class EmployeeRepository
+    public class EmployeeRepository:IRepository<int ,Employee>
     {
         readonly Dictionary<int, Employee> _Employees;
         public EmployeeRepository()

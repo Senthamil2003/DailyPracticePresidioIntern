@@ -8,9 +8,16 @@ namespace EmployeeManagementModelLibrary
 {
     public class Employee
     {
-        public int Id { get; set; }
+        public int Id { get; set; } = 0;
         public string Name { get; set; } = string.Empty;
-     
+        public Employee(int id,string name)
+        {
+            Id = id;
+            Name = name;
+
+        }
+        public Employee() { 
+        }
         public override bool Equals(object? obj)
         {
 

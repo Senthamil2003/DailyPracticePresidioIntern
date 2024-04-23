@@ -11,10 +11,14 @@ namespace EmployeeManagementBLLibrary
 {
     public class EmployeeBL : IEmployeeService
     {
-        readonly EmployeeRepository _employeeRepository;
+        readonly IRepository<int,Employee> _employeeRepository;
         public EmployeeBL()
         {
             _employeeRepository = new EmployeeRepository();
+        }
+        public EmployeeBL(IRepository<int,Employee> repository)
+        {
+            _employeeRepository = repository;
         }
 
         public int AddEmployee(Employee employee)

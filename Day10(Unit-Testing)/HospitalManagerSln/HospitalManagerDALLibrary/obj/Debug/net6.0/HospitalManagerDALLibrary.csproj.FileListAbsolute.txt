@@ -1,0 +1,16 @@
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\bin\Debug\net6.0\HospitalManagerDALLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\bin\Debug\net6.0\HospitalManagerDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\bin\Debug\net6.0\HospitalManagerDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\bin\Debug\net6.0\HospitalManagerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\bin\Debug\net6.0\HospitalManagerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\HospitalManagerDALLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\HospitalManagerDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\HospitalManagerDALLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\HospitalManagerDALLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\HospitalManagerDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\HospitalManagerDALLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\Hospital.FD71854D.Up2Date
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\HospitalManagerDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\refint\HospitalManagerDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\HospitalManagerDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerDALLibrary\obj\Debug\net6.0\ref\HospitalManagerDALLibrary.dll

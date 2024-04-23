@@ -1,0 +1,12 @@
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\bin\Debug\net6.0\HospitalManagerModelLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\bin\Debug\net6.0\HospitalManagerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\bin\Debug\net6.0\HospitalManagerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\obj\Debug\net6.0\HospitalManagerModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\obj\Debug\net6.0\HospitalManagerModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\obj\Debug\net6.0\HospitalManagerModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\obj\Debug\net6.0\HospitalManagerModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\obj\Debug\net6.0\HospitalManagerModelLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\obj\Debug\net6.0\HospitalManagerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\obj\Debug\net6.0\refint\HospitalManagerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\obj\Debug\net6.0\HospitalManagerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day10(Unit-Testing)\HospitalManagerSln\HospitalManagerModelLibrary\obj\Debug\net6.0\ref\HospitalManagerModelLibrary.dll

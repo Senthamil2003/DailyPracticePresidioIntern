@@ -3,68 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{297468B2-28C2-40B0-A4AB-250F06E35300}|EmployeeManagementBLUnitTest\\EmployeeManagementBLUnitTest.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementblunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297468B2-28C2-40B0-A4AB-250F06E35300}|EmployeeManagementBLUnitTest\\EmployeeManagementBLUnitTest.csproj|solutionrelative:employeemanagementblunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementbllibrary\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|solutionrelative:employeemanagementbllibrary\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C271DF44-0CD6-405A-9F17-BC321A36FD8F}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementapp\\employeemanagerapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C271DF44-0CD6-405A-9F17-BC321A36FD8F}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\employeemanagerapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C271DF44-0CD6-405A-9F17-BC321A36FD8F}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementapp\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C271DF44-0CD6-405A-9F17-BC321A36FD8F}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementbllibrary\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|solutionrelative:employeemanagementbllibrary\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6200EB07-E69D-42B6-B4FA-74367FC22694}|EmployeeManagementDALLibrary\\EmployeeManagementDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementdallibrary\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6200EB07-E69D-42B6-B4FA-74367FC22694}|EmployeeManagementDALLibrary\\EmployeeManagementDALLibrary.csproj|solutionrelative:employeemanagementdallibrary\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementbllibrary\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|solutionrelative:employeemanagementbllibrary\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6200EB07-E69D-42B6-B4FA-74367FC22694}|EmployeeManagementDALLibrary\\EmployeeManagementDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6200EB07-E69D-42B6-B4FA-74367FC22694}|EmployeeManagementDALLibrary\\EmployeeManagementDALLibrary.csproj|solutionrelative:employeemanagementdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6200EB07-E69D-42B6-B4FA-74367FC22694}|EmployeeManagementDALLibrary\\EmployeeManagementDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6200EB07-E69D-42B6-B4FA-74367FC22694}|EmployeeManagementDALLibrary\\EmployeeManagementDALLibrary.csproj|solutionrelative:employeemanagementdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ECC4B8A-E1E6-4526-85D6-CA9F3A62764C}|EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementmodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECC4B8A-E1E6-4526-85D6-CA9F3A62764C}|EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj|solutionrelative:employeemanagementmodellibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementbllibrary\\customexceptionhandler\\nullemployeevalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|solutionrelative:employeemanagementbllibrary\\customexceptionhandler\\nullemployeevalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementbllibrary\\customexceptionhandler\\duplicateemployeenameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|solutionrelative:employeemanagementbllibrary\\customexceptionhandler\\duplicateemployeenameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECC4B8A-E1E6-4526-85D6-CA9F3A62764C}|EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementmodellibrary\\departmnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ECC4B8A-E1E6-4526-85D6-CA9F3A62764C}|EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj|solutionrelative:employeemanagementmodellibrary\\departmnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementbllibrary\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|solutionrelative:employeemanagementbllibrary\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C271DF44-0CD6-405A-9F17-BC321A36FD8F}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementapp\\employeemanagementapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C271DF44-0CD6-405A-9F17-BC321A36FD8F}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\employeemanagementapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementbllibrary\\employeemanagementbllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|solutionrelative:employeemanagementbllibrary\\employeemanagementbllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ECC4B8A-E1E6-4526-85D6-CA9F3A62764C}|EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementmodellibrary\\employeemanagementmodellibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5ECC4B8A-E1E6-4526-85D6-CA9F3A62764C}|EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj|solutionrelative:employeemanagementmodellibrary\\employeemanagementmodellibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day8(threetierappbasic)\\employeemanagementsln\\employeemanagementbllibrary\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}|EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj|solutionrelative:employeemanagementbllibrary\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,197 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DepartmentBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\DepartmentBL.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementBLLibrary\\DepartmentBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\DepartmentBL.cs",
-              "RelativeToolTip": "EmployeeManagementBLLibrary\\DepartmentBL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:53:46.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeManagerApp.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementApp\\EmployeeManagerApp.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementApp\\EmployeeManagerApp.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementApp\\EmployeeManagerApp.cs",
-              "RelativeToolTip": "EmployeeManagementApp\\EmployeeManagerApp.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAgwBoAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:48:13.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentManager.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementApp\\DepartmentManager.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementApp\\DepartmentManager.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementApp\\DepartmentManager.cs",
-              "RelativeToolTip": "EmployeeManagementApp\\DepartmentManager.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAcwC0AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T16:18:54.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\EmployeeBL.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementBLLibrary\\EmployeeBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\EmployeeBL.cs",
-              "RelativeToolTip": "EmployeeManagementBLLibrary\\EmployeeBL.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAowBkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:44:57.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementDALLibrary\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementDALLibrary\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementDALLibrary\\EmployeeRepository.cs",
-              "RelativeToolTip": "EmployeeManagementDALLibrary\\EmployeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:27:48.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementDALLibrary\\IRepository.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementDALLibrary\\IRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementDALLibrary\\IRepository.cs",
-              "RelativeToolTip": "EmployeeManagementDALLibrary\\IRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:36:20.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "EmployeeManagementBLLibrary\\IDepartmentService.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\IDepartmentService.cs",
               "RelativeToolTip": "EmployeeManagementBLLibrary\\IDepartmentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:38:45.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementDALLibrary\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementDALLibrary\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementDALLibrary\\DepartmentRepository.cs",
-              "RelativeToolTip": "EmployeeManagementDALLibrary\\DepartmentRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T16:40:27.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementModelLibrary\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementModelLibrary\\Employee.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementModelLibrary\\Employee.cs",
-              "RelativeToolTip": "EmployeeManagementModelLibrary\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:12:29.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DuplicateEmployeeNameException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\CustomExceptionHandler\\DuplicateEmployeeNameException.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementBLLibrary\\CustomExceptionHandler\\DuplicateEmployeeNameException.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\CustomExceptionHandler\\DuplicateEmployeeNameException.cs",
-              "RelativeToolTip": "EmployeeManagementBLLibrary\\CustomExceptionHandler\\DuplicateEmployeeNameException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T13:58:00.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NullEmployeeValueException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\CustomExceptionHandler\\NullEmployeeValueException.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementBLLibrary\\CustomExceptionHandler\\NullEmployeeValueException.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\CustomExceptionHandler\\NullEmployeeValueException.cs",
-              "RelativeToolTip": "EmployeeManagementBLLibrary\\CustomExceptionHandler\\NullEmployeeValueException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:46:25.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementBLLibrary\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\IEmployeeService.cs",
-              "RelativeToolTip": "EmployeeManagementBLLibrary\\IEmployeeService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA8AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:41:57.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Departmnet.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementModelLibrary\\Departmnet.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementModelLibrary\\Departmnet.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementModelLibrary\\Departmnet.cs",
-              "RelativeToolTip": "EmployeeManagementModelLibrary\\Departmnet.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAowAwAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:55:08.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmployeeManagementApp",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
-              "RelativeDocumentMoniker": "EmployeeManagementApp\\EmployeeManagementApp.csproj",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
-              "RelativeToolTip": "EmployeeManagementApp\\EmployeeManagementApp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-19T17:49:06.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmployeeManagementBLLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj",
-              "RelativeDocumentMoniker": "EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj",
-              "RelativeToolTip": "EmployeeManagementBLLibrary\\EmployeeManagementBLLibrary.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-19T17:36:46.944Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:54:33.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EmployeeManagementModelLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj",
-              "RelativeDocumentMoniker": "EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj",
-              "RelativeToolTip": "EmployeeManagementModelLibrary\\EmployeeManagementModelLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-19T17:12:17.625Z"
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementDALLibrary\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementDALLibrary\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementDALLibrary\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagementDALLibrary\\EmployeeRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:54:25.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBLLibrary\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLLibrary\\EmployeeBL.cs",
+              "RelativeToolTip": "EmployeeManagementBLLibrary\\EmployeeBL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:48:20.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBLUnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day8(ThreeTierAppBasic)\\EmployeeManagementsln\\EmployeeManagementBLUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "EmployeeManagementBLUnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:47:25.72Z",
+              "EditorCaption": ""
             }
           ]
         }

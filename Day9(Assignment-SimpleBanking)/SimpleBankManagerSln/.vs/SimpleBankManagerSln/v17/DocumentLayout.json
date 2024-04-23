@@ -11,6 +11,38 @@
       "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\bankaccountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\transactionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\transactionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|solutionrelative:simplebankmanagerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5DB251-0BD4-4FD4-B17E-E6FCE8AF924E}|SimpleBankingTest\\SimpleBankingTest.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankingtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5DB251-0BD4-4FD4-B17E-E6FCE8AF924E}|SimpleBankingTest\\SimpleBankingTest.csproj|solutionrelative:simplebankingtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerdallibrary\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|solutionrelative:simplebankmanagerdallibrary\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerdallibrary\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|solutionrelative:simplebankmanagerdallibrary\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagermodellibrary\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|solutionrelative:simplebankmanagermodellibrary\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagermodellibrary\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|solutionrelative:simplebankmanagermodellibrary\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\simplebankmanagerbllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\simplebankmanagerbllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\customexceptions\\authenticationfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\customexceptions\\authenticationfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,28 +51,12 @@
       "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\customexceptions\\duplicatevalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagermodellibrary\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|solutionrelative:simplebankmanagermodellibrary\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\customexceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\customexceptions\\insufficientbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|solutionrelative:simplebankmanagerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagermodellibrary\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|solutionrelative:simplebankmanagermodellibrary\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\services\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\services\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\transactionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\transactionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\customexceptions\\nullvalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,20 +67,8 @@
       "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerdallibrary\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|solutionrelative:simplebankmanagerdallibrary\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerdallibrary\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D35CA5C-E44A-42ED-93A0-F87309AA184B}|SimpleBankManagerDALLibrary\\SimpleBankManagerDALLibrary.csproj|solutionrelative:simplebankmanagerdallibrary\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagermodellibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4696BBF-9386-47EE-A15A-29D57121309F}|SimpleBankManagerModelLibrary\\SimpleBankManagerModelLibrary.csproj|solutionrelative:simplebankmanagermodellibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day9(assignment-simplebanking)\\simplebankmanagersln\\simplebankmanagerbllibrary\\simplebankmanagerbllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{12FD6CDB-D88F-4B84-AC69-8CC4DABC0868}|SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj|solutionrelative:simplebankmanagerbllibrary\\simplebankmanagerbllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,75 +78,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SimpleBankManager.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerApp\\SimpleBankManager.cs",
-              "RelativeDocumentMoniker": "SimpleBankManagerApp\\SimpleBankManager.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerApp\\SimpleBankManager.cs",
-              "RelativeToolTip": "SimpleBankManagerApp\\SimpleBankManager.cs",
-              "ViewState": "AQIAAPAAAAAAAAAAAAAiwPsAAAAfAAAA",
+              "DocumentIndex": 5,
+              "Title": "BankAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerDALLibrary\\BankAccountRepository.cs",
+              "RelativeDocumentMoniker": "SimpleBankManagerDALLibrary\\BankAccountRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerDALLibrary\\BankAccountRepository.cs",
+              "RelativeToolTip": "SimpleBankManagerDALLibrary\\BankAccountRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T07:25:05.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticationFailedException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\AuthenticationFailedException.cs",
-              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\CustomExceptions\\AuthenticationFailedException.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\AuthenticationFailedException.cs",
-              "RelativeToolTip": "SimpleBankManagerBLLibrary\\CustomExceptions\\AuthenticationFailedException.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T08:47:38.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T05:15:29.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DuplicateValueException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
-              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
-              "RelativeToolTip": "SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T05:57:27.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BankAccountBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\BankAccountBL.cs",
-              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\BankAccountBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\BankAccountBL.cs",
-              "RelativeToolTip": "SimpleBankManagerBLLibrary\\BankAccountBL.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAApwGsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T05:27:18.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InsufficientBalanceException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\InsufficientBalanceException.cs",
-              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\CustomExceptions\\InsufficientBalanceException.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\InsufficientBalanceException.cs",
-              "RelativeToolTip": "SimpleBankManagerBLLibrary\\CustomExceptions\\InsufficientBalanceException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T06:47:06.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerDALLibrary\\IRepository.cs",
               "RelativeDocumentMoniker": "SimpleBankManagerDALLibrary\\IRepository.cs",
@@ -154,31 +106,142 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerModelLibrary\\BankAccount.cs",
-              "RelativeDocumentMoniker": "SimpleBankManagerModelLibrary\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerModelLibrary\\BankAccount.cs",
-              "RelativeToolTip": "SimpleBankManagerModelLibrary\\BankAccount.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAywCsAAAAgAAAA",
+              "DocumentIndex": 1,
+              "Title": "BankAccountBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\BankAccountBL.cs",
+              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\BankAccountBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\BankAccountBL.cs",
+              "RelativeToolTip": "SimpleBankManagerBLLibrary\\BankAccountBL.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAApwGEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T04:26:10.847Z"
+              "WhenOpened": "2024-04-22T05:27:18.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "TransactionBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\TransactionBL.cs",
+              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\TransactionBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\TransactionBL.cs",
+              "RelativeToolTip": "SimpleBankManagerBLLibrary\\TransactionBL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:07:56.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleBankManager.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerApp\\SimpleBankManager.cs",
+              "RelativeDocumentMoniker": "SimpleBankManagerApp\\SimpleBankManager.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerApp\\SimpleBankManager.cs",
+              "RelativeToolTip": "SimpleBankManagerApp\\SimpleBankManager.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:25:05.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerDALLibrary\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "SimpleBankManagerDALLibrary\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerDALLibrary\\TransactionRepository.cs",
+              "RelativeToolTip": "SimpleBankManagerDALLibrary\\TransactionRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:15:48.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankingTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SimpleBankingTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankingTest\\UnitTest1.cs",
+              "RelativeToolTip": "SimpleBankingTest\\UnitTest1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:47:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerModelLibrary\\Transaction.cs",
               "RelativeDocumentMoniker": "SimpleBankManagerModelLibrary\\Transaction.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerModelLibrary\\Transaction.cs",
               "RelativeToolTip": "SimpleBankManagerModelLibrary\\Transaction.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAADwvzcAAABfAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDcAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T04:34:29.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerModelLibrary\\BankAccount.cs",
+              "RelativeDocumentMoniker": "SimpleBankManagerModelLibrary\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerModelLibrary\\BankAccount.cs",
+              "RelativeToolTip": "SimpleBankManagerModelLibrary\\BankAccount.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA/wCMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:26:10.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimpleBankManagerBLLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj",
+              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj",
+              "RelativeToolTip": "SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T05:27:44.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DuplicateValueException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
+              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
+              "RelativeToolTip": "SimpleBankManagerBLLibrary\\CustomExceptions\\DuplicateValueException.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:57:27.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationFailedException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\AuthenticationFailedException.cs",
+              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\CustomExceptions\\AuthenticationFailedException.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\AuthenticationFailedException.cs",
+              "RelativeToolTip": "SimpleBankManagerBLLibrary\\CustomExceptions\\AuthenticationFailedException.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:47:38.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsufficientBalanceException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\InsufficientBalanceException.cs",
+              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\CustomExceptions\\InsufficientBalanceException.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\InsufficientBalanceException.cs",
+              "RelativeToolTip": "SimpleBankManagerBLLibrary\\CustomExceptions\\InsufficientBalanceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:47:06.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IBankAccountService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\Services\\IBankAccountService.cs",
               "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\Services\\IBankAccountService.cs",
@@ -190,19 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TransactionBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\TransactionBL.cs",
-              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\TransactionBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\TransactionBL.cs",
-              "RelativeToolTip": "SimpleBankManagerBLLibrary\\TransactionBL.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAuwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T07:07:56.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "NullValueException.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\CustomExceptions\\NullValueException.cs",
               "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\CustomExceptions\\NullValueException.cs",
@@ -214,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ITransactionService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\Services\\ITransactionService.cs",
               "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\Services\\ITransactionService.cs",
@@ -226,31 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TransactionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerDALLibrary\\TransactionRepository.cs",
-              "RelativeDocumentMoniker": "SimpleBankManagerDALLibrary\\TransactionRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerDALLibrary\\TransactionRepository.cs",
-              "RelativeToolTip": "SimpleBankManagerDALLibrary\\TransactionRepository.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAA9wEAAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T05:15:48.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BankAccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerDALLibrary\\BankAccountRepository.cs",
-              "RelativeDocumentMoniker": "SimpleBankManagerDALLibrary\\BankAccountRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerDALLibrary\\BankAccountRepository.cs",
-              "RelativeToolTip": "SimpleBankManagerDALLibrary\\BankAccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T05:15:29.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerModelLibrary\\User.cs",
               "RelativeDocumentMoniker": "SimpleBankManagerModelLibrary\\User.cs",
@@ -259,18 +286,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T04:22:00.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SimpleBankManagerBLLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj",
-              "RelativeDocumentMoniker": "SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day9(Assignment-SimpleBanking)\\SimpleBankManagerSln\\SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj",
-              "RelativeToolTip": "SimpleBankManagerBLLibrary\\SimpleBankManagerBLLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-22T05:27:44.041Z"
             }
           ]
         }

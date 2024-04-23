@@ -132,7 +132,7 @@ namespace SimpleBankManagerApp
         void Balance(BankAccount Account)
         {
                var result =bankAccountService.GetBankAccountByAccountNumber(Account.AccountNumber);
-            Console.WriteLine("Balance"+result.SavingsAmount);
+            Console.WriteLine("Balance "+result.SavingsAmount);
         }
         void MainAccount(BankAccount Account)
         {

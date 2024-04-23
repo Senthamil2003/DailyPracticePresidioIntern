@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HospitalManagerApp/1.0.0": {
+        "dependencies": {
+          "HospitalManagerBLLibrary": "1.0.0",
+          "HospitalManagerModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HospitalManagerApp.dll": {}
+        }
+      },
+      "HospitalManagerBLLibrary/1.0.0": {
+        "dependencies": {
+          "HospitalManagerDALLibrary": "1.0.0",
+          "HospitalManagerModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HospitalManagerBLLibrary.dll": {}
+        }
+      },
+      "HospitalManagerDALLibrary/1.0.0": {
+        "dependencies": {
+          "HospitalManagerModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HospitalManagerDALLibrary.dll": {}
+        }
+      },
+      "HospitalManagerModelLibrary/1.0.0": {
+        "runtime": {
+          "HospitalManagerModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HospitalManagerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HospitalManagerBLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HospitalManagerDALLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HospitalManagerModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

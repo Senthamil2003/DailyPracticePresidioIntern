@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementApp", "EmployeeManagementApp\EmployeeManagementApp.csproj", "{C271DF44-0CD6-405A-9F17-BC321A36FD8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementApp", "EmployeeManagementApp\EmployeeManagementApp.csproj", "{C271DF44-0CD6-405A-9F17-BC321A36FD8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementModelLibrary", "EmployeeManagementModelLibrary\EmployeeManagementModelLibrary.csproj", "{5ECC4B8A-E1E6-4526-85D6-CA9F3A62764C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementModelLibrary", "EmployeeManagementModelLibrary\EmployeeManagementModelLibrary.csproj", "{5ECC4B8A-E1E6-4526-85D6-CA9F3A62764C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementDALLibrary", "EmployeeManagementDALLibrary\EmployeeManagementDALLibrary.csproj", "{6200EB07-E69D-42B6-B4FA-74367FC22694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementDALLibrary", "EmployeeManagementDALLibrary\EmployeeManagementDALLibrary.csproj", "{6200EB07-E69D-42B6-B4FA-74367FC22694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementBLLibrary", "EmployeeManagementBLLibrary\EmployeeManagementBLLibrary.csproj", "{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementBLLibrary", "EmployeeManagementBLLibrary\EmployeeManagementBLLibrary.csproj", "{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementBLUnitTest", "EmployeeManagementBLUnitTest\EmployeeManagementBLUnitTest.csproj", "{297468B2-28C2-40B0-A4AB-250F06E35300}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{151EE3AA-9C8B-4984-B4A6-8FBE0E7B7AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297468B2-28C2-40B0-A4AB-250F06E35300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297468B2-28C2-40B0-A4AB-250F06E35300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297468B2-28C2-40B0-A4AB-250F06E35300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297468B2-28C2-40B0-A4AB-250F06E35300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
