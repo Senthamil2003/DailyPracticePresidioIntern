@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAA4915-FFCB-463E-998D-471CDBDF1C56}|OnlineShoppingBLLibrary\\OnlineShoppingBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingbllibrary\\cartitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAA4915-FFCB-463E-998D-471CDBDF1C56}|OnlineShoppingBLLibrary\\OnlineShoppingBLLibrary.csproj|solutionrelative:onlineshoppingbllibrary\\cartitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3E83F-B027-4E78-B665-BA15A43E69B7}|OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingmodellibrary\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC3E83F-B027-4E78-B665-BA15A43E69B7}|OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj|solutionrelative:onlineshoppingmodellibrary\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAA4915-FFCB-463E-998D-471CDBDF1C56}|OnlineShoppingBLLibrary\\OnlineShoppingBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingbllibrary\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAA4915-FFCB-463E-998D-471CDBDF1C56}|OnlineShoppingBLLibrary\\OnlineShoppingBLLibrary.csproj|solutionrelative:onlineshoppingbllibrary\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F320608-3C2B-478E-99C8-7AE045877553}|OnlineShoppingDALLibrary\\OnlineShoppingDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingdallibrary\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F320608-3C2B-478E-99C8-7AE045877553}|OnlineShoppingDALLibrary\\OnlineShoppingDALLibrary.csproj|solutionrelative:onlineshoppingdallibrary\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3E83F-B027-4E78-B665-BA15A43E69B7}|OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingmodellibrary\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC3E83F-B027-4E78-B665-BA15A43E69B7}|OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj|solutionrelative:onlineshoppingmodellibrary\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F320608-3C2B-478E-99C8-7AE045877553}|OnlineShoppingDALLibrary\\OnlineShoppingDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingdallibrary\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F320608-3C2B-478E-99C8-7AE045877553}|OnlineShoppingDALLibrary\\OnlineShoppingDALLibrary.csproj|solutionrelative:onlineshoppingdallibrary\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\CartItem.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingModelLibrary\\CartItem.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\CartItem.cs",
+              "RelativeToolTip": "OnlineShoppingModelLibrary\\CartItem.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvyYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:15:39.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartItemBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingBLLibrary\\CartItemBL.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingBLLibrary\\CartItemBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingBLLibrary\\CartItemBL.cs",
+              "RelativeToolTip": "OnlineShoppingBLLibrary\\CartItemBL.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:13:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingDALLibrary\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingDALLibrary\\CartItemRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingDALLibrary\\CartItemRepository.cs",
+              "RelativeToolTip": "OnlineShoppingDALLibrary\\CartItemRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:13:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\Cart.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingModelLibrary\\Cart.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\Cart.cs",
+              "RelativeToolTip": "OnlineShoppingModelLibrary\\Cart.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:06:04.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingDALLibrary\\CartRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingDALLibrary\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingDALLibrary\\CartRepository.cs",
+              "RelativeToolTip": "OnlineShoppingDALLibrary\\CartRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:06:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingBLLibrary\\Cart.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingBLLibrary\\Cart.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingBLLibrary\\Cart.cs",
+              "RelativeToolTip": "OnlineShoppingBLLibrary\\Cart.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:05:56.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
