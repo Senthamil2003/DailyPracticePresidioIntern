@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerModelLibrary\\HospitalManagerModelLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerModelLibrary\\HospitalManagerModelLibrary.csproj",
       "projectName": "HospitalManagerModelLibrary",
-      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerModelLibrary\\HospitalManagerModelLibrary.csproj",
+      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerModelLibrary\\HospitalManagerModelLibrary.csproj",
       "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerModelLibrary\\obj\\",
+      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerModelLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

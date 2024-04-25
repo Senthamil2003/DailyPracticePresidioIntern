@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gD+S6563IaHuVHScZGIi7C4jbb7G064f9lZvCPs/J/PlV5Lkwj+LfFHYWD1+2zKExKZzp7cQ/kFWHLwB+EMGGA==",
+  "dgSpecHash": "Z32AAIJnff2Wryd1M/kpys4XXHCyxjBwtKlF7mmmts1xBPxDCF+ZTexaBG2wMQVvZt/jVzxoQ+shATJyeuzfEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLLibrary\\HospitalManagerBLLibrary.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLLibrary\\HospitalManagerBLLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

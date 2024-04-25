@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZWcRgX0qCdKKGM+7XGU0JGodxqLR7y7kwKBHhvMD1Pt+h0wOIfHATtR532YVEYzxoqOruKav+XfSlCkGcz7NpA==",
+  "dgSpecHash": "G7lyWsK9EVj3hkPcvEXK/slb+PALfpZjoVPR8Kn25vvCy2iJ/J+AENx3ins5cDEeIXT8QVY9MCGpjYwGrmGVgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerDALLibrary\\HospitalManagerDALLibrary.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerDALLibrary\\HospitalManagerDALLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

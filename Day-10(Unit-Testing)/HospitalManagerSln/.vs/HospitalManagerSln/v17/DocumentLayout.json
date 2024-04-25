@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\",
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDDBD120-C752-4288-B1A1-B1F9345ECB0C}|HospitalManagerDALLibrary\\HospitalManagerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day10(unit-testing)\\hospitalmanagersln\\hospitalmanagerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3B66A0F-C8B0-4007-8B5E-B822D62BD4DB}|HospitalManagerBLTesting\\HospitalManagerBLTesting.csproj|c:\\users\\vc\\documents\\projects\\day-10(unit-testing)\\hospitalmanagersln\\hospitalmanagerbltesting\\doctortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B66A0F-C8B0-4007-8B5E-B822D62BD4DB}|HospitalManagerBLTesting\\HospitalManagerBLTesting.csproj|solutionrelative:hospitalmanagerbltesting\\doctortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBD120-C752-4288-B1A1-B1F9345ECB0C}|HospitalManagerDALLibrary\\HospitalManagerDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-10(unit-testing)\\hospitalmanagersln\\hospitalmanagerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDDBD120-C752-4288-B1A1-B1F9345ECB0C}|HospitalManagerDALLibrary\\HospitalManagerDALLibrary.csproj|solutionrelative:hospitalmanagerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99C70346-2D6C-4D57-9566-4200FFAEFA62}|HospitalManagerBLLibrary\\HospitalManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day10(unit-testing)\\hospitalmanagersln\\hospitalmanagerbllibrary\\patientbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99C70346-2D6C-4D57-9566-4200FFAEFA62}|HospitalManagerBLLibrary\\HospitalManagerBLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-10(unit-testing)\\hospitalmanagersln\\hospitalmanagerbllibrary\\patientbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99C70346-2D6C-4D57-9566-4200FFAEFA62}|HospitalManagerBLLibrary\\HospitalManagerBLLibrary.csproj|solutionrelative:hospitalmanagerbllibrary\\patientbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B66A0F-C8B0-4007-8B5E-B822D62BD4DB}|HospitalManagerBLTesting\\HospitalManagerBLTesting.csproj|c:\\users\\vc\\documents\\projects\\day10(unit-testing)\\hospitalmanagersln\\hospitalmanagerbltesting\\patienttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3B66A0F-C8B0-4007-8B5E-B822D62BD4DB}|HospitalManagerBLTesting\\HospitalManagerBLTesting.csproj|c:\\users\\vc\\documents\\projects\\day-10(unit-testing)\\hospitalmanagersln\\hospitalmanagerbltesting\\patienttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B66A0F-C8B0-4007-8B5E-B822D62BD4DB}|HospitalManagerBLTesting\\HospitalManagerBLTesting.csproj|solutionrelative:hospitalmanagerbltesting\\patienttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,41 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DoctorTest.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLTesting\\DoctorTest.cs",
+              "RelativeDocumentMoniker": "HospitalManagerBLTesting\\DoctorTest.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLTesting\\DoctorTest.cs",
+              "RelativeToolTip": "HospitalManagerBLTesting\\DoctorTest.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAiwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:43:47.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerDALLibrary\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerDALLibrary\\IRepository.cs",
               "RelativeDocumentMoniker": "HospitalManagerDALLibrary\\IRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerDALLibrary\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerDALLibrary\\IRepository.cs",
               "RelativeToolTip": "HospitalManagerDALLibrary\\IRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAFAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T05:13:10.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PatientTesting.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLTesting\\PatientTesting.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLTesting\\PatientTesting.cs",
               "RelativeDocumentMoniker": "HospitalManagerBLTesting\\PatientTesting.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLTesting\\PatientTesting.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLTesting\\PatientTesting.cs",
               "RelativeToolTip": "HospitalManagerBLTesting\\PatientTesting.cs",
               "ViewState": "AQIAAGAAAAAAAAAAAAAwwGQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T04:19:32.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T04:19:32.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PatientBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLLibrary\\PatientBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLLibrary\\PatientBL.cs",
               "RelativeDocumentMoniker": "HospitalManagerBLLibrary\\PatientBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLLibrary\\PatientBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerBLLibrary\\PatientBL.cs",
               "RelativeToolTip": "HospitalManagerBLLibrary\\PatientBL.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAgwC4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:28:33.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T09:28:33.131Z"
             }
           ]
         }
