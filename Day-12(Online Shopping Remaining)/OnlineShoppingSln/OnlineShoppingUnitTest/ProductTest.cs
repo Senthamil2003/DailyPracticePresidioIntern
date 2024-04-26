@@ -49,6 +49,28 @@ namespace OnlineShoppingUnitTest
             Assert.Pass();
 
         }
-        
+        [Test]
+        public void  DeleteProduct()
+        {
+            _productBL.DeleteProduct(1);
+             var result=_productBL.GetAllProduct();
+            Assert.That(result.Count, Is.EqualTo(1));
+
+        }
+        [Test]
+        public void FailDeleteProduct()
+        {
+            var exception = Assert.Throws<NoDataWithGiveIdException>(() => _productBL.DeleteProduct(100));
+            Assert.Pass(); 
+        }
+        [Test]
+        public void ExceptionInDeleteProduct()
+        {
+            var exception = Assert.Throws<NoDataWithGiveIdException>(() => _productBL.DeleteProduct(100));
+            Assert.That(exception.Message, Is.EqualTo("No Product with given id present"));
+            Assert.Pass();
+
+        }
+       
     }
 }
