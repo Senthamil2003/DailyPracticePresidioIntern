@@ -17,7 +17,7 @@
 
         public bool Equals(Product? other)
         {
-            return this.Id.Equals(other.Id);
+            return this.Name.Equals(other.Name);
         }
 
         public Product()

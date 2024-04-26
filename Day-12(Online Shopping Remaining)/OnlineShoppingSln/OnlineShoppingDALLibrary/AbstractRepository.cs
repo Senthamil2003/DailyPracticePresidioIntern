@@ -27,7 +27,7 @@ namespace OnlineShoppingDALLibrary
         }
         public  T Add(T item)
         {
-            if (items.Contains(item))
+            if (items.Contains(item) && item==null)
             {
                 throw new DuplicateValueFoundException($"Duplicate Value Found in {value} databse");
             }

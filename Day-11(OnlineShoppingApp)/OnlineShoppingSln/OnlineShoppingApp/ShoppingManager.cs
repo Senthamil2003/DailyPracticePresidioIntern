@@ -109,7 +109,7 @@ namespace OnlineShoppingApp
 
                 }
                 Console.WriteLine("=--------------------------------=");
-                Console.WriteLine(_cartBL.Checkout(customer.Id, _customer));
+                Console.WriteLine(_cartBL.Checkout(customer.Id, _customer,_productBL));
                
 
                 //foreach (CartItem item in _customer.GetAllCart(customer.Id, _cartBL))
@@ -134,7 +134,7 @@ namespace OnlineShoppingApp
                 _cartItemBL.AddCartItem(_productBL, 1, 2, customer, _cartBL);
                 _cartItemBL.AddCartItem(_productBL, 2, 2, customer, _cartBL);
                 _cartItemBL.AddCartItem(_productBL, 3, 1, customer, _cartBL);
-                _cartItemBL.AddCartItem(_productBL, 1, 2, customer, _cartBL);
+                _cartItemBL.AddCartItem(_productBL, 1, 100, customer, _cartBL);
                 _cartItemBL.AddCartItem(_productBL, 2, 2, customer, _cartBL);
            
                 Console.WriteLine("------------------------------------------");

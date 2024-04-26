@@ -135,7 +135,7 @@ namespace OnlineShoppingApp
             try
             {
                 Console.WriteLine("----------------");
-                Console.WriteLine("Total Amount T0 Pay  $"+_cartBL.Checkout(customer.Id, _customer));
+                Console.WriteLine("Total Amount T0 Pay  $"+_cartBL.Checkout(customer.Id, _customer, _productBL));
                 Console.WriteLine("----------------------");
             }
             catch (Exception ex)

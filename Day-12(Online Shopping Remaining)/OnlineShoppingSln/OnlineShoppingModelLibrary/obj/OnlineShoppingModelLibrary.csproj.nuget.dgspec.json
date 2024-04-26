@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj": {}
+    "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj": {
+    "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj",
         "projectName": "OnlineShoppingModelLibrary",
-        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj",
+        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

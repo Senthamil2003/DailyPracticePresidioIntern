@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\",
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93200261-AC1C-4EAA-AA36-FBCD3A7D5BEF}|OnlineShoppingApp\\OnlineShoppingApp.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingapp\\shoppingapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93200261-AC1C-4EAA-AA36-FBCD3A7D5BEF}|OnlineShoppingApp\\OnlineShoppingApp.csproj|solutionrelative:onlineshoppingapp\\shoppingapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86611B0D-B5F0-4060-BFB3-B7919E05FB64}|OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj|c:\\users\\vc\\documents\\projects\\day-12(online shopping remaining)\\onlineshoppingsln\\onlineshoppingunittest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86611B0D-B5F0-4060-BFB3-B7919E05FB64}|OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj|solutionrelative:onlineshoppingunittest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93200261-AC1C-4EAA-AA36-FBCD3A7D5BEF}|OnlineShoppingApp\\OnlineShoppingApp.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingapp\\shoppingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93200261-AC1C-4EAA-AA36-FBCD3A7D5BEF}|OnlineShoppingApp\\OnlineShoppingApp.csproj|solutionrelative:onlineshoppingapp\\shoppingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93200261-AC1C-4EAA-AA36-FBCD3A7D5BEF}|OnlineShoppingApp\\OnlineShoppingApp.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingapp\\onlineshoppingapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{93200261-AC1C-4EAA-AA36-FBCD3A7D5BEF}|OnlineShoppingApp\\OnlineShoppingApp.csproj|solutionrelative:onlineshoppingapp\\onlineshoppingapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93200261-AC1C-4EAA-AA36-FBCD3A7D5BEF}|OnlineShoppingApp\\OnlineShoppingApp.csproj|c:\\users\\vc\\documents\\projects\\day-11(onlineshoppingapp)\\onlineshoppingsln\\onlineshoppingapp\\onlineshoppingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{93200261-AC1C-4EAA-AA36-FBCD3A7D5BEF}|OnlineShoppingApp\\OnlineShoppingApp.csproj|solutionrelative:onlineshoppingapp\\onlineshoppingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BEC3E83F-B027-4E78-B665-BA15A43E69B7}|OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-12(online shopping remaining)\\onlineshoppingsln\\onlineshoppingmodellibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC3E83F-B027-4E78-B665-BA15A43E69B7}|OnlineShoppingModelLibrary\\OnlineShoppingModelLibrary.csproj|solutionrelative:onlineshoppingmodellibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OnlineShoppingApp",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingApp\\OnlineShoppingApp.csproj",
-              "RelativeDocumentMoniker": "OnlineShoppingApp\\OnlineShoppingApp.csproj",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingApp\\OnlineShoppingApp.csproj",
-              "RelativeToolTip": "OnlineShoppingApp\\OnlineShoppingApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-25T16:55:11.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OnlineShoppingApp",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingApp\\OnlineShoppingApp.csproj",
-              "RelativeDocumentMoniker": "OnlineShoppingApp\\OnlineShoppingApp.csproj",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingApp\\OnlineShoppingApp.csproj",
-              "RelativeToolTip": "OnlineShoppingApp\\OnlineShoppingApp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-25T16:58:10.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShoppingManager.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingApp\\ShoppingManager.cs",
-              "RelativeDocumentMoniker": "OnlineShoppingApp\\ShoppingManager.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingApp\\ShoppingManager.cs",
-              "RelativeToolTip": "OnlineShoppingApp\\ShoppingManager.cs",
-              "ViewState": "AQIAAKYAAAAAAAAAAAAuwKgAAAAGAAAA",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingModelLibrary\\Product.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingModelLibrary\\Product.cs",
+              "RelativeToolTip": "OnlineShoppingModelLibrary\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T16:26:08.718Z",
+              "WhenOpened": "2024-04-26T13:23:47.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ShoppingApp.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingApp\\ShoppingApp.cs",
-              "RelativeDocumentMoniker": "OnlineShoppingApp\\ShoppingApp.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingApp\\ShoppingApp.cs",
-              "RelativeToolTip": "OnlineShoppingApp\\ShoppingApp.cs",
-              "ViewState": "AQIAAOUAAAAAAAAAAAAQwJkAAAAxAAAA",
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingUnitTest\\ProductTest.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingUnitTest\\ProductTest.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingUnitTest\\ProductTest.cs",
+              "RelativeToolTip": "OnlineShoppingUnitTest\\ProductTest.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T16:26:07.662Z",
+              "WhenOpened": "2024-04-26T13:18:35.818Z",
               "EditorCaption": ""
             }
           ]

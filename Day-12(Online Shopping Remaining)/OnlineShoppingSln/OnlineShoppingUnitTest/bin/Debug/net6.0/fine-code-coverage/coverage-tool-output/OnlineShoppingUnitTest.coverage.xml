@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.28859999999999997" branch-rate="0.1666" version="1.9" timestamp="1714061882" lines-covered="153" lines-valid="530" branches-covered="8" branches-valid="48">
+<coverage line-rate="0.3483" branch-rate="0.26" version="1.9" timestamp="1714138241" lines-covered="193" lines-valid="554" branches-covered="13" branches-valid="50">
   <sources>
     <source>C:\Users\VC\</source>
   </sources>
   <packages>
-    <package name="OnlineShoppingBLLibrary" line-rate="0.17350000000000002" branch-rate="0" complexity="33">
+    <package name="OnlineShoppingBLLibrary" line-rate="0.2328" branch-rate="0" complexity="33">
       <classes>
-        <class name="OnlineShoppingBLLibrary.CartBL" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\CartBL.cs" line-rate="0.204" branch-rate="0" complexity="7">
+        <class name="OnlineShoppingBLLibrary.CartBL" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\CartBL.cs" line-rate="0.204" branch-rate="0" complexity="7">
           <methods>
             <method name="AddCart" signature="(OnlineShoppingModelLibrary.Cart)" line-rate="0.6666" branch-rate="1" complexity="1">
               <lines>
@@ -142,7 +142,7 @@
             <line number="20" hits="7" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingBLLibrary.CartItemBL" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\CartItemBL.cs" line-rate="0" branch-rate="0" complexity="12">
+        <class name="OnlineShoppingBLLibrary.CartItemBL" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\CartItemBL.cs" line-rate="0" branch-rate="0" complexity="12">
           <methods>
             <method name="AddCartItem" signature="(OnlineShoppingBLLibrary.ProductBL,System.Int32,System.Int32,OnlineShoppingModelLibrary.Customer,OnlineShoppingBLLibrary.CartBL)" line-rate="0" branch-rate="0" complexity="8">
               <lines>
@@ -334,9 +334,9 @@
             <line number="21" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingBLLibrary.CustomerBL" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\CustomerBL.cs" line-rate="0.4827" branch-rate="0" complexity="8">
+        <class name="OnlineShoppingBLLibrary.CustomerBL" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\CustomerBL.cs" line-rate="0.431" branch-rate="0" complexity="8">
           <methods>
-            <method name="AddCustomer" signature="(OnlineShoppingModelLibrary.Customer,OnlineShoppingBLLibrary.CartBL)" line-rate="1" branch-rate="1" complexity="1">
+            <method name="AddCustomer" signature="(OnlineShoppingModelLibrary.Customer,OnlineShoppingBLLibrary.CartBL)" line-rate="0.7692" branch-rate="1" complexity="1">
               <lines>
                 <line number="17" hits="17" branch="False" />
                 <line number="19" hits="17" branch="False" />
@@ -346,11 +346,11 @@
                 <line number="23" hits="17" branch="False" />
                 <line number="24" hits="17" branch="False" />
                 <line number="25" hits="17" branch="False" />
-                <line number="26" hits="15" branch="False" />
-                <line number="29" hits="2" branch="False" />
-                <line number="30" hits="2" branch="False" />
-                <line number="31" hits="2" branch="False" />
-                <line number="34" hits="15" branch="False" />
+                <line number="26" hits="17" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="34" hits="17" branch="False" />
               </lines>
             </method>
             <method name="FindCustomerById" signature="(System.Int32)" line-rate="0.75" branch-rate="1" complexity="1">
@@ -436,11 +436,11 @@
             <line number="23" hits="17" branch="False" />
             <line number="24" hits="17" branch="False" />
             <line number="25" hits="17" branch="False" />
-            <line number="26" hits="15" branch="False" />
-            <line number="29" hits="2" branch="False" />
-            <line number="30" hits="2" branch="False" />
-            <line number="31" hits="2" branch="False" />
-            <line number="34" hits="15" branch="False" />
+            <line number="26" hits="17" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="34" hits="17" branch="False" />
             <line number="36" hits="3" branch="False" />
             <line number="38" hits="3" branch="False" />
             <line number="39" hits="3" branch="False" />
@@ -492,30 +492,30 @@
             <line number="15" hits="7" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingBLLibrary.ProductBL" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\ProductBL.cs" line-rate="0" branch-rate="1" complexity="6">
+        <class name="OnlineShoppingBLLibrary.ProductBL" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\ProductBL.cs" line-rate="0.3555" branch-rate="1" complexity="6">
           <methods>
-            <method name="AddProduct" signature="(OnlineShoppingModelLibrary.Product)" line-rate="0" branch-rate="1" complexity="1">
+            <method name="AddProduct" signature="(OnlineShoppingModelLibrary.Product)" line-rate="0.6666" branch-rate="1" complexity="1">
               <lines>
-                <line number="22" hits="0" branch="False" />
-                <line number="24" hits="0" branch="False" />
-                <line number="25" hits="0" branch="False" />
-                <line number="26" hits="0" branch="False" />
-                <line number="27" hits="0" branch="False" />
+                <line number="22" hits="9" branch="False" />
+                <line number="24" hits="9" branch="False" />
+                <line number="25" hits="9" branch="False" />
+                <line number="26" hits="9" branch="False" />
+                <line number="27" hits="9" branch="False" />
                 <line number="30" hits="0" branch="False" />
                 <line number="31" hits="0" branch="False" />
                 <line number="32" hits="0" branch="False" />
-                <line number="35" hits="0" branch="False" />
+                <line number="35" hits="9" branch="False" />
               </lines>
             </method>
-            <method name="FindProductById" signature="(System.Int32)" line-rate="0" branch-rate="1" complexity="1">
+            <method name="FindProductById" signature="(System.Int32)" line-rate="0.75" branch-rate="1" complexity="1">
               <lines>
-                <line number="37" hits="0" branch="False" />
-                <line number="39" hits="0" branch="False" />
-                <line number="40" hits="0" branch="False" />
+                <line number="37" hits="3" branch="False" />
+                <line number="39" hits="3" branch="False" />
+                <line number="40" hits="3" branch="False" />
                 <line number="41" hits="0" branch="False" />
-                <line number="44" hits="0" branch="False" />
-                <line number="45" hits="0" branch="False" />
-                <line number="46" hits="0" branch="False" />
+                <line number="44" hits="3" branch="False" />
+                <line number="45" hits="3" branch="False" />
+                <line number="46" hits="3" branch="False" />
                 <line number="50" hits="0" branch="False" />
               </lines>
             </method>
@@ -555,32 +555,32 @@
                 <line number="99" hits="0" branch="False" />
               </lines>
             </method>
-            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="16" hits="0" branch="False" />
-                <line number="17" hits="0" branch="False" />
-                <line number="18" hits="0" branch="False" />
-                <line number="20" hits="0" branch="False" />
+                <line number="16" hits="4" branch="False" />
+                <line number="17" hits="4" branch="False" />
+                <line number="18" hits="4" branch="False" />
+                <line number="20" hits="4" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="22" hits="0" branch="False" />
-            <line number="24" hits="0" branch="False" />
-            <line number="25" hits="0" branch="False" />
-            <line number="26" hits="0" branch="False" />
-            <line number="27" hits="0" branch="False" />
+            <line number="22" hits="9" branch="False" />
+            <line number="24" hits="9" branch="False" />
+            <line number="25" hits="9" branch="False" />
+            <line number="26" hits="9" branch="False" />
+            <line number="27" hits="9" branch="False" />
             <line number="30" hits="0" branch="False" />
             <line number="31" hits="0" branch="False" />
             <line number="32" hits="0" branch="False" />
-            <line number="35" hits="0" branch="False" />
-            <line number="37" hits="0" branch="False" />
-            <line number="39" hits="0" branch="False" />
-            <line number="40" hits="0" branch="False" />
+            <line number="35" hits="9" branch="False" />
+            <line number="37" hits="3" branch="False" />
+            <line number="39" hits="3" branch="False" />
+            <line number="40" hits="3" branch="False" />
             <line number="41" hits="0" branch="False" />
-            <line number="44" hits="0" branch="False" />
-            <line number="45" hits="0" branch="False" />
-            <line number="46" hits="0" branch="False" />
+            <line number="44" hits="3" branch="False" />
+            <line number="45" hits="3" branch="False" />
+            <line number="46" hits="3" branch="False" />
             <line number="50" hits="0" branch="False" />
             <line number="52" hits="0" branch="False" />
             <line number="54" hits="0" branch="False" />
@@ -606,31 +606,32 @@
             <line number="89" hits="0" branch="False" />
             <line number="90" hits="0" branch="False" />
             <line number="99" hits="0" branch="False" />
-            <line number="16" hits="0" branch="False" />
-            <line number="17" hits="0" branch="False" />
-            <line number="18" hits="0" branch="False" />
-            <line number="20" hits="0" branch="False" />
+            <line number="16" hits="4" branch="False" />
+            <line number="17" hits="4" branch="False" />
+            <line number="18" hits="4" branch="False" />
+            <line number="20" hits="4" branch="False" />
           </lines>
         </class>
       </classes>
     </package>
-    <package name="OnlineShoppingDALLibrary" line-rate="0.18600000000000003" branch-rate="0.22219999999999998" complexity="36">
+    <package name="OnlineShoppingDALLibrary" line-rate="0.2325" branch-rate="0.3421" complexity="38">
       <classes>
-        <class name="OnlineShoppingDALLibrary.AbstractRepository`2" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingDALLibrary\AbstractRepository.cs" line-rate="0.76" branch-rate="0.5832999999999999" complexity="12">
+        <class name="OnlineShoppingDALLibrary.AbstractRepository`2" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\AbstractRepository.cs" line-rate="0.8" branch-rate="0.7857" complexity="14">
           <methods>
-            <method name="Add" signature="(T)" line-rate="1" branch-rate="1" complexity="2">
+            <method name="Add" signature="(T)" line-rate="0.7142000000000001" branch-rate="0.75" complexity="4">
               <lines>
-                <line number="29" hits="34" branch="False" />
-                <line number="30" hits="34" branch="True" condition-coverage="100% (2/2)">
+                <line number="29" hits="43" branch="False" />
+                <line number="30" hits="43" branch="True" condition-coverage="75% (3/4)">
                   <conditions>
-                    <condition number="15" type="jump" coverage="100%" />
+                    <condition number="13" type="jump" coverage="100%" />
+                    <condition number="29" type="jump" coverage="50%" />
                   </conditions>
                 </line>
-                <line number="31" hits="2" branch="False" />
-                <line number="32" hits="2" branch="False" />
-                <line number="35" hits="32" branch="False" />
-                <line number="36" hits="32" branch="False" />
-                <line number="37" hits="32" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="35" hits="43" branch="False" />
+                <line number="36" hits="43" branch="False" />
+                <line number="37" hits="43" branch="False" />
               </lines>
             </method>
             <method name="GetAll" signature="()" line-rate="0.6666" branch-rate="0.5" complexity="2">
@@ -647,51 +648,52 @@
                 <line number="45" hits="1" branch="False" />
               </lines>
             </method>
-            <method name=".ctor" signature="()" line-rate="0.6666" branch-rate="0.5" complexity="8">
+            <method name=".ctor" signature="()" line-rate="0.9166" branch-rate="0.875" complexity="8">
               <lines>
-                <line number="14" hits="14" branch="False" />
-                <line number="15" hits="14" branch="False" />
-                <line number="18" hits="28" branch="False" />
-                <line number="19" hits="14" branch="True" condition-coverage="100% (2/2)">
+                <line number="14" hits="18" branch="False" />
+                <line number="15" hits="18" branch="False" />
+                <line number="18" hits="36" branch="False" />
+                <line number="19" hits="18" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
                     <condition number="57" type="jump" coverage="100%" />
                   </conditions>
                 </line>
                 <line number="20" hits="7" branch="False" />
-                <line number="21" hits="7" branch="True" condition-coverage="50% (1/2)">
+                <line number="21" hits="11" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
-                    <condition number="99" type="jump" coverage="50%" />
+                    <condition number="99" type="jump" coverage="100%" />
                   </conditions>
                 </line>
                 <line number="22" hits="7" branch="False" />
-                <line number="23" hits="0" branch="True" condition-coverage="0% (0/2)">
+                <line number="23" hits="4" branch="True" condition-coverage="50% (1/2)">
                   <conditions>
-                    <condition number="141" type="jump" coverage="0%" />
+                    <condition number="141" type="jump" coverage="50%" />
                   </conditions>
                 </line>
                 <line number="24" hits="0" branch="False" />
-                <line number="25" hits="0" branch="True" condition-coverage="50% (1/2)">
+                <line number="25" hits="4" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
-                    <condition number="183" type="jump" coverage="50%" />
+                    <condition number="183" type="jump" coverage="100%" />
                   </conditions>
                 </line>
-                <line number="26" hits="0" branch="False" />
-                <line number="27" hits="14" branch="False" />
+                <line number="26" hits="4" branch="False" />
+                <line number="27" hits="18" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="29" hits="34" branch="False" />
-            <line number="30" hits="34" branch="True" condition-coverage="100% (2/2)">
+            <line number="29" hits="43" branch="False" />
+            <line number="30" hits="43" branch="True" condition-coverage="75% (3/4)">
               <conditions>
-                <condition number="15" type="jump" coverage="100%" />
+                <condition number="13" type="jump" coverage="100%" />
+                <condition number="29" type="jump" coverage="50%" />
               </conditions>
             </line>
-            <line number="31" hits="2" branch="False" />
-            <line number="32" hits="2" branch="False" />
-            <line number="35" hits="32" branch="False" />
-            <line number="36" hits="32" branch="False" />
-            <line number="37" hits="32" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="35" hits="43" branch="False" />
+            <line number="36" hits="43" branch="False" />
+            <line number="37" hits="43" branch="False" />
             <line number="39" hits="1" branch="False" />
             <line number="40" hits="1" branch="True" condition-coverage="50% (1/2)">
               <conditions>
@@ -702,37 +704,37 @@
             <line number="42" hits="0" branch="False" />
             <line number="44" hits="1" branch="False" />
             <line number="45" hits="1" branch="False" />
-            <line number="14" hits="14" branch="False" />
-            <line number="15" hits="14" branch="False" />
-            <line number="18" hits="28" branch="False" />
-            <line number="19" hits="14" branch="True" condition-coverage="100% (2/2)">
+            <line number="14" hits="18" branch="False" />
+            <line number="15" hits="18" branch="False" />
+            <line number="18" hits="36" branch="False" />
+            <line number="19" hits="18" branch="True" condition-coverage="100% (2/2)">
               <conditions>
                 <condition number="57" type="jump" coverage="100%" />
               </conditions>
             </line>
             <line number="20" hits="7" branch="False" />
-            <line number="21" hits="7" branch="True" condition-coverage="50% (1/2)">
+            <line number="21" hits="11" branch="True" condition-coverage="100% (2/2)">
               <conditions>
-                <condition number="99" type="jump" coverage="50%" />
+                <condition number="99" type="jump" coverage="100%" />
               </conditions>
             </line>
             <line number="22" hits="7" branch="False" />
-            <line number="23" hits="0" branch="True" condition-coverage="0% (0/2)">
+            <line number="23" hits="4" branch="True" condition-coverage="50% (1/2)">
               <conditions>
-                <condition number="141" type="jump" coverage="0%" />
+                <condition number="141" type="jump" coverage="50%" />
               </conditions>
             </line>
             <line number="24" hits="0" branch="False" />
-            <line number="25" hits="0" branch="True" condition-coverage="50% (1/2)">
+            <line number="25" hits="4" branch="True" condition-coverage="100% (2/2)">
               <conditions>
-                <condition number="183" type="jump" coverage="50%" />
+                <condition number="183" type="jump" coverage="100%" />
               </conditions>
             </line>
-            <line number="26" hits="0" branch="False" />
-            <line number="27" hits="14" branch="False" />
+            <line number="26" hits="4" branch="False" />
+            <line number="27" hits="18" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingDALLibrary.CartItemRepository" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingDALLibrary\CartItemRepository.cs" line-rate="0" branch-rate="0" complexity="6">
+        <class name="OnlineShoppingDALLibrary.CartItemRepository" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\CartItemRepository.cs" line-rate="0" branch-rate="0" complexity="6">
           <methods>
             <method name="Delete" signature="(System.Int32)" line-rate="0" branch-rate="0" complexity="2">
               <lines>
@@ -826,7 +828,7 @@
             <line number="48" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingDALLibrary.CartRepository" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingDALLibrary\CartRepository.cs" line-rate="0" branch-rate="0" complexity="6">
+        <class name="OnlineShoppingDALLibrary.CartRepository" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\CartRepository.cs" line-rate="0" branch-rate="0" complexity="6">
           <methods>
             <method name="Delete" signature="(System.Int32)" line-rate="0" branch-rate="0" complexity="2">
               <lines>
@@ -920,7 +922,7 @@
             <line number="48" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingDALLibrary.CustomerRepository" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingDALLibrary\CustomerRepository.cs" line-rate="0.1923" branch-rate="0.1666" complexity="6">
+        <class name="OnlineShoppingDALLibrary.CustomerRepository" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\CustomerRepository.cs" line-rate="0.1923" branch-rate="0.1666" complexity="6">
           <methods>
             <method name="Delete" signature="(System.Int32)" line-rate="0" branch-rate="0" complexity="2">
               <lines>
@@ -1014,7 +1016,7 @@
             <line number="43" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingDALLibrary.ProductRepository" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingDALLibrary\ProductRepository.cs" line-rate="0" branch-rate="0" complexity="6">
+        <class name="OnlineShoppingDALLibrary.ProductRepository" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\ProductRepository.cs" line-rate="0.1923" branch-rate="0.1666" complexity="6">
           <methods>
             <method name="Delete" signature="(System.Int32)" line-rate="0" branch-rate="0" complexity="2">
               <lines>
@@ -1032,19 +1034,19 @@
                 <line number="21" hits="0" branch="False" />
               </lines>
             </method>
-            <method name="GetByKey" signature="(System.Int32)" line-rate="0" branch-rate="0" complexity="2">
+            <method name="GetByKey" signature="(System.Int32)" line-rate="0.625" branch-rate="0.5" complexity="2">
               <lines>
-                <line number="24" hits="0" branch="False" />
-                <line number="25" hits="0" branch="False" />
-                <line number="27" hits="0" branch="False" />
-                <line number="28" hits="0" branch="True" condition-coverage="0% (0/2)">
+                <line number="24" hits="3" branch="False" />
+                <line number="25" hits="9" branch="False" />
+                <line number="27" hits="3" branch="False" />
+                <line number="28" hits="3" branch="True" condition-coverage="50% (1/2)">
                   <conditions>
-                    <condition number="51" type="jump" coverage="0%" />
+                    <condition number="51" type="jump" coverage="50%" />
                   </conditions>
                 </line>
                 <line number="29" hits="0" branch="False" />
                 <line number="30" hits="0" branch="False" />
-                <line number="32" hits="0" branch="False" />
+                <line number="32" hits="3" branch="False" />
                 <line number="34" hits="0" branch="False" />
               </lines>
             </method>
@@ -1080,17 +1082,17 @@
             <line number="19" hits="0" branch="False" />
             <line number="20" hits="0" branch="False" />
             <line number="21" hits="0" branch="False" />
-            <line number="24" hits="0" branch="False" />
-            <line number="25" hits="0" branch="False" />
-            <line number="27" hits="0" branch="False" />
-            <line number="28" hits="0" branch="True" condition-coverage="0% (0/2)">
+            <line number="24" hits="3" branch="False" />
+            <line number="25" hits="9" branch="False" />
+            <line number="27" hits="3" branch="False" />
+            <line number="28" hits="3" branch="True" condition-coverage="50% (1/2)">
               <conditions>
-                <condition number="51" type="jump" coverage="0%" />
+                <condition number="51" type="jump" coverage="50%" />
               </conditions>
             </line>
             <line number="29" hits="0" branch="False" />
             <line number="30" hits="0" branch="False" />
-            <line number="32" hits="0" branch="False" />
+            <line number="32" hits="3" branch="False" />
             <line number="34" hits="0" branch="False" />
             <line number="37" hits="0" branch="False" />
             <line number="39" hits="0" branch="False" />
@@ -1110,9 +1112,9 @@
         </class>
       </classes>
     </package>
-    <package name="OnlineShoppingModelLibrary" line-rate="0.2767" branch-rate="1" complexity="44">
+    <package name="OnlineShoppingModelLibrary" line-rate="0.33030000000000004" branch-rate="1" complexity="44">
       <classes>
-        <class name="OnlineShoppingModelLibrary.Cart" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingModelLibrary\Cart.cs" line-rate="0.875" branch-rate="1" complexity="5">
+        <class name="OnlineShoppingModelLibrary.Cart" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingModelLibrary\Cart.cs" line-rate="0.875" branch-rate="1" complexity="5">
           <methods>
             <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1154,7 +1156,7 @@
             <line number="21" hits="17" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingModelLibrary.CartItem" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingModelLibrary\CartItem.cs" line-rate="0" branch-rate="1" complexity="11">
+        <class name="OnlineShoppingModelLibrary.CartItem" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingModelLibrary\CartItem.cs" line-rate="0" branch-rate="1" complexity="11">
           <methods>
             <method name="get_CartId" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -1260,7 +1262,7 @@
             <line number="36" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingModelLibrary.Customer" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingModelLibrary\Customer.cs" line-rate="0.7368000000000001" branch-rate="1" complexity="8">
+        <class name="OnlineShoppingModelLibrary.Customer" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingModelLibrary\Customer.cs" line-rate="0.7368000000000001" branch-rate="1" complexity="8">
           <methods>
             <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1336,31 +1338,31 @@
             <line number="24" hits="17" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingModelLibrary.Product" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingModelLibrary\Product.cs" line-rate="0" branch-rate="1" complexity="10">
+        <class name="OnlineShoppingModelLibrary.Product" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingModelLibrary\Product.cs" line-rate="0.34369999999999995" branch-rate="1" complexity="10">
           <methods>
-            <method name="get_Id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="5" hits="0" branch="False" />
+                <line number="5" hits="16" branch="False" />
               </lines>
             </method>
-            <method name="get_Price" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name="get_Price" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="6" hits="0" branch="False" />
+                <line number="6" hits="9" branch="False" />
               </lines>
             </method>
-            <method name="get_Name" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name="get_Name" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="7" hits="0" branch="False" />
+                <line number="7" hits="30" branch="False" />
               </lines>
             </method>
-            <method name="get_Image" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name="get_Image" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="8" hits="0" branch="False" />
+                <line number="8" hits="9" branch="False" />
               </lines>
             </method>
-            <method name="get_QuantityInHand" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name="get_QuantityInHand" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="9" hits="0" branch="False" />
+                <line number="9" hits="9" branch="False" />
               </lines>
             </method>
             <method name="ToString" signature="()" line-rate="0" branch-rate="1" complexity="1">
@@ -1373,18 +1375,18 @@
                 <line number="16" hits="0" branch="False" />
               </lines>
             </method>
-            <method name="Equals" signature="(OnlineShoppingModelLibrary.Product)" line-rate="0" branch-rate="1" complexity="1">
+            <method name="Equals" signature="(OnlineShoppingModelLibrary.Product)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="19" hits="0" branch="False" />
-                <line number="20" hits="0" branch="False" />
-                <line number="21" hits="0" branch="False" />
+                <line number="19" hits="6" branch="False" />
+                <line number="20" hits="6" branch="False" />
+                <line number="21" hits="6" branch="False" />
               </lines>
             </method>
-            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="23" hits="0" branch="False" />
-                <line number="24" hits="0" branch="False" />
-                <line number="26" hits="0" branch="False" />
+                <line number="23" hits="9" branch="False" />
+                <line number="24" hits="9" branch="False" />
+                <line number="26" hits="9" branch="False" />
               </lines>
             </method>
             <method name=".ctor" signature="(System.Int32,System.Double,System.String,System.Int32)" line-rate="0" branch-rate="1" complexity="1">
@@ -1412,23 +1414,23 @@
             </method>
           </methods>
           <lines>
-            <line number="5" hits="0" branch="False" />
-            <line number="6" hits="0" branch="False" />
-            <line number="7" hits="0" branch="False" />
-            <line number="8" hits="0" branch="False" />
-            <line number="9" hits="0" branch="False" />
+            <line number="5" hits="16" branch="False" />
+            <line number="6" hits="9" branch="False" />
+            <line number="7" hits="30" branch="False" />
+            <line number="8" hits="9" branch="False" />
+            <line number="9" hits="9" branch="False" />
             <line number="11" hits="0" branch="False" />
             <line number="12" hits="0" branch="False" />
             <line number="13" hits="0" branch="False" />
             <line number="14" hits="0" branch="False" />
             <line number="15" hits="0" branch="False" />
             <line number="16" hits="0" branch="False" />
-            <line number="19" hits="0" branch="False" />
-            <line number="20" hits="0" branch="False" />
-            <line number="21" hits="0" branch="False" />
-            <line number="23" hits="0" branch="False" />
-            <line number="24" hits="0" branch="False" />
-            <line number="26" hits="0" branch="False" />
+            <line number="19" hits="6" branch="False" />
+            <line number="20" hits="6" branch="False" />
+            <line number="21" hits="6" branch="False" />
+            <line number="23" hits="9" branch="False" />
+            <line number="24" hits="9" branch="False" />
+            <line number="26" hits="9" branch="False" />
             <line number="27" hits="0" branch="False" />
             <line number="28" hits="0" branch="False" />
             <line number="29" hits="0" branch="False" />
@@ -1446,7 +1448,7 @@
             <line number="41" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingModelLibrary.CustomException.BoundryLimiExceedException" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\BoundryLimiExceedException.cs" line-rate="0" branch-rate="1" complexity="2">
+        <class name="OnlineShoppingModelLibrary.CustomException.BoundryLimiExceedException" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\BoundryLimiExceedException.cs" line-rate="0" branch-rate="1" complexity="2">
           <methods>
             <method name="get_Message" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -1470,7 +1472,7 @@
             <line number="15" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingModelLibrary.CustomException.DatabaseEmptyException" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\DatabaseEmptyException.cs" line-rate="0" branch-rate="1" complexity="2">
+        <class name="OnlineShoppingModelLibrary.CustomException.DatabaseEmptyException" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\DatabaseEmptyException.cs" line-rate="0" branch-rate="1" complexity="2">
           <methods>
             <method name="get_Message" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -1494,55 +1496,55 @@
             <line number="15" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingModelLibrary.CustomException.DuplicateValueFoundException" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\DuplicateValueFoundException.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="OnlineShoppingModelLibrary.CustomException.DuplicateValueFoundException" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\DuplicateValueFoundException.cs" line-rate="0" branch-rate="1" complexity="2">
           <methods>
-            <method name="get_Message" signature="()" line-rate="1" branch-rate="1" complexity="1">
+            <method name="get_Message" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
-                <line number="16" hits="1" branch="False" />
+                <line number="16" hits="0" branch="False" />
               </lines>
             </method>
-            <method name=".ctor" signature="(System.String)" line-rate="1" branch-rate="1" complexity="1">
+            <method name=".ctor" signature="(System.String)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
-                <line number="12" hits="2" branch="False" />
-                <line number="13" hits="2" branch="False" />
-                <line number="14" hits="2" branch="False" />
-                <line number="15" hits="2" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="16" hits="1" branch="False" />
-            <line number="12" hits="2" branch="False" />
-            <line number="13" hits="2" branch="False" />
-            <line number="14" hits="2" branch="False" />
-            <line number="15" hits="2" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingModelLibrary.CustomException.NoDataWithGiveIdException" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\NoDataWithGivenIdException.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="OnlineShoppingModelLibrary.CustomException.NoDataWithGiveIdException" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\NoDataWithGivenIdException.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="get_Message" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="16" hits="5" branch="False" />
+                <line number="16" hits="10" branch="False" />
               </lines>
             </method>
             <method name=".ctor" signature="(System.String)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="12" hits="6" branch="False" />
-                <line number="13" hits="6" branch="False" />
-                <line number="14" hits="6" branch="False" />
-                <line number="15" hits="6" branch="False" />
+                <line number="12" hits="12" branch="False" />
+                <line number="13" hits="12" branch="False" />
+                <line number="14" hits="12" branch="False" />
+                <line number="15" hits="12" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="16" hits="5" branch="False" />
-            <line number="12" hits="6" branch="False" />
-            <line number="13" hits="6" branch="False" />
-            <line number="14" hits="6" branch="False" />
-            <line number="15" hits="6" branch="False" />
+            <line number="16" hits="10" branch="False" />
+            <line number="12" hits="12" branch="False" />
+            <line number="13" hits="12" branch="False" />
+            <line number="14" hits="12" branch="False" />
+            <line number="15" hits="12" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingModelLibrary.CustomException.OutOfStockException" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\OutOfStockException.cs" line-rate="0" branch-rate="1" complexity="2">
+        <class name="OnlineShoppingModelLibrary.CustomException.OutOfStockException" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingModelLibrary\CustomException\OutOfStockException.cs" line-rate="0" branch-rate="1" complexity="2">
           <methods>
             <method name="get_Message" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -1568,7 +1570,7 @@
         </class>
       </classes>
     </package>
-    <package name="OnlineShoppingUnitTest" line-rate="0.8571" branch-rate="1" complexity="9">
+    <package name="OnlineShoppingUnitTest" line-rate="0.7978000000000001" branch-rate="1" complexity="14">
       <classes>
         <class name="AutoGeneratedProgram" filename=".nuget\packages\microsoft.net.test.sdk\17.5.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -1582,7 +1584,81 @@
             <line number="4" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="OnlineShoppingUnitTest.Tests" filename="Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingUnitTest\UnitTest1.cs" line-rate="0.8695" branch-rate="1" complexity="8">
+        <class name="OnlineShoppingUnitTest.ProductTest" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingUnitTest\ProductTest.cs" line-rate="0.75" branch-rate="1" complexity="5">
+          <methods>
+            <method name="Setup" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="4" branch="False" />
+                <line number="19" hits="4" branch="False" />
+                <line number="20" hits="4" branch="False" />
+                <line number="21" hits="4" branch="False" />
+                <line number="24" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="AddProduct" signature="()" line-rate="0.8" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+                <line number="31" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="FindProduct" signature="()" line-rate="0.4" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="1" branch="False" />
+                <line number="34" hits="1" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="FailFindProduct" signature="()" line-rate="0.75" branch-rate="1" complexity="1">
+              <lines>
+                <line number="39" hits="1" branch="False" />
+                <line number="40" hits="2" branch="False" />
+                <line number="41" hits="1" branch="False" />
+                <line number="42" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="ExceptionInFindProduct" signature="()" line-rate="0.8" branch-rate="1" complexity="1">
+              <lines>
+                <line number="46" hits="1" branch="False" />
+                <line number="47" hits="2" branch="False" />
+                <line number="48" hits="1" branch="False" />
+                <line number="49" hits="1" branch="False" />
+                <line number="51" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="4" branch="False" />
+            <line number="19" hits="4" branch="False" />
+            <line number="20" hits="4" branch="False" />
+            <line number="21" hits="4" branch="False" />
+            <line number="24" hits="4" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="40" hits="2" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="42" hits="0" branch="False" />
+            <line number="46" hits="1" branch="False" />
+            <line number="47" hits="2" branch="False" />
+            <line number="48" hits="1" branch="False" />
+            <line number="49" hits="1" branch="False" />
+            <line number="51" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="OnlineShoppingUnitTest.Tests" filename="Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingUnitTest\UnitTest1.cs" line-rate="0.826" branch-rate="1" complexity="8">
           <methods>
             <method name="Setup" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1647,7 +1723,7 @@
                 <line number="70" hits="0" branch="False" />
               </lines>
             </method>
-            <method name="FailAddCustomer" signature="()" line-rate="0.9" branch-rate="1" complexity="1">
+            <method name="FailAddCustomer" signature="()" line-rate="0.8" branch-rate="1" complexity="1">
               <lines>
                 <line number="72" hits="1" branch="False" />
                 <line number="73" hits="1" branch="False" />
@@ -1657,11 +1733,11 @@
                 <line number="77" hits="1" branch="False" />
                 <line number="78" hits="1" branch="False" />
                 <line number="79" hits="2" branch="False" />
-                <line number="80" hits="1" branch="False" />
+                <line number="80" hits="0" branch="False" />
                 <line number="81" hits="0" branch="False" />
               </lines>
             </method>
-            <method name="ExceptionInAddCustomer" signature="()" line-rate="0.909" branch-rate="1" complexity="1">
+            <method name="ExceptionInAddCustomer" signature="()" line-rate="0.7272" branch-rate="1" complexity="1">
               <lines>
                 <line number="84" hits="1" branch="False" />
                 <line number="85" hits="1" branch="False" />
@@ -1671,8 +1747,8 @@
                 <line number="89" hits="1" branch="False" />
                 <line number="90" hits="1" branch="False" />
                 <line number="91" hits="2" branch="False" />
-                <line number="92" hits="1" branch="False" />
-                <line number="93" hits="1" branch="False" />
+                <line number="92" hits="0" branch="False" />
+                <line number="93" hits="0" branch="False" />
                 <line number="95" hits="0" branch="False" />
               </lines>
             </method>
@@ -1738,7 +1814,7 @@
             <line number="77" hits="1" branch="False" />
             <line number="78" hits="1" branch="False" />
             <line number="79" hits="2" branch="False" />
-            <line number="80" hits="1" branch="False" />
+            <line number="80" hits="0" branch="False" />
             <line number="81" hits="0" branch="False" />
             <line number="84" hits="1" branch="False" />
             <line number="85" hits="1" branch="False" />
@@ -1748,8 +1824,8 @@
             <line number="89" hits="1" branch="False" />
             <line number="90" hits="1" branch="False" />
             <line number="91" hits="2" branch="False" />
-            <line number="92" hits="1" branch="False" />
-            <line number="93" hits="1" branch="False" />
+            <line number="92" hits="0" branch="False" />
+            <line number="93" hits="0" branch="False" />
             <line number="95" hits="0" branch="False" />
             <line number="99" hits="1" branch="False" />
             <line number="100" hits="1" branch="False" />

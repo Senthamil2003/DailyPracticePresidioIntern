@@ -49,29 +49,49 @@ namespace OnlineShoppingBLLibrary
             }
 
         }
-        public double Checkout(int customerId, CustomerBL _customer)
+        public double Checkout(int customerId, CustomerBL _customer,ProductBL _product)
         {
-            var result = _customer.FindCustomerById(customerId);
-            var cart = FindCartById(result.CartId);
-
-            var cartItems = cart.CartItems;
-            double sum = 0;
-
-            foreach (CartItem cartItem in cartItems) 
+            try
             {
-                sum += (cartItem.Quantity * cartItem.Price) + cartItem.Quantity * cartItem.DeliveryCharge;
-                
+                var result = _customer.FindCustomerById(customerId);
+                var cart = FindCartById(result.CartId);
+
+                var cartItems = cart.CartItems;
+                double sum = 0;
+
+                foreach (CartItem cartItem in cartItems)
+                {
+                    Product product = _product.FindProductById(cartItem.Product.Id);
+                    if (product.QuantityInHand - cartItem.Quantity > 0)
+                    {
+                        product.QuantityInHand -= cartItem.Quantity;
+                        _product.UpdateProductQuantity(product);
+                        sum += (cartItem.Quantity * cartItem.Price) + cartItem.Quantity * cartItem.DeliveryCharge;
+
+                    }
+                    else
+                    {
+                        throw new BoundryLimiExceedException("Product quantity not in hand");
+                    }
+
+                }
+
+                cart.CartItems.Clear();
+
+                _CartService.Update(cart);
+
+
+
+
+
+                return sum;
+
             }
-
-            cart.CartItems.Clear(); 
-
-            _CartService.Update(cart);
-            
-
-
-
-
-            return sum; 
+            catch
+            {
+                throw;
+            }
+          
         }
 
         public List<Cart> GetAllCart()

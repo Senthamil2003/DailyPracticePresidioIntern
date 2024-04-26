@@ -14,3 +14,19 @@ C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\Onlin
 C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\refint\OnlineShoppingDALLibrary.dll
 C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineShoppingDALLibrary.pdb
 C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\ref\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\bin\Debug\net6.0\OnlineShoppingDALLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\bin\Debug\net6.0\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\bin\Debug\net6.0\OnlineShoppingDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\bin\Debug\net6.0\OnlineShoppingModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\bin\Debug\net6.0\OnlineShoppingModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineShoppingDALLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineShoppingDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineShoppingDALLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineShoppingDALLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineShoppingDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineShoppingDALLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineSh.EBAEE681.Up2Date
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\refint\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\OnlineShoppingDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingDALLibrary\obj\Debug\net6.0\ref\OnlineShoppingDALLibrary.dll

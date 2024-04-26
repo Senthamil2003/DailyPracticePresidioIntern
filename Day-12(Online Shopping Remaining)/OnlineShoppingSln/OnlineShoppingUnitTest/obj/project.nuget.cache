@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R1KG31Nt6az/EWcZPmcR99Uf+ZSOKfnV9n1t9fnf56JoRcq9QRwHcOP8VYX8eM48ia7Ksee78NspnpDYGrJO6w==",
+  "dgSpecHash": "DF9S5TudbvqwAP6FHK+Ephn66xbfBFjtxIbOg5iTyEH2EWXnhnJnvZxH0XMyCSWOqaN7eadj+F0anHcp3EBDEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-11(OnlineShoppingApp)\\OnlineShoppingSln\\OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VC\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\VC\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
