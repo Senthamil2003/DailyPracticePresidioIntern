@@ -1,0 +1,69 @@
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.exe
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.deps.json
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.pdb
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\refint\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.pdb
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\ref\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineSh.B2E8F4C4.Up2Date
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.exe
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.deps.json
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineSh.B2E8F4C4.Up2Date
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\refint\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\ref\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.exe
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.deps.json
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.pdb
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineSh.B2E8F4C4.Up2Date
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\refint\OnlineShoppingApp.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.pdb
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingApp\obj\Debug\net6.0\ref\OnlineShoppingApp.dll

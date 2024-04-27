@@ -1,0 +1,54 @@
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingBLLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineSh.DDB27392.Up2Date
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\refint\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-11(OnlineShoppingApp)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\ref\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingBLLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineSh.DDB27392.Up2Date
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\refint\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-12(Online Shopping Remaining)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\ref\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingBLLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\bin\Debug\net6.0\OnlineShoppingModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineSh.DDB27392.Up2Date
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\refint\OnlineShoppingBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\OnlineShoppingBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-14(Async and Await)\OnlineShoppingSln\OnlineShoppingBLLibrary\obj\Debug\net6.0\ref\OnlineShoppingBLLibrary.dll
