@@ -1,0 +1,15 @@
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\bin\Debug\net6.0\LeetCodeProblemApp.exe
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\bin\Debug\net6.0\LeetCodeProblemApp.deps.json
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\bin\Debug\net6.0\LeetCodeProblemApp.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\bin\Debug\net6.0\LeetCodeProblemApp.dll
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\bin\Debug\net6.0\LeetCodeProblemApp.pdb
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\LeetCodeProblemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\LeetCodeProblemApp.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\LeetCodeProblemApp.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\LeetCodeProblemApp.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\LeetCodeProblemApp.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\LeetCodeProblemApp.dll
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\refint\LeetCodeProblemApp.dll
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\LeetCodeProblemApp.pdb
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\LeetCodeProblemApp.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day-14(Leetcode progrsm)\LeetCodeProblemSln\LeetCodeProblemApp\obj\Debug\net6.0\ref\LeetCodeProblemApp.dll

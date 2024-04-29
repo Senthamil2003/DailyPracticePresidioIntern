@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|c:\\users\\vc\\documents\\projects\\day-14(leetcode progrsm)\\leetcodeproblemsln\\leetcodeproblemapp\\circleinlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|solutionrelative:leetcodeproblemapp\\circleinlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|c:\\users\\vc\\documents\\projects\\day-14(leetcode progrsm)\\leetcodeproblemsln\\leetcodeproblemapp\\findminimumdepth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|solutionrelative:leetcodeproblemapp\\findminimumdepth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|c:\\users\\vc\\documents\\projects\\day-14(leetcode progrsm)\\leetcodeproblemsln\\leetcodeproblemapp\\leetcodeproblemapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|solutionrelative:leetcodeproblemapp\\leetcodeproblemapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|c:\\users\\vc\\documents\\projects\\day-14(leetcode progrsm)\\leetcodeproblemsln\\leetcodeproblemapp\\leetcodeproblemapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|solutionrelative:leetcodeproblemapp\\leetcodeproblemapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|c:\\users\\vc\\documents\\projects\\day-14(leetcode progrsm)\\leetcodeproblemsln\\leetcodeproblemapp\\excelsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB1A1AE-DA65-45D4-9ED1-875DCCC0BD78}|LeetCodeProblemApp\\LeetCodeProblemApp.csproj|solutionrelative:leetcodeproblemapp\\excelsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeetCodeProblemApp",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\LeetCodeProblemApp.csproj",
+              "RelativeDocumentMoniker": "LeetCodeProblemApp\\LeetCodeProblemApp.csproj",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\LeetCodeProblemApp.csproj",
+              "RelativeToolTip": "LeetCodeProblemApp\\LeetCodeProblemApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T14:12:03.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeetCodeProblemApp.csproj",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\LeetCodeProblemApp.csproj",
+              "RelativeDocumentMoniker": "LeetCodeProblemApp\\LeetCodeProblemApp.csproj",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\LeetCodeProblemApp.csproj",
+              "RelativeToolTip": "LeetCodeProblemApp\\LeetCodeProblemApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T14:11:59.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CircleInLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\CircleInLinkedList.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblemApp\\CircleInLinkedList.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\CircleInLinkedList.cs",
+              "RelativeToolTip": "LeetCodeProblemApp\\CircleInLinkedList.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswD0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:52:47.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelSheet.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\ExcelSheet.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblemApp\\ExcelSheet.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\ExcelSheet.cs",
+              "RelativeToolTip": "LeetCodeProblemApp\\ExcelSheet.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:28:20.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindMinimumDepth.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\FindMinimumDepth.cs",
+              "RelativeDocumentMoniker": "LeetCodeProblemApp\\FindMinimumDepth.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-14(Leetcode progrsm)\\LeetCodeProblemSln\\LeetCodeProblemApp\\FindMinimumDepth.cs",
+              "RelativeToolTip": "LeetCodeProblemApp\\FindMinimumDepth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:18:49.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
