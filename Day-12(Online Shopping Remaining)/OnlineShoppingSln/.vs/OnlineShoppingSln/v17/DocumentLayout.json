@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86611B0D-B5F0-4060-BFB3-B7919E05FB64}|OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj|c:\\users\\vc\\documents\\projects\\day-12(online shopping remaining)\\onlineshoppingsln\\onlineshoppingunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86611B0D-B5F0-4060-BFB3-B7919E05FB64}|OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj|solutionrelative:onlineshoppingunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F320608-3C2B-478E-99C8-7AE045877553}|OnlineShoppingDALLibrary\\OnlineShoppingDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-12(online shopping remaining)\\onlineshoppingsln\\onlineshoppingdallibrary\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F320608-3C2B-478E-99C8-7AE045877553}|OnlineShoppingDALLibrary\\OnlineShoppingDALLibrary.csproj|solutionrelative:onlineshoppingdallibrary\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F320608-3C2B-478E-99C8-7AE045877553}|OnlineShoppingDALLibrary\\OnlineShoppingDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-12(online shopping remaining)\\onlineshoppingsln\\onlineshoppingdallibrary\\abstractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F320608-3C2B-478E-99C8-7AE045877553}|OnlineShoppingDALLibrary\\OnlineShoppingDALLibrary.csproj|solutionrelative:onlineshoppingdallibrary\\abstractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86611B0D-B5F0-4060-BFB3-B7919E05FB64}|OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj|c:\\users\\vc\\documents\\projects\\day-12(online shopping remaining)\\onlineshoppingsln\\onlineshoppingunittest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{86611B0D-B5F0-4060-BFB3-B7919E05FB64}|OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj|c:\\users\\vc\\documents\\projects\\day-12(online shopping remaining)\\onlineshoppingsln\\onlineshoppingunittest\\carttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86611B0D-B5F0-4060-BFB3-B7919E05FB64}|OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj|solutionrelative:onlineshoppingunittest\\carttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86611B0D-B5F0-4060-BFB3-B7919E05FB64}|OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj|c:\\users\\vc\\documents\\projects\\day-12(online shopping remaining)\\onlineshoppingsln\\onlineshoppingunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86611B0D-B5F0-4060-BFB3-B7919E05FB64}|OnlineShoppingUnitTest\\OnlineShoppingUnitTest.csproj|solutionrelative:onlineshoppingunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +35,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingDALLibrary\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingDALLibrary\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingDALLibrary\\CustomerRepository.cs",
+              "RelativeToolTip": "OnlineShoppingDALLibrary\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABrvQAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:16:39.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingDALLibrary\\AbstractRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingDALLibrary\\AbstractRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingDALLibrary\\AbstractRepository.cs",
+              "RelativeToolTip": "OnlineShoppingDALLibrary\\AbstractRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:11:54.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingUnitTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "OnlineShoppingUnitTest\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingUnitTest\\UnitTest1.cs",
               "RelativeToolTip": "OnlineShoppingUnitTest\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAOAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T13:50:35.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T13:50:35.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CartTest.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingUnitTest\\CartTest.cs",
               "RelativeDocumentMoniker": "OnlineShoppingUnitTest\\CartTest.cs",
@@ -47,21 +80,19 @@
               "RelativeToolTip": "OnlineShoppingUnitTest\\CartTest.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAEgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T13:48:41.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T13:48:41.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductTest.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingUnitTest\\ProductTest.cs",
               "RelativeDocumentMoniker": "OnlineShoppingUnitTest\\ProductTest.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-12(Online Shopping Remaining)\\OnlineShoppingSln\\OnlineShoppingUnitTest\\ProductTest.cs",
               "RelativeToolTip": "OnlineShoppingUnitTest\\ProductTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAaAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T13:18:35.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T13:18:35.818Z"
             }
           ]
         }
