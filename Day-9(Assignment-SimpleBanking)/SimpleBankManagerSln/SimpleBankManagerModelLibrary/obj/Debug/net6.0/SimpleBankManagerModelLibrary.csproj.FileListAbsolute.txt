@@ -10,3 +10,15 @@ C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerS
 C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\refint\SimpleBankManagerModelLibrary.dll
 C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\SimpleBankManagerModelLibrary.pdb
 C:\Users\VC\Documents\Projects\Day9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\ref\SimpleBankManagerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\bin\Debug\net6.0\SimpleBankManagerModelLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\bin\Debug\net6.0\SimpleBankManagerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\bin\Debug\net6.0\SimpleBankManagerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\SimpleBankManagerModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\SimpleBankManagerModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\SimpleBankManagerModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\SimpleBankManagerModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\SimpleBankManagerModelLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\SimpleBankManagerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\refint\SimpleBankManagerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\SimpleBankManagerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-9(Assignment-SimpleBanking)\SimpleBankManagerSln\SimpleBankManagerModelLibrary\obj\Debug\net6.0\ref\SimpleBankManagerModelLibrary.dll
