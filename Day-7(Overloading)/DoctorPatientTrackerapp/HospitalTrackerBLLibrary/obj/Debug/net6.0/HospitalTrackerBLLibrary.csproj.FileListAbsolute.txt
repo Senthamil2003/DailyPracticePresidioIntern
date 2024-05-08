@@ -1,0 +1,16 @@
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\HospitalTrackerBLLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\HospitalTrackerBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\HospitalTrackerBLLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\HospitalTrackerBLLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\HospitalTrackerBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\HospitalTrackerBLLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\bin\Debug\net6.0\HospitalTrackerBLLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\bin\Debug\net6.0\HospitalTrackerBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\bin\Debug\net6.0\HospitalTrackerBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\bin\Debug\net6.0\HospitalTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\bin\Debug\net6.0\HospitalTrackerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\Hospital.EB98A0D9.Up2Date
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\HospitalTrackerBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\refint\HospitalTrackerBLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\HospitalTrackerBLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerBLLibrary\obj\Debug\net6.0\ref\HospitalTrackerBLLibrary.dll

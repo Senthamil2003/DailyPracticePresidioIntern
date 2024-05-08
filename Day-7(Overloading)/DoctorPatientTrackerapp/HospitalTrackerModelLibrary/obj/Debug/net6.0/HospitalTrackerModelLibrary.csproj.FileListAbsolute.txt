@@ -1,0 +1,12 @@
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\bin\Debug\net6.0\HospitalTrackerModelLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\bin\Debug\net6.0\HospitalTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\bin\Debug\net6.0\HospitalTrackerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\obj\Debug\net6.0\HospitalTrackerModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\obj\Debug\net6.0\HospitalTrackerModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\obj\Debug\net6.0\HospitalTrackerModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\obj\Debug\net6.0\HospitalTrackerModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\obj\Debug\net6.0\HospitalTrackerModelLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\obj\Debug\net6.0\HospitalTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\obj\Debug\net6.0\refint\HospitalTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\obj\Debug\net6.0\HospitalTrackerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-7(Overloading)\DoctorPatientTrackerapp\HospitalTrackerModelLibrary\obj\Debug\net6.0\ref\HospitalTrackerModelLibrary.dll

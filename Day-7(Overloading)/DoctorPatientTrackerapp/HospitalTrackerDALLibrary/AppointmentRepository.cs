@@ -1,4 +1,5 @@
-﻿using HospitalTrackerModelLibrary;
+﻿
+using HospitalTrackerDALLibrary.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;

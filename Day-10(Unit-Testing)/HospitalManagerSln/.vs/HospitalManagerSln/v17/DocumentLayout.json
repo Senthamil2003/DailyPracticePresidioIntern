@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "HospitalManagerDALLibrary\\IRepository.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-10(Unit-Testing)\\HospitalManagerSln\\HospitalManagerDALLibrary\\IRepository.cs",
               "RelativeToolTip": "HospitalManagerDALLibrary\\IRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBQwA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T05:13:10.86Z",
               "EditorCaption": ""
@@ -64,7 +64,8 @@
               "RelativeToolTip": "HospitalManagerBLTesting\\PatientTesting.cs",
               "ViewState": "AQIAAGAAAAAAAAAAAAAwwGQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T04:19:32.27Z"
+              "WhenOpened": "2024-04-24T04:19:32.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,7 +77,8 @@
               "RelativeToolTip": "HospitalManagerBLLibrary\\PatientBL.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAgwC4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T09:28:33.131Z"
+              "WhenOpened": "2024-04-23T09:28:33.131Z",
+              "EditorCaption": ""
             }
           ]
         }

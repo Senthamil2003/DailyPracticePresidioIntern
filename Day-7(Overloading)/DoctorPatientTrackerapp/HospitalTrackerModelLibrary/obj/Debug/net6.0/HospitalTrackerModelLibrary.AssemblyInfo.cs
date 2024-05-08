@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HospitalTrackerModelLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a731e9bc8746b24185c5443af28663e58b1edcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd70399ebbab482bc3380dac2855356738c944f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("HospitalTrackerModelLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HospitalTrackerModelLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

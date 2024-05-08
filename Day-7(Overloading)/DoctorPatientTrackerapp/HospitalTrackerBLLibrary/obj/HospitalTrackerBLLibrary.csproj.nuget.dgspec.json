@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj": {}
+    "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj": {
+    "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj",
         "projectName": "HospitalTrackerBLLibrary",
-        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj",
+        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj": {
-                "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj"
+              "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj": {
+                "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj": {
+    "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj",
         "projectName": "HospitalTrackerModelLibrary",
-        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj",
+        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|c:\\users\\vc\\documents\\projects\\day-20\\sqlserverdatabasesln\\sqlserverdatabaseapp\\model\\dbemployeetrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|solutionrelative:sqlserverdatabaseapp\\model\\dbemployeetrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|c:\\users\\vc\\documents\\projects\\day-20\\sqlserverdatabasesln\\sqlserverdatabaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|solutionrelative:sqlserverdatabaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|c:\\users\\vc\\documents\\projects\\day-20\\sqlserverdatabasesln\\sqlserverdatabaseapp\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|solutionrelative:sqlserverdatabaseapp\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|c:\\users\\vc\\documents\\projects\\day-20\\sqlserverdatabasesln\\sqlserverdatabaseapp\\model\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|solutionrelative:sqlserverdatabaseapp\\model\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|c:\\users\\vc\\documents\\projects\\day-20\\sqlserverdatabasesln\\sqlserverdatabaseapp\\model\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C637FC0-2FE0-437C-8856-08FB5E4A3DD8}|SqlServerDatabaseApp\\SqlServerDatabaseApp.csproj|solutionrelative:sqlserverdatabaseapp\\model\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\northwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SqlServerDatabaseApp\\Model\\northwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\Skill.cs",
+              "RelativeDocumentMoniker": "SqlServerDatabaseApp\\Model\\Skill.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\Skill.cs",
+              "RelativeToolTip": "SqlServerDatabaseApp\\Model\\Skill.cs",
+              "ViewState": "AQIAAAwAAADACQAAAAAYwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:01:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "SqlServerDatabaseApp\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\Employee.cs",
+              "RelativeToolTip": "SqlServerDatabaseApp\\Model\\Employee.cs",
+              "ViewState": "AQIAAA8AAABAAgAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:00:58.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\Area.cs",
+              "RelativeDocumentMoniker": "SqlServerDatabaseApp\\Model\\Area.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\Area.cs",
+              "RelativeToolTip": "SqlServerDatabaseApp\\Model\\Area.cs",
+              "ViewState": "AQIAAAcAAACA/P////8bwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:47:35.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbEmployeeTrackerContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\dbEmployeeTrackerContext.cs",
+              "RelativeDocumentMoniker": "SqlServerDatabaseApp\\Model\\dbEmployeeTrackerContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\dbEmployeeTrackerContext.cs",
+              "RelativeToolTip": "SqlServerDatabaseApp\\Model\\dbEmployeeTrackerContext.cs",
+              "ViewState": "AQIAAEUAAAAA/v////8nwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:46:38.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "northwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\northwindContext.cs",
+              "RelativeDocumentMoniker": "SqlServerDatabaseApp\\Model\\northwindContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Model\\northwindContext.cs",
+              "RelativeToolTip": "SqlServerDatabaseApp\\Model\\northwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:24:59.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Program.cs",
+              "RelativeDocumentMoniker": "SqlServerDatabaseApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\SqlServerDatabaseSln\\SqlServerDatabaseApp\\Program.cs",
+              "RelativeToolTip": "SqlServerDatabaseApp\\Program.cs",
+              "ViewState": "AQIAABMAAAAg/v////8lwA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:15:03.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

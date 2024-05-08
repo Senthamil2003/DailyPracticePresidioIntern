@@ -1,17 +1,161 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj": {}
+    "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj": {
+    "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj",
         "projectName": "DoctorPatientTrackersln",
-        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj",
+        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\DoctorPatientTrackersln.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\DoctorPatientTrackersln\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj": {
+                "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj",
+        "projectName": "HospitalTrackerBLLibrary",
+        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\HospitalTrackerBLLibrary.csproj",
+        "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerBLLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj": {
+                "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj",
+        "projectName": "HospitalTrackerModelLibrary",
+        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\HospitalTrackerModelLibrary.csproj",
+        "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-7(Overloading)\\DoctorPatientTrackerapp\\HospitalTrackerModelLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

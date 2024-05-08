@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HospitalTrackerBLLibrary/1.0.0": {
+        "dependencies": {
+          "HospitalTrackerModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HospitalTrackerBLLibrary.dll": {}
+        }
+      },
+      "HospitalTrackerModelLibrary/1.0.0": {
+        "runtime": {
+          "HospitalTrackerModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HospitalTrackerBLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HospitalTrackerModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
