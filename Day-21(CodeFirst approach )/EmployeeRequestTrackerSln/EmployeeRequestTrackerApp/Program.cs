@@ -59,7 +59,7 @@ namespace EmployeeRequestTrackerApp
                 RequestDate = DateTime.Now,
                 RequestRaisedBy = 1,
                 ClosedDate = DateTime.Now,
-                RequestMessage = "Laptop problem",
+                RequestMessage = "Laptop problemj",
                
 
 
