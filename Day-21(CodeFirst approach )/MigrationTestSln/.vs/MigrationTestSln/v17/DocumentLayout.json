@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|c:\\users\\vc\\documents\\projects\\day-21(codefirst approach )\\migrationtestsln\\migrationtestapp\\migrations\\20240509112741_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|solutionrelative:migrationtestapp\\migrations\\20240509112741_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|c:\\users\\vc\\documents\\projects\\day-21(codefirst approach )\\migrationtestsln\\migrationtestapp\\migrations\\20240509113055_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|solutionrelative:migrationtestapp\\migrations\\20240509113055_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|c:\\users\\vc\\documents\\projects\\day-21(codefirst approach )\\migrationtestsln\\migrationtestapp\\migrations\\20240509112805_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|solutionrelative:migrationtestapp\\migrations\\20240509112805_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|c:\\users\\vc\\documents\\projects\\day-21(codefirst approach )\\migrationtestsln\\migrationtestapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|solutionrelative:migrationtestapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|c:\\users\\vc\\documents\\projects\\day-21(codefirst approach )\\migrationtestsln\\migrationtestapp\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|solutionrelative:migrationtestapp\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|c:\\users\\vc\\documents\\projects\\day-21(codefirst approach )\\migrationtestsln\\migrationtestapp\\migrations\\20240509112620_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|solutionrelative:migrationtestapp\\migrations\\20240509112620_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|c:\\users\\vc\\documents\\projects\\day-21(codefirst approach )\\migrationtestsln\\migrationtestapp\\migrations\\studentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B610F0-11AE-486F-A0CA-B4893440628C}|MigrationTestApp\\MigrationTestApp.csproj|solutionrelative:migrationtestapp\\migrations\\studentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240509113055_third.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\20240509113055_third.cs",
+              "RelativeDocumentMoniker": "MigrationTestApp\\Migrations\\20240509113055_third.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\20240509113055_third.cs",
+              "RelativeToolTip": "MigrationTestApp\\Migrations\\20240509113055_third.cs",
+              "ViewState": "AQIAAAwAAAAA7P////8XwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:30:55.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240509112805_second.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\20240509112805_second.cs",
+              "RelativeDocumentMoniker": "MigrationTestApp\\Migrations\\20240509112805_second.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\20240509112805_second.cs",
+              "RelativeToolTip": "MigrationTestApp\\Migrations\\20240509112805_second.cs",
+              "ViewState": "AQIAABIAAABQ/f////83wBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:28:05.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240509112741_first.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\20240509112741_first.cs",
+              "RelativeDocumentMoniker": "MigrationTestApp\\Migrations\\20240509112741_first.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\20240509112741_first.cs",
+              "RelativeToolTip": "MigrationTestApp\\Migrations\\20240509112741_first.cs",
+              "ViewState": "AQIAAAYAAAC8//////8xwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:27:41.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\StudentContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MigrationTestApp\\Migrations\\StudentContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\StudentContextModelSnapshot.cs",
+              "RelativeToolTip": "MigrationTestApp\\Migrations\\StudentContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:27:11.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240509112620_init.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\20240509112620_init.cs",
+              "RelativeDocumentMoniker": "MigrationTestApp\\Migrations\\20240509112620_init.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\20240509112620_init.cs",
+              "RelativeToolTip": "MigrationTestApp\\Migrations\\20240509112620_init.cs",
+              "ViewState": "AQIAAAwAAACAFQAAAAAYwBUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:26:20.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\StudentContext.cs",
+              "RelativeDocumentMoniker": "MigrationTestApp\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\StudentContext.cs",
+              "RelativeToolTip": "MigrationTestApp\\StudentContext.cs",
+              "ViewState": "AQIAAAcAAADAEAAAAADwvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:20:29.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Student.cs",
+              "RelativeDocumentMoniker": "MigrationTestApp\\Student.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Student.cs",
+              "RelativeToolTip": "MigrationTestApp\\Student.cs",
+              "ViewState": "AQIAAAUAAAAA/v////8TwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:19:29.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

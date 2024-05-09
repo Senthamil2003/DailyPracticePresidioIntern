@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\",
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8E51335-29EA-44AD-86B6-B3DA818DC140}|DoctorPatientAppointmentApp\\DoctorPatientAppointmentApp.csproj|c:\\users\\vc\\documents\\projects\\day-20\\doctorpatientappointmentsln\\doctorpatientappointmentapp\\sampletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8E51335-29EA-44AD-86B6-B3DA818DC140}|DoctorPatientAppointmentApp\\DoctorPatientAppointmentApp.csproj|c:\\users\\vc\\documents\\projects\\day-20(database first approach)\\doctorpatientappointmentsln\\doctorpatientappointmentapp\\sampletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E51335-29EA-44AD-86B6-B3DA818DC140}|DoctorPatientAppointmentApp\\DoctorPatientAppointmentApp.csproj|solutionrelative:doctorpatientappointmentapp\\sampletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{258EA919-9A61-466C-822B-92333DA0D58E}|DoctorPatientAppointmentDALLibrary\\DoctorPatientAppointmentDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-20\\doctorpatientappointmentsln\\doctorpatientappointmentdallibrary\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{258EA919-9A61-466C-822B-92333DA0D58E}|DoctorPatientAppointmentDALLibrary\\DoctorPatientAppointmentDALLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-20(database first approach)\\doctorpatientappointmentsln\\doctorpatientappointmentdallibrary\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{258EA919-9A61-466C-822B-92333DA0D58E}|DoctorPatientAppointmentDALLibrary\\DoctorPatientAppointmentDALLibrary.csproj|solutionrelative:doctorpatientappointmentdallibrary\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB3BE50-4491-44BE-AEEA-86941AC5FB48}|DoctorPatientAppointmentBLLLibrary\\DoctorPatientAppointmentBLLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-20\\doctorpatientappointmentsln\\doctorpatientappointmentblllibrary\\doctorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AB3BE50-4491-44BE-AEEA-86941AC5FB48}|DoctorPatientAppointmentBLLLibrary\\DoctorPatientAppointmentBLLLibrary.csproj|c:\\users\\vc\\documents\\projects\\day-20(database first approach)\\doctorpatientappointmentsln\\doctorpatientappointmentblllibrary\\doctorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AB3BE50-4491-44BE-AEEA-86941AC5FB48}|DoctorPatientAppointmentBLLLibrary\\DoctorPatientAppointmentBLLLibrary.csproj|solutionrelative:doctorpatientappointmentblllibrary\\doctorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentDALLibrary\\Model\\Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentDALLibrary\\Model\\Doctor.cs",
               "RelativeDocumentMoniker": "DoctorPatientAppointmentDALLibrary\\Model\\Doctor.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentDALLibrary\\Model\\Doctor.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentDALLibrary\\Model\\Doctor.cs",
               "RelativeToolTip": "DoctorPatientAppointmentDALLibrary\\Model\\Doctor.cs",
               "ViewState": "AQIAAAYAAAAA//////8HwA4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:31:58.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T15:31:58.746Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DoctorBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorBL.cs",
               "RelativeDocumentMoniker": "DoctorPatientAppointmentBLLLibrary\\DoctorBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorBL.cs",
               "RelativeToolTip": "DoctorPatientAppointmentBLLLibrary\\DoctorBL.cs",
               "ViewState": "AQIAADMAAAAA//////8HwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:27:48.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T15:27:48.898Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SampleTest.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentApp\\SampleTest.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentApp\\SampleTest.cs",
               "RelativeDocumentMoniker": "DoctorPatientAppointmentApp\\SampleTest.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentApp\\SampleTest.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentApp\\SampleTest.cs",
               "RelativeToolTip": "DoctorPatientAppointmentApp\\SampleTest.cs",
-              "ViewState": "AQIAABMAAACA/P////8bwC0AAAApAAAA",
+              "ViewState": "AQIAAA0AAACA9/////8HwDQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T12:05:36.097Z",
               "EditorCaption": ""

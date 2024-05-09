@@ -33,3 +33,21 @@ C:\Users\VC\Documents\Projects\Day-20\DoctorPatientAppointmentSln\DoctorPatientA
 C:\Users\VC\Documents\Projects\Day-20\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\refint\DoctorPatientAppointmentBLLLibrary.dll
 C:\Users\VC\Documents\Projects\Day-20\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.pdb
 C:\Users\VC\Documents\Projects\Day-20\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\ref\DoctorPatientAppointmentBLLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\bin\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\bin\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\bin\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\bin\Debug\net6.0\DoctorPatientAppointmentDALLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\bin\Debug\net6.0\DoctorPatientAppointmentModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\bin\Debug\net6.0\DoctorPatientAppointmentDALLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\bin\Debug\net6.0\DoctorPatientAppointmentModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPa.1D175985.Up2Date
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\refint\DoctorPatientAppointmentBLLLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\DoctorPatientAppointmentBLLLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentBLLLibrary\obj\Debug\net6.0\ref\DoctorPatientAppointmentBLLLibrary.dll

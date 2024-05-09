@@ -21,3 +21,15 @@ C:\Users\VC\Documents\Projects\Day-20\DoctorPatientAppointmentSln\DoctorPatientA
 C:\Users\VC\Documents\Projects\Day-20\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\refint\DoctorPatientAppointmentModelLibrary.dll
 C:\Users\VC\Documents\Projects\Day-20\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\DoctorPatientAppointmentModelLibrary.pdb
 C:\Users\VC\Documents\Projects\Day-20\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\ref\DoctorPatientAppointmentModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\bin\Debug\net6.0\DoctorPatientAppointmentModelLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\bin\Debug\net6.0\DoctorPatientAppointmentModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\bin\Debug\net6.0\DoctorPatientAppointmentModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\DoctorPatientAppointmentModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\DoctorPatientAppointmentModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\DoctorPatientAppointmentModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\DoctorPatientAppointmentModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\DoctorPatientAppointmentModelLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\DoctorPatientAppointmentModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\refint\DoctorPatientAppointmentModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\DoctorPatientAppointmentModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-20(Database first approach)\DoctorPatientAppointmentSln\DoctorPatientAppointmentModelLibrary\obj\Debug\net6.0\ref\DoctorPatientAppointmentModelLibrary.dll

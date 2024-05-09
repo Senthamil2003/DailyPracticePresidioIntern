@@ -1,0 +1,15 @@
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\bin\Debug\net6.0\MigrationTestApp.deps.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\bin\Debug\net6.0\MigrationTestApp.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\bin\Debug\net6.0\MigrationTestApp.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\bin\Debug\net6.0\MigrationTestApp.pdb
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\MigrationTestApp.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\MigrationTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\MigrationTestApp.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\MigrationTestApp.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\MigrationTestApp.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\MigrationTestApp.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\MigrationTestApp.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\refint\MigrationTestApp.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\MigrationTestApp.pdb
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\MigrationTestApp.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\MigrationTestSln\MigrationTestApp\obj\Debug\net6.0\ref\MigrationTestApp.dll

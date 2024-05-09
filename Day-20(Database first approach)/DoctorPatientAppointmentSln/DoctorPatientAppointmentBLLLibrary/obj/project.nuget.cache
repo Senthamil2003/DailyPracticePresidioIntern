@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4flhlXtUk4m8ZIYzFJWKWpfhC5LZVU/V3wwP8wL6aOnJ46BMwC1uwSrQAvpi2xu1yjykrHgRqrqn2Kn4zVG9Kg==",
+  "dgSpecHash": "Rmy2ItkMwyAwpQf75DTII3g2qVzesKdFUEVUMup61WECxs5JUQIrHqz8ngtRTlTCHxPp5uBKwQGvVV6lG7vEHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorPatientAppointmentBLLLibrary.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorPatientAppointmentBLLLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\VC\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

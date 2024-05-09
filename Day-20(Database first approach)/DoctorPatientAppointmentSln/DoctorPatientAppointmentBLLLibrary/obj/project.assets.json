@@ -1951,11 +1951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorPatientAppointmentBLLLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorPatientAppointmentBLLLibrary.csproj",
       "projectName": "DoctorPatientAppointmentBLLLibrary",
-      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorPatientAppointmentBLLLibrary.csproj",
+      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\DoctorPatientAppointmentBLLLibrary.csproj",
       "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\obj\\",
+      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentBLLLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1976,11 +1976,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentDALLibrary\\DoctorPatientAppointmentDALLibrary.csproj": {
-              "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentDALLibrary\\DoctorPatientAppointmentDALLibrary.csproj"
+            "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentDALLibrary\\DoctorPatientAppointmentDALLibrary.csproj": {
+              "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentDALLibrary\\DoctorPatientAppointmentDALLibrary.csproj"
             },
-            "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj": {
-              "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj"
+            "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj": {
+              "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj": {}
+    "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj": {
+    "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj",
         "projectName": "DoctorPatientAppointmentModelLibrary",
-        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj",
+        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

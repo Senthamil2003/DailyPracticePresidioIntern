@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zN8TesPE3mZ0Ytrb4F5ewwh41oxpMxaXE1s7T7vW5EfTS8f/rc72m8fveeufxyjstXIoVa4fSq8LSvgq64OuTA==",
+  "dgSpecHash": "VomxXWQwpIBP8ExoEqrQg+gCUgxR1w6D5JTR+E/E/ugWarHFV6Fv33fKlGf5c3rTB5SJyKQ4WR3LkPJxidb9Ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-20\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-20(Database first approach)\\DoctorPatientAppointmentSln\\DoctorPatientAppointmentModelLibrary\\DoctorPatientAppointmentModelLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
