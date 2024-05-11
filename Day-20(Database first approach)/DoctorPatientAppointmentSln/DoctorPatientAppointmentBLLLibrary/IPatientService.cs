@@ -9,12 +9,12 @@ namespace DoctorPatientAppointmentBLLLibrary
 {
     public interface IPatientService
     {
-        int AddPatient(Patient Patient);
-        Patient ChangePatientName(string PatientOldName, string PatientNewName);
-        Patient GetPatientById(int id);
-        Patient GetPatientByName(string PatientName);
+        Task<int> AddPatient(Patient Patient);
+        Task<Patient> ChangePatientName(string PatientOldName, string PatientNewName);
+        Task<Patient> GetPatientById(int id);
+        Task<Patient> GetPatientByName(string PatientName);
 
-        List<Patient> GetPatientList();
+        Task<List<Patient>> GetPatientList();
 
     }
 

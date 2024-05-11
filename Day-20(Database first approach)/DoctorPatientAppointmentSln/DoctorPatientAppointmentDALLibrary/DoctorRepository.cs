@@ -1,69 +1,69 @@
-﻿using DoctorPatientAppointmentDALLibrary.Model;
+﻿using DoctorPatientAppointmentDALLibrary;
+using DoctorPatientAppointmentDALLibrary.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DoctorPatientAppointmentDALLibrary
+namespace DoctorPatientDoctorDALLibrary
 {
     public class DoctorRepository : IRepository<int, Doctor>
     {
-        readonly Dictionary<int, Doctor> _Doctors;
-        public DoctorRepository()
+        public readonly HospitalManagerContext _context;
+        public DoctorRepository(HospitalManagerContext context)
         {
-            _Doctors = new Dictionary<int, Doctor>();
+            _context = context;
         }
-        public int GenerateId()
+        public async Task<Doctor> Add(Doctor entity)
         {
-            if (_Doctors.Count == 0)
-                return 1;
-            int id = _Doctors.Keys.Max();
-            return ++id;
-        }
-        public Doctor Add(Doctor item)
-        {
-            if (_Doctors.ContainsValue(item))
-            {
-                return null;
-            }
-            int id = GenerateId();
-            item.Id = id;
-            _Doctors.Add(id, item);
-            return item;
+            _context.Add(entity);
+            await _context.SaveChangesAsync();
+            return entity;
         }
 
-        public Doctor Delete(int key)
+        public async Task<Doctor> Delete(int key)
         {
-            if (_Doctors.ContainsKey(key))
+            try
             {
-                var Doctor = _Doctors[key];
-                _Doctors.Remove(key);
+                Doctor Doctor = await Get(key);
+
+                _context.Remove(Doctor);
+                await _context.SaveChangesAsync();
                 return Doctor;
+
+
             }
-            return null;
-        }
-
-        public Doctor? Get(int key)
-        {
-            return _Doctors.ContainsKey(key) ? _Doctors[key] : null;
-        }
-
-        public List<Doctor> GetAll()
-        {
-            if (_Doctors.Count == 0)
-                return null;
-            return _Doctors.Values.ToList();
-        }
-
-        public Doctor Update(Doctor item)
-        {
-            if (_Doctors.ContainsKey(item.Id))
+            catch
             {
-                _Doctors[item.Id] = item;
-                return item;
+                throw;
             }
-            return null;
+
+
+        }
+
+        public virtual async Task<Doctor> Get(int key)
+        {
+            Doctor Doctor = _context.Doctors.FirstOrDefault(e => e.Id == key);
+
+            return Doctor;
+
+
+
+        }
+
+        public virtual async Task<List<Doctor>> GetAll()
+        {
+
+            return _context.Doctors.ToList();
+        }
+
+        public async Task<Doctor> Update(Doctor entity)
+        {
+            _context.Update(entity);
+            await _context.SaveChangesAsync();
+            return entity;
+
         }
     }
 }

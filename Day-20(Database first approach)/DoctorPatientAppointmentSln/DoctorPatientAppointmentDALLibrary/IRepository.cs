@@ -8,10 +8,10 @@ namespace DoctorPatientAppointmentDALLibrary
 {
     public interface IRepository<K, T> where T : class
     {
-        List<T> GetAll();
-        T Get(K key);
-        T Add(T item);
-        T Update(T item);
-        T Delete(K key);
+        public Task<T> Add(T entity);
+        public Task<T> Update(T entity);
+        public Task<T> Delete(K key);
+        public Task<T> Get(K key);
+        public Task<List<T>> GetAll();
     }
 }

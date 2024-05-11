@@ -9,10 +9,10 @@ namespace DoctorPatientAppointmentBLLLibrary
 {
     public interface IAppointmentService
     {
-        Appointment AddAppointment(Appointment Appointment);
-        Appointment ChangeAppointmentDate(int AppointmentId, DateTime NewDate);
-        Appointment GetAppointmentById(int id);
-        List<Appointment> GetAppointmentList();
+        Task<Appointment> AddAppointment(Appointment Appointment);
+        Task<Appointment> ChangeAppointmentDate(int AppointmentId, DateTime NewDate);
+        Task<Appointment> GetAppointmentById(int id);
+       Task< List<Appointment>> GetAppointmentList();
 
     }
 

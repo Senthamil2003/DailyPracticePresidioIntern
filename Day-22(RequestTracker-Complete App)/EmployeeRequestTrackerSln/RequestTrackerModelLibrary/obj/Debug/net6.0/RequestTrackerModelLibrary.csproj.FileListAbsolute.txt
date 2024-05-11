@@ -1,0 +1,30 @@
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\bin\Debug\net6.0\RequestTrackerModelLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\bin\Debug\net6.0\RequestTrackerModelLibrary.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\bin\Debug\net6.0\RequestTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\bin\Debug\net6.0\RequestTrackerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\refint\RequestTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\ref\RequestTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\bin\Debug\net6.0\RequestTrackerModelLibrary.deps.json
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\bin\Debug\net6.0\RequestTrackerModelLibrary.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\bin\Debug\net6.0\RequestTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\bin\Debug\net6.0\RequestTrackerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\refint\RequestTrackerModelLibrary.dll
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.pdb
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\RequestTrackerModelLibrary.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day-22(RequestTracker-Complete App)\EmployeeRequestTrackerSln\RequestTrackerModelLibrary\obj\Debug\net6.0\ref\RequestTrackerModelLibrary.dll

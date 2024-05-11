@@ -11,8 +11,11 @@ namespace RequestTrackerModelLibrary
 
         public string Role { get; set; }
 
-        public ICollection<Request> RaisedRequest { get; set; }
+        public ICollection<Request> RaisedRequests { get; set; }
         public ICollection<Request> ClosedRequest { get; set; }    
+        public ICollection<Solution> GivenSolutions { get; set; }   
+        public ICollection<Feedback> GivenFeedbacks { get; set; }
+
         public override string ToString()
         {
             return EmployeeId + " " + Name + " " + Role;

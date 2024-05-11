@@ -9,63 +9,60 @@ namespace DoctorPatientAppointmentDALLibrary
 {
     public class AppointmentRepository : IRepository<int, Appointment>
     {
-        readonly Dictionary<int, Appointment> _Appointments;
-        public AppointmentRepository()
+        public readonly HospitalManagerContext _context;
+        public AppointmentRepository(HospitalManagerContext context)
         {
-            _Appointments = new Dictionary<int, Appointment>();
+            _context = context;
         }
-         int GenerateId()
+        public async Task<Appointment> Add(Appointment entity)
         {
+            _context.Add(entity);
+            await _context.SaveChangesAsync();
+            return entity;
+        }
 
-            if (_Appointments.Count == 0)
-                return 1;
-            int id = _Appointments.Keys.Max();
-            return ++id;
-        }
-        public Appointment Add(Appointment item)
+        public async Task<Appointment> Delete(int key)
         {
+            try
+            {
+                Appointment Appointment = await Get(key);
+               
+                 _context.Remove(Appointment);
+                  await _context.SaveChangesAsync();
+                  return Appointment;
+              
+             
+            }
+            catch
+            {
+                throw;
+            }
+
+
+        }
+
+        public virtual async Task<Appointment> Get(int key)
+        {
+            Appointment Appointment = _context.Appointments.FirstOrDefault(e => e.AppointmentId == key);
            
-            if (_Appointments.ContainsValue(item))
-            {
-                return null;
-            }
-            int id = GenerateId();
-            item.AppointmentId= id;
-            _Appointments.Add(id, item);
-            return item;
+            return Appointment;
+            
+           
+
         }
 
-        public Appointment Delete(int key)
+        public virtual async Task<List<Appointment>> GetAll()
         {
-            if (_Appointments.ContainsKey(key))
-            {
-                var Appointment = _Appointments[key];
-                _Appointments.Remove(key);
-                return Appointment;
-            }
-            return null;
+
+            return _context.Appointments.ToList();
         }
 
-        public Appointment? Get(int key)
+        public async Task<Appointment> Update(Appointment entity)
         {
-            return _Appointments.ContainsKey(key) ? _Appointments[key] : null;
-        }
+            _context.Update(entity);
+            await _context.SaveChangesAsync();
+            return entity;
 
-        public List<Appointment> GetAll()
-        {
-            if (_Appointments.Count == 0)
-                return null;
-            return _Appointments.Values.ToList();
-        }
-
-        public Appointment Update(Appointment item)
-        {
-            if (_Appointments.ContainsKey(item.AppointmentId))
-            {
-                _Appointments[item.AppointmentId] = item;
-                return item;
-            }
-            return null;
         }
     }
 }

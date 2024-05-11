@@ -15,11 +15,8 @@ namespace RequestTrackerModelLibrary
         public string RequestMessage { get; set; }
         public DateTime RequestDate { get; set; } = System.DateTime.Now;
         public DateTime? ClosedDate { get; set; } = null;
-       
-
-
+        public string RequestStatus { get; set; }
         public int RequestRaisedBy { get; set; }
-        public string RequestStatus { get; set; }   
 
         [ForeignKey("RequestRaisedBy")]
         public Employee RaisedByEmployee { get; set; }
@@ -28,6 +25,8 @@ namespace RequestTrackerModelLibrary
 
         [ForeignKey("RequestClosedBy")]
         public Employee ClosedByEmployee { get; set; }
+
+        public ICollection<Solution> solutions { get; set; }
 
 
 

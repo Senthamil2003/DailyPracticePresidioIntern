@@ -2,6 +2,7 @@
 using DoctorPatientAppointmentBLLLibrary.CustomException;
 using DoctorPatientAppointmentDALLibrary;
 using DoctorPatientAppointmentDALLibrary.Model;
+using DoctorPatientDoctorDALLibrary;
 
 
 namespace DoctorPatientAppointmentBLLLibrary
@@ -11,20 +12,20 @@ namespace DoctorPatientAppointmentBLLLibrary
         readonly IRepository<int, Doctor> _Doctor;
         public DoctorBL()
         {
-           _Doctor=new DoctorRepository();
+           _Doctor=new DoctorRepository(new HospitalManagerContext());
         }
-        public int AddDoctor(Doctor doctor)
+        public async Task<int> AddDoctor(Doctor doctor)
         {
-            var result= _Doctor.Add(doctor);
+            var result=await _Doctor.Add(doctor);
             if(result != null) {
                 return result.Id;
             }
             throw new DuplicateDoctorException();   
         }
 
-        public Doctor GetDoctorById(int id)
+        public async Task<Doctor> GetDoctorById(int id)
         {
-            var result =_Doctor.Get(id);
+            var result =await _Doctor.Get(id);
             if (result != null)
             {
                 return result;
@@ -32,9 +33,9 @@ namespace DoctorPatientAppointmentBLLLibrary
             throw new NullValueReturnedException();
         }
 
-        public Doctor GetDoctorByName(string DoctorName)
+        public async Task<Doctor> GetDoctorByName(string DoctorName)
         {
-            List<Doctor> doctor = _Doctor.GetAll();
+            List<Doctor> doctor =await _Doctor.GetAll();
 
             foreach (Doctor value in doctor)
             {
@@ -47,16 +48,16 @@ namespace DoctorPatientAppointmentBLLLibrary
             throw new NullValueReturnedException();
         }
 
-        public List<Doctor> GetDoctorList()
+        public async Task<List<Doctor>> GetDoctorList()
         {
-            List<Doctor> doctor = _Doctor.GetAll();
+            List<Doctor> doctor = await _Doctor.GetAll();
             if(doctor != null)
             return doctor;
             throw new NullValueReturnedException();
 
         }
 
-        public Doctor UpdateAppointment(Doctor Doctor, int Appointmentid)
+        public async Task<Doctor> UpdateAppointment(Doctor Doctor, int Appointmentid)
         {
             throw new NotImplementedException();
         }

@@ -1,6 +1,7 @@
 ﻿using DoctorPatientAppointmentBLLLibrary.CustomException;
 using DoctorPatientAppointmentDALLibrary;
 using DoctorPatientAppointmentDALLibrary.Model;
+using DoctorPatientPatientDALLibrary;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,12 +15,12 @@ namespace DoctorPatientAppointmentBLLLibrary
         readonly IRepository<int,Patient> _PatientRepository;
         public PatientBL()
         {
-            _PatientRepository = new PatientRepository();
+            _PatientRepository = new PatientRepository(new HospitalManagerContext());
         }
 
-        public int AddPatient(Patient Patient)
+        public async Task<int> AddPatient(Patient Patient)
         {
-            var result = _PatientRepository.Add(Patient);
+            var result =await _PatientRepository.Add(Patient);
 
             if (result != null)
             {
@@ -28,13 +29,13 @@ namespace DoctorPatientAppointmentBLLLibrary
             throw new DuplicatePatientException();
         }
 
-        public Patient ChangePatientName(string PatientOldName, string PatientNewName)
+        public async Task<Patient> ChangePatientName(string PatientOldName, string PatientNewName)
         {
-            var result = GetPatientByName(PatientOldName);
+            var result =await GetPatientByName(PatientOldName);
             if (result != null)
             {
                 result.Name = PatientNewName;
-                _PatientRepository.Update(result);
+               await _PatientRepository.Update(result);
                 return result;
             }
             throw new NullValueReturnedException();
@@ -42,20 +43,20 @@ namespace DoctorPatientAppointmentBLLLibrary
 
         }
 
-        public Patient GetPatientById(int id)
+        public async Task<Patient> GetPatientById(int id)
         {
-            var result = _PatientRepository.Get(id);
+            var result = await _PatientRepository.Get(id);
             if (result != null)
             {
-                return _PatientRepository.Get(id);
+                return await _PatientRepository.Get(id);
             }
             throw new NullValueReturnedException();
 
         }
 
-        public Patient GetPatientByName(string PatientName)
+        public async Task<Patient> GetPatientByName(string PatientName)
         {
-            List<Patient> Patient = _PatientRepository.GetAll();
+            List<Patient> Patient = await _PatientRepository.GetAll();
 
             foreach (Patient value in Patient)
             {
@@ -70,9 +71,9 @@ namespace DoctorPatientAppointmentBLLLibrary
         }
 
 
-        public List<Patient> GetPatientList()
+        public async Task<List<Patient>> GetPatientList()
         {
-            var result = _PatientRepository.GetAll();
+            var result = await _PatientRepository.GetAll();
             if (result != null)
             {
                 return result;

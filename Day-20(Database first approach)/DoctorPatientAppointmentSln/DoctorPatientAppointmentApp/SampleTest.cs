@@ -1,4 +1,5 @@
-﻿using DoctorPatientAppointmentDALLibrary.Model;
+﻿using DoctorPatientAppointmentBLLLibrary;
+using DoctorPatientAppointmentDALLibrary.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,49 +10,67 @@ namespace DoctorPatientAppointmentApp
 {
     public class SampleTest
     {
-        static void Main(string[] args)
+        public DoctorBL DoctorBL;
+        public SampleTest() { 
+            DoctorBL = new DoctorBL();
+        } 
+        public async Task GetAllDoctor()
         {
-            HospitalManagerContext context = new HospitalManagerContext();
-            var doctors = context.Doctors.ToList();
-            foreach (Doctor areasItem in doctors)
+            List<Doctor> doctors=await DoctorBL.GetDoctorList();
+            foreach (Doctor doctor in doctors)
             {
-                Console.WriteLine(areasItem.Name+" "+areasItem.ContactNumber);
+                Console.WriteLine(doctor.Name);
             }
-            //Doctor doctor = new Doctor()
+
+
+        }
+        static async Task Main(string[] args)
+        {
+            SampleTest sampleTest = new SampleTest();   
+            await sampleTest.GetAllDoctor();
+        
+
+            //HospitalManagerContext context = new HospitalManagerContext();
+            //var doctors = context.Doctors.ToList();
+            //foreach (Doctor areasItem in doctors)
             //{
-            //    Id = 3,
-            //    Name = "tonny",
-            //    ContactNumber = 12121212,
-            //    Experience = 12
+            //    Console.WriteLine(areasItem.Name+" "+areasItem.ContactNumber);
+            //}
+            ////Doctor doctor = new Doctor()
+            ////{
+            ////    Id = 3,
+            ////    Name = "tonny",
+            ////    ContactNumber = 12121212,
+            ////    Experience = 12
 
-            //};
-            //context.Doctors.Add(doctor);
-            //doctor = new Doctor()
+            ////};
+            ////context.Doctors.Add(doctor);
+            ////doctor = new Doctor()
+            ////{
+            ////    Id = 4,
+            ////    Name = "ponny",
+            ////    ContactNumber = 12121212,
+            ////    Experience = 1
+
+            ////};
+            ////context.Doctors.Add(doctor);
+            ////context.SaveChanges();
+
+            ////Console.WriteLine("Operation success");
+
+            ////Doctor result= doctors.SingleOrDefault(a => a.Name == "tonny");
+            //// if(result!=null) {
+            ////     result.Name = "Tonny stark";
+            ////     context.Doctors.Update(result);
+            ////     context.SaveChanges();
+            //// }
+            //Doctor result = doctors.SingleOrDefault(a => a.Name == "Tonny stark");
+            //if (result != null)
             //{
-            //    Id = 4,
-            //    Name = "ponny",
-            //    ContactNumber = 12121212,
-            //    Experience = 1
-
-            //};
-            //context.Doctors.Add(doctor);
-            //context.SaveChanges();
-
-            //Console.WriteLine("Operation success");
-
-            //Doctor result= doctors.SingleOrDefault(a => a.Name == "tonny");
-            // if(result!=null) {
-            //     result.Name = "Tonny stark";
-            //     context.Doctors.Update(result);
-            //     context.SaveChanges();
-            // }
-            Doctor result = doctors.SingleOrDefault(a => a.Name == "Tonny stark");
-            if (result != null)
-            {
               
-                context.Doctors.Remove(result);
-                context.SaveChanges();
-            }
+            //    context.Doctors.Remove(result);
+            //    context.SaveChanges();
+            //}
 
 
 

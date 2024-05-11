@@ -13,34 +13,34 @@ namespace DoctorPatientAppointmentBLLLibrary
     {
         readonly IRepository<int ,Appointment> _appointmentService;
         public AppointmentBL() { 
-            _appointmentService=new AppointmentRepository();
+            _appointmentService=new AppointmentRepository(new HospitalManagerContext());
         }
-        public Appointment AddAppointment(Appointment Appointment)
+        public async Task<Appointment> AddAppointment(Appointment Appointment)
         {
-            var result =_appointmentService.Add(Appointment);
+            var result = await _appointmentService.Add(Appointment);
             
             if (result != null)
             {
-                return Appointment;
+                return  Appointment;
             }
             throw new DuplicateDoctorException();
         }
 
 
-        public Appointment ChangeAppointmentDate(int AppointmentId, DateTime NewDate)
+        public async Task<Appointment> ChangeAppointmentDate(int AppointmentId, DateTime NewDate)
         {
-            var result=GetAppointmentById(AppointmentId);
+            var result=await GetAppointmentById(AppointmentId);
             if(result != null)
             {
                 result.DateTime = NewDate;
-                return _appointmentService.Update(result);
+                return await _appointmentService.Update(result);
             }
             throw new NullValueReturnedException();
         }
 
-        public Appointment GetAppointmentById(int id)
+        public async Task<Appointment> GetAppointmentById(int id)
         {
-            List<Appointment> appointments = _appointmentService.GetAll();
+            List<Appointment> appointments = await _appointmentService.GetAll();
             foreach (Appointment appointment in appointments)
             {
                 if(appointment.AppointmentId == id)
@@ -53,9 +53,9 @@ namespace DoctorPatientAppointmentBLLLibrary
 
         }
 
-        public List<Appointment> GetAppointmentList()
+        public async Task< List<Appointment>> GetAppointmentList()
         {
-            List<Appointment> appointments=_appointmentService.GetAll();
+            List<Appointment> appointments=await _appointmentService.GetAll();
          
            if(appointments != null)
             {

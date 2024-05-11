@@ -9,11 +9,11 @@ namespace DoctorPatientAppointmentBLLLibrary
 {
     public interface IDoctorService
     {
-        int AddDoctor(Doctor Doctor);
-        Doctor GetDoctorById(int id);
-        Doctor GetDoctorByName(string DoctorName);
-        Doctor UpdateAppointment(Doctor Doctor,int Appointmentid);
-        List<Doctor> GetDoctorList();
+        Task<int> AddDoctor(Doctor Doctor);
+        Task<Doctor> GetDoctorById(int id);
+       Task<Doctor> GetDoctorByName(string DoctorName);
+       Task <Doctor> UpdateAppointment(Doctor Doctor,int Appointmentid);
+        Task<List<Doctor>> GetDoctorList();
 
     }
 }
