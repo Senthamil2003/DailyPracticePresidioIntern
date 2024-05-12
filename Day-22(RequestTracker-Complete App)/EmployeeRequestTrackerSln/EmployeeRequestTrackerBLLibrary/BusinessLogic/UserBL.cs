@@ -20,9 +20,9 @@ namespace EmployeeRequestTrackerBLLibrary.BusinessLogic
         readonly IRepository<int, Solution> _solutionRepository;
 
         public UserBL() {
-            _solutionRepository = new SolutionRepository(new RequestTrackerContext());
+            _solutionRepository = new SolutionJoinedRepository(new RequestTrackerContext());
             _Employeerepo = new EmployeeRepository(new RequestTrackerContext());
-            _feedbackrepository = new FeedbackRepository(new RequestTrackerContext());
+            _feedbackrepository = new FeedbackJoinedRepository(new RequestTrackerContext());
             _requestrepo = new RequestJoinedRepository(new RequestTrackerContext());
         }
 
@@ -90,6 +90,22 @@ namespace EmployeeRequestTrackerBLLibrary.BusinessLogic
             }
         }
 
+        public async Task<Solution> GetSolution(int id)
+        {
+            try
+            {
+               Solution solution= await _solutionRepository.Get(id);
+             if (solution != null)
+                    return solution;
+                throw new NoDataFoundException("No solution Available for give Id");
+            }
+            catch
+            {
+                throw;
+
+            }
+        }
+
         public async Task<List<Request>> RaisedRequests(int id)
         {
             try
@@ -139,14 +155,19 @@ namespace EmployeeRequestTrackerBLLibrary.BusinessLogic
             }
         }
 
-        public async Task<Request> UpdateProblemStatus(int id)
+        public async Task<Solution> UpdateProblemStatus(int solutionid,int requestnumber,string comment)
         {
             try
             {
-                Request request = await _requestrepo.Get(id);
+                Solution solution=await _solutionRepository.Get(solutionid);
+                solution.IsWorked= true;
+                solution.RaiserComment= comment;
+                await _solutionRepository.Update(solution);
+                Request request = await _requestrepo.Get(requestnumber);
                 request.ProblemStatus = true;
+                request.RequestClosedBy = solution.AnsweredEmployeeId;
                 await _requestrepo.Update(request);
-                return request;
+                return solution;
             }
             catch
             {
@@ -154,5 +175,25 @@ namespace EmployeeRequestTrackerBLLibrary.BusinessLogic
             }
         }
 
+        public async Task<List<Solution>> ViewSolution(int id)
+        {
+            try
+            {
+                Request request = await _requestrepo.Get(id);
+                List<Solution> solutions = request.solutions;
+                if (solutions.Count > 0)
+                {
+                    return solutions;
+                }
+                throw new NoDataFoundException("No Solution for the given Request");
+
+            }
+            catch
+            {
+                throw;
+            }
+
+
+        }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using EmployeeRequestTrackerDALLibrary.Repository;
 using Microsoft.EntityFrameworkCore;
 using RequestTrackerModelLibrary;
+using RequestTrackerModelLibrary.CustomException;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,9 +27,21 @@ namespace EmployeeRequestTrackerDALLibrary.JoinedRepository
                     .ToListAsync();
 
         }
-        public override Task<Employee> Get(int key)
+        public async override Task<Employee> Get(int key)
         {
-            return base.Get(key);
+            Employee employee = await _context.Employees
+                    .Include(e => e.GivenFeedbacks)
+                    .Include(e => e.RaisedRequests)
+                    .Include(e => e.ClosedRequest)
+                    .Include(e => e.GivenSolutions)
+                    .FirstOrDefaultAsync(e => e.EmployeeId == key);
+
+            if (employee != null)
+            {
+                return employee;
+            }
+            throw new NoDataFoundException("No Employee avaliable for given Id");
+
         }
 
     }

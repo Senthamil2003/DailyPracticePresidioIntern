@@ -16,7 +16,7 @@ namespace RequestTrackerModelLibrary
         public int EmployeeId { get; set; }
         public Employee Employee { get; set; }
         public int Rating { get; set; }
-        public string comment { get; set; }
+        public string comment { get; set;}
 
     }
 }

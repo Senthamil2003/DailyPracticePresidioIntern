@@ -21,7 +21,7 @@ namespace EmployeeRequestTrackerBLLibrary.BusinessLogic
         public AdminBL() {
             _solutionRepository = new SolutionRepository(new RequestTrackerContext());
             _Employeerepo = new EmployeeJoinedRepository(new RequestTrackerContext());
-            _feedbackrepository = new FeedbackRepository(new RequestTrackerContext());
+            _feedbackrepository = new FeedbackJoinedRepository(new RequestTrackerContext());
             _requestrepo = new RequestJoinedRepository(new RequestTrackerContext());
         }
         public async Task<List<Request>> GetClosedList(int id)
@@ -49,7 +49,7 @@ namespace EmployeeRequestTrackerBLLibrary.BusinessLogic
             try
             {
                 Employee employee = await GetEmployee(id);
-                List<Solution> solutions = (List<Solution>)employee.GivenSolutions;
+                List<Solution> solutions = employee.GivenSolutions;
                 if (solutions.Count > 0)
                 {
                     return solutions;
@@ -67,6 +67,7 @@ namespace EmployeeRequestTrackerBLLibrary.BusinessLogic
         {
             try
             {
+                await Console.Out.WriteLineAsync("inside repo");
                 List<Request> requests = await _requestrepo.GetAll();
                 return requests;
 
@@ -77,6 +78,19 @@ namespace EmployeeRequestTrackerBLLibrary.BusinessLogic
             }
         }
 
+        public Task<Solution> AddSolution(Solution solution)
+        {
+            try
+            {
+               
+               return _solutionRepository.Add(solution);  
+
+            }
+            catch
+            {
+                throw;
+            }
+        }
 
         public async Task<Request> UpdateRequestStatus(int id)
         {
@@ -94,5 +108,22 @@ namespace EmployeeRequestTrackerBLLibrary.BusinessLogic
             }
         }
 
+        public async Task<List<Feedback>> ViewFeedback(int id)
+        {
+            try
+            {
+                Employee employee = await _Employeerepo.Get(id);
+                List<Feedback> feedbacks = employee.GivenFeedbacks;
+                if (feedbacks.Count > 0)
+                {
+                    return feedbacks;
+                }
+                throw new NoDataFoundException("No feedbac available");
+            }
+            catch
+            {
+                throw;
+            }
+        }
     }
 }

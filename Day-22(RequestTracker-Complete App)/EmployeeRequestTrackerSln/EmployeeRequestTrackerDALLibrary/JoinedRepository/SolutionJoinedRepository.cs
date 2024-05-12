@@ -19,11 +19,14 @@ namespace EmployeeRequestTrackerDALLibrary.JoinedRepository
         {
             return   await _context.Solutions
                     .Include(e => e.Feedbacks)
+                    .Include(s=>s.AnsweredEmployee)
                     .ToListAsync();
         }
         public async override Task<Solution> Get(int key)
         {
-            Solution Solution = await _context.Solutions.Include(e => e.Feedbacks).FirstOrDefaultAsync(e => e.SolutionId == key);
+            Solution Solution = await _context.Solutions.Include(e => e.Feedbacks)
+                .Include(e=>e.AnsweredEmployee)
+                .FirstOrDefaultAsync(e => e.SolutionId == key);
 
             if (Solution != null)
             {

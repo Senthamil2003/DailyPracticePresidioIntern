@@ -13,6 +13,8 @@ namespace EmployeeRequestTrackerBLLibrary.Services
         public Task<List<Request>> GetClosedList(int id);
         public Task<List<Request>> RequestList();
         public Task<Request> UpdateRequestStatus(int id);
+        public Task<Solution> AddSolution(Solution solution);
+        public Task<List<Feedback>> ViewFeedback(int id);
 
     }
 }

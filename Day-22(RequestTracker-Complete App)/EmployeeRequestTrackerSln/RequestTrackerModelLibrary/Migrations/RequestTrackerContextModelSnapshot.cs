@@ -140,6 +140,10 @@ namespace RequestTrackerModelLibrary.Migrations
                     b.Property<string>("RaiserComment")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("SolutionStatement")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("SolutionId");
 
                     b.HasIndex("AnsweredEmployeeId");
