@@ -1,0 +1,66 @@
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.exe
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.deps.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.pdb
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets\msbuild.FirstWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstWebApi.props
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstWebApi.props
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstWebApi.props
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\scopedcss\bundle\FirstWebApi.styles.css
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWeb.044E6F8B.Up2Date
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\refint\FirstWebApi.dll
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.pdb
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day-21(CodeFirst approach )\ApiSolution\FirstWebApi\obj\Debug\net6.0\ref\FirstWebApi.dll
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.exe
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.deps.json
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.runtimeconfig.json
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.dll
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\FirstWebApi.pdb
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.csproj.AssemblyReference.cache
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.AssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.sourcelink.json
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets\msbuild.FirstWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstWebApi.props
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstWebApi.props
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstWebApi.props
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\scopedcss\bundle\FirstWebApi.styles.css
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWeb.044E6F8B.Up2Date
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.dll
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\refint\FirstWebApi.dll
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.pdb
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\FirstWebApi.genruntimeconfig.cache
+C:\Users\VC\Documents\Projects\Day-22(Web-API-Start)\ApiSolution\FirstWebApi\obj\Debug\net6.0\ref\FirstWebApi.dll

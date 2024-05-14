@@ -50,8 +50,7 @@
               "RelativeToolTip": "MigrationTestApp\\Migrations\\20240509113055_third.cs",
               "ViewState": "AQIAAAwAAAAA7P////8XwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:30:55.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T11:30:55.906Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "MigrationTestApp\\Migrations\\20240509112805_second.cs",
               "ViewState": "AQIAABIAAABQ/f////83wBQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:28:05.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T11:28:05.811Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "MigrationTestApp\\Migrations\\20240509112741_first.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\MigrationTestSln\\MigrationTestApp\\Migrations\\20240509112741_first.cs",
               "RelativeToolTip": "MigrationTestApp\\Migrations\\20240509112741_first.cs",
-              "ViewState": "AQIAAAYAAAC8//////8xwBAAAAAJAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAABQPRAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T11:27:41.311Z",
               "EditorCaption": ""
@@ -89,8 +87,7 @@
               "RelativeToolTip": "MigrationTestApp\\Migrations\\StudentContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:27:11.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T11:27:11.312Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "MigrationTestApp\\Migrations\\20240509112620_init.cs",
               "ViewState": "AQIAAAwAAACAFQAAAAAYwBUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:26:20.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T11:26:20.243Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "MigrationTestApp\\StudentContext.cs",
               "ViewState": "AQIAAAcAAADAEAAAAADwvxAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:20:29.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T11:20:29.322Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "MigrationTestApp\\Student.cs",
               "ViewState": "AQIAAAUAAAAA/v////8TwAsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:19:29.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T11:19:29.97Z"
             }
           ]
         }

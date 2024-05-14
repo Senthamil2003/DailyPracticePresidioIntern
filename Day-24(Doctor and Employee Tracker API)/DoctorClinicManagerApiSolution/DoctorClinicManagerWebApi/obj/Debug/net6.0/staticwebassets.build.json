@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0OSULhQCBmYN7as4FOjhPsOtsUhwCXbg1l5BzQonIYc=",
+  "Source": "DoctorClinicManagerWebApi",
+  "BasePath": "_content/DoctorClinicManagerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

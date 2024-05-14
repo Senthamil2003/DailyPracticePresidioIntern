@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\ApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBF3272-FCCF-453B-9219-04DB2DAE529C}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-21(codefirst approach )\\apisolution\\firstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBF3272-FCCF-453B-9219-04DB2DAE529C}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\ApiSolution\\FirstWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "FirstWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-21(CodeFirst approach )\\ApiSolution\\FirstWebApi\\Program.cs",
+              "RelativeToolTip": "FirstWebApi\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:51:30.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
