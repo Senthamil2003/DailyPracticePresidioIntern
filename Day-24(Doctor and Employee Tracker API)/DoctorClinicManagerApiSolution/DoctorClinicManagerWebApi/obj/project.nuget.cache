@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NIG9JXirXk9aABgO/cSogjoOndkC9kuEDeZQoBxdFug+BhNmLF7E+GR99Gcajs+6//tdpUw/zkcbh7gaT0LijQ==",
+  "dgSpecHash": "ywZMrAeQv3yQuhg9pTEK98NtDUpYfG9JK+mSR1HlKbro/4hdOEtjEpnVA5faGFTpEaBDn9ArOFLnfsRALDKzOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-23(Web-Api-Basic CRUD)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\VC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

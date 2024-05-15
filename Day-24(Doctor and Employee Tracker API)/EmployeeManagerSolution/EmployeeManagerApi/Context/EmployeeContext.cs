@@ -11,11 +11,12 @@ namespace EmployeeManagerApi.Context
 
         }
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<User> Users { get; set; }  
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Employee>().HasData(
-                new Employee() { EmployeeId = 101, Name = "Ramu", Phone = "9876543321", Image = "" },
-                new Employee() { EmployeeId = 102, Name = "Somu", Phone = "9988776655", Image = "" }
+                new Employee() { EmployeeId = 101, Name = "Ramu", Phone = "9876543321", Image = "" ,Role="User"},
+                new Employee() { EmployeeId = 102, Name = "Somu", Phone = "9988776655", Image = "",Role="Admin" }
              );
         }
     }

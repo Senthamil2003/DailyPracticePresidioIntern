@@ -19,12 +19,21 @@ namespace EmployeeManagerApi
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            #region Context
             builder.Services.AddDbContext<EmployeeContext>(
                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"))
             );
-            builder.Services.AddScoped<IReposiroty<int, Employee>, EmployeeRepository>();
+            #endregion
 
+            #region Repository
+            builder.Services.AddScoped<IReposiroty<int, Employee>, EmployeeRepository>();
+            builder.Services.AddScoped<IReposiroty<int,User>,UserRepository>();
+            #endregion
+
+            #region EmployeeBL
             builder.Services.AddScoped<EmployeeService, EmployeeBL>();
+            builder.Services.AddScoped<IUserService, UserBL>();
+            #endregion
 
 
             var app = builder.Build();

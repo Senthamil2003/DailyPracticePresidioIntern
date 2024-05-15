@@ -2444,11 +2444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-23(Web-Api-Basic CRUD)\\EmployeeManagerSolution\\EmployeeManagerApi\\EmployeeManagerApi.csproj",
+      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\EmployeeManagerApi.csproj",
       "projectName": "EmployeeManagerApi",
-      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-23(Web-Api-Basic CRUD)\\EmployeeManagerSolution\\EmployeeManagerApi\\EmployeeManagerApi.csproj",
+      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\EmployeeManagerApi.csproj",
       "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-23(Web-Api-Basic CRUD)\\EmployeeManagerSolution\\EmployeeManagerApi\\obj\\",
+      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

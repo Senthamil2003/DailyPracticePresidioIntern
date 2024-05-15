@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day-23(Web-Api-Basic CRUD)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj": {}
+    "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VC\\Documents\\Projects\\Day-23(Web-Api-Basic CRUD)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj": {
+    "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-23(Web-Api-Basic CRUD)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj",
         "projectName": "DoctorClinicManagerWebApi",
-        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-23(Web-Api-Basic CRUD)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj",
+        "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-23(Web-Api-Basic CRUD)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -17,6 +17,8 @@ namespace EmployeeManagerApi.Controllers
             _employeebl=employeebl;
 
         }
+        [ProducesResponseType(typeof(IList<Employee>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status404NotFound)]
         [Route("api/getaAllEmployee")]
         [HttpGet]
         public async Task<ActionResult<IList<Employee>>> Get()
@@ -28,7 +30,7 @@ namespace EmployeeManagerApi.Controllers
             }
             catch (Exception nefe)
             {
-                return NotFound(nefe.Message);
+                return NotFound(new ErrorModel(404 , nefe.Message));
             }
         }
         [Route("api/UpdateEmployee")]

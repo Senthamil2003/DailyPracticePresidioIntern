@@ -43,7 +43,7 @@ namespace EmployeeManagerApi.BusinessLogic
             try
             {
                Employee employee=await _employeerepo.Get(id);
-                await Console.Out.WriteLineAsync("---------------------hi inside the bl-----------------------");
+             
                 if (employee!=null)
                 {
                     employee.Phone = phoneNumber;

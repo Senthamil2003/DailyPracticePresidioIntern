@@ -29,7 +29,11 @@ namespace DoctorClinicManagerWebApi.DoctorBusinessLogic
             try
             {
                 IEnumerable<Doctor> doctors = (await _doctorrepo.Get()).Where(d=>d.Speciality==speciality);
-                return doctors;
+                if (doctors.Count() > 0)
+                {
+                    return doctors;
+                }
+                throw new Exception("There is no doctor with specilization");
             }
             catch
             {
