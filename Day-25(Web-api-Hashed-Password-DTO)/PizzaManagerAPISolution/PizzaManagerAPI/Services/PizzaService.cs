@@ -14,7 +14,7 @@ namespace PizzaManagerAPI.Services
         {
             try
             {
-                List<Pizza> result = (await _pizzarepo.Get()).ToList();
+                List<Pizza> result = (await _pizzarepo.Get()).Where(e => e.Quantity > 0).ToList();
                 if (result.Count > 0)
                 {
                     return result;

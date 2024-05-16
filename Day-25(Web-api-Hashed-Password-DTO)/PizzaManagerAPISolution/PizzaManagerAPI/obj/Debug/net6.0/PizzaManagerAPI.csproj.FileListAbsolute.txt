@@ -65,6 +65,7 @@ C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerA
 C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerAPISolution\PizzaManagerAPI\obj\Debug\net6.0\PizzaManagerAPI.pdb
 C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerAPISolution\PizzaManagerAPI\obj\Debug\net6.0\PizzaManagerAPI.genruntimeconfig.cache
 C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerAPISolution\PizzaManagerAPI\obj\Debug\net6.0\ref\PizzaManagerAPI.dll
-C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerAPISolution\PizzaManagerAPI\bin\Debug\net6.0\libman.json
 C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerAPISolution\PizzaManagerAPI\bin\Debug\net6.0\Humanizer.dll
 C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerAPISolution\PizzaManagerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerAPISolution\PizzaManagerAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerAPISolution\PizzaManagerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

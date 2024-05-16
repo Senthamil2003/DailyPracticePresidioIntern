@@ -3,7 +3,11 @@ using EmployeeManagerApi.Context;
 using EmployeeManagerApi.Interface;
 using EmployeeManagerApi.Model;
 using EmployeeManagerApi.Reepository;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
+using System.Text;
 
 namespace EmployeeManagerApi
 {
@@ -18,7 +22,47 @@ namespace EmployeeManagerApi
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+
+            builder.Services.AddSwaggerGen(option =>
+            {
+                option.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
+                {
+                    Name = "Authorization",
+                    Type = SecuritySchemeType.ApiKey,
+                    Scheme = "Bearer",
+                    BearerFormat = "JWT",
+                    In = ParameterLocation.Header,
+                    Description = "JWT Authorization header using the Bearer scheme. \r\n\r\n Enter 'Bearer' [space] and then your token in the text input below.\r\n\r\nExample: \"Bearer 1safsfsdfdfd\"",
+                });
+                option.AddSecurityRequirement(new OpenApiSecurityRequirement
+            {
+                {
+                    new OpenApiSecurityScheme
+                    {
+                        Reference = new OpenApiReference
+                        {
+                            Type = ReferenceType.SecurityScheme,
+                            Id = "Bearer"
+                        }
+                    },
+                    new string[] { }
+                }
+            });
+            });
+            //Debug.WriteLine(builder.Configuration["TokenKey:JWT"]);
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options =>
+                {
+                    options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters()
+                    {
+                        ValidateIssuer = false,
+                        ValidateAudience = false,
+                        ValidateIssuerSigningKey = true,
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["TokenKey:JWT"]))
+                    };
+
+                });
+
             #region Context
             builder.Services.AddDbContext<EmployeeContext>(
                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"))
@@ -28,11 +72,15 @@ namespace EmployeeManagerApi
             #region Repository
             builder.Services.AddScoped<IReposiroty<int, Employee>, EmployeeRepository>();
             builder.Services.AddScoped<IReposiroty<int,User>,UserRepository>();
+           
             #endregion
 
             #region EmployeeBL
             builder.Services.AddScoped<EmployeeService, EmployeeBL>();
             builder.Services.AddScoped<IUserService, UserBL>();
+            builder.Services.AddScoped<ITokenService, TokenBL>();
+
+
             #endregion
 
 
@@ -46,7 +94,7 @@ namespace EmployeeManagerApi
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
- 
+            app.UseAuthentication();
             app.UseAuthorization();
 
 

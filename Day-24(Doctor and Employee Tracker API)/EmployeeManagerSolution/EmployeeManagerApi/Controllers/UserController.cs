@@ -1,6 +1,7 @@
 ﻿using EmployeeManagerApi.Interface;
 using EmployeeManagerApi.Model;
 using EmployeeManagerApi.Model.DTO;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -15,6 +16,7 @@ namespace EmployeeManagerApi.Controllers
         public UserController(IUserService userbl) {
             _userbl=userbl;
         }
+        [Authorize]
         [HttpPost("Login")]
         [ProducesResponseType(typeof(Employee), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status401Unauthorized)]
@@ -31,13 +33,13 @@ namespace EmployeeManagerApi.Controllers
             }
         }
         [HttpPost("Register")]
-        [ProducesResponseType(typeof(Employee), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(SuccessLogin), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status400BadRequest)]
-        public async Task<ActionResult<Employee>> Register(EmployeeUserDTO userDTO)
+        public async Task<ActionResult<SuccessLogin>> Register(EmployeeUserDTO userDTO)
         {
             try
             {
-                Employee result = await _userbl.Register(userDTO);
+                SuccessLogin result = await _userbl.Register(userDTO);
                 return Ok(result);
             }
             catch (Exception ex)

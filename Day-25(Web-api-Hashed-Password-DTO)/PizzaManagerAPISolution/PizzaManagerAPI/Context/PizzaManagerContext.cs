@@ -14,10 +14,10 @@ namespace PizzaManagerAPI.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Pizza>().HasData(
-                new Pizza() {  PizzaName= "Chicken Pizza", Price=250,Quantity=10,Size="M"},
-                new Pizza() { PizzaName = "Cheese Pizza", Price = 150, Quantity = 10, Size = "L" },
-                new Pizza() { PizzaName = "Veggie Pizza", Price = 150, Quantity = 10, Size = "S" },
-                new Pizza() { PizzaName = "Pepperoni Pizza", Price = 250, Quantity = 10, Size = "M" }
+                new Pizza() { PizzaId=100, PizzaName= "Chicken Pizza", Price=250,Quantity=10,Size="M"},
+                new Pizza() { PizzaId = 101, PizzaName = "Cheese Pizza", Price = 150, Quantity = 10, Size = "L" },
+                new Pizza() { PizzaId = 102,PizzaName = "Veggie Pizza", Price = 150, Quantity = 10, Size = "S" },
+                new Pizza() { PizzaId = 103, PizzaName = "Pepperoni Pizza", Price = 250, Quantity = 10, Size = "M" }
 
 
 

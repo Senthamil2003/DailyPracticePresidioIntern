@@ -10,11 +10,13 @@ namespace PizzaManagerAPI.Services
     {
         private readonly IReposiroty<int, Customer> _userrepo;
         private readonly IReposiroty<int, UserCredential> _credentialrepo;
+        private readonly ITokenService _tokenservices;
 
-        public CustomerService(IReposiroty<int, Customer> userRepo, IReposiroty<int, UserCredential> credentialrepo)
+        public CustomerService(IReposiroty<int, Customer> userRepo, IReposiroty<int, UserCredential> credentialrepo,ITokenService tokenService)
         {
             _userrepo = userRepo;
             _credentialrepo = credentialrepo;
+            _tokenservices= tokenService;
         }
         public async Task<bool> CheckPassword(byte[] pass1, byte[] pass2)
         {
@@ -28,7 +30,7 @@ namespace PizzaManagerAPI.Services
             }
             return true;
         }
-        public async Task<SuccessRegister> Login(LoginDTO loginDTO)
+        public async Task<SuccessLogin> Login(LoginDTO loginDTO)
         {
             try
             {
@@ -43,12 +45,13 @@ namespace PizzaManagerAPI.Services
                 if (await CheckPassword(password, user.Password))
                 {
                      Customer customer= await _userrepo.Get(user.UserId);
-                    SuccessRegister success = new SuccessRegister()
+                    SuccessLogin success = new SuccessLogin()
                     {
-                        StatusCode=200,
-                        Message="User Successfully registered",
-                        Customer=customer
+                        Code = 200,
+                        Message = "User Successfully login",
+                        Token = await _tokenservices.GenerateToken(customer)
                     };
+                    return success;
 
                 }
                 throw new Exception("Customer Name Password not correct");
@@ -66,9 +69,11 @@ namespace PizzaManagerAPI.Services
 
             UserCredential user = new UserCredential()
             {
-                UserId = dto.UserId,
+               
                 HashedPassword= hash.Key,
-                Password = hash.ComputeHash(Encoding.UTF8.GetBytes(dto.Password))
+                Password = hash.ComputeHash(Encoding.UTF8.GetBytes(dto.Password)),
+                UserName=dto.Email,
+                
             };
             return  user;
 
@@ -86,9 +91,9 @@ namespace PizzaManagerAPI.Services
                     Mobil = userDTO.Mobil, 
                 };
                 await  _userrepo.Add(customer);
-                userDTO.UserId = customer.UserId;
                 user = await CreateCredential(userDTO);
-                await _userrepo.Add(customer);
+                user.UserId=customer.UserId;
+                await _credentialrepo.Add(user);
                 SuccessRegister success = new SuccessRegister()
                 {
                     StatusCode = 200,

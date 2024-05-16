@@ -10,10 +10,12 @@ namespace EmployeeManagerApi.BusinessLogic
     {
         private readonly IReposiroty<int, Employee> _employeerepo;
         private readonly IReposiroty<int, User> _userrepo;
+        private readonly ITokenService _tokenservice;
 
-        public UserBL(IReposiroty<int,Employee> employeeRepo,IReposiroty<int ,User> userrepo) {
+        public UserBL(IReposiroty<int,Employee> employeeRepo,IReposiroty<int ,User> userrepo,ITokenService tokenservice) {
             _employeerepo=employeeRepo;
             _userrepo = userrepo;
+            _tokenservice=tokenservice;
         }
         public async  Task<bool> CheckPassword(byte[] pass1, byte[] pass2)
         {
@@ -64,7 +66,7 @@ namespace EmployeeManagerApi.BusinessLogic
             return user;
 
         }
-        public async Task<Employee> Register(EmployeeUserDTO employeeDTO)
+        public async Task<SuccessLogin> Register(EmployeeUserDTO employeeDTO)
         {
             Employee employee = null;
             User user = null;
@@ -75,7 +77,15 @@ namespace EmployeeManagerApi.BusinessLogic
                 employeeDTO.EmployeeId = employee.EmployeeId;
                user = await CreateUser(employeeDTO);
                 await _userrepo.Add(user);
-               return employee;
+
+                SuccessLogin success = new SuccessLogin()
+                {
+                    Code = 200,
+                    Role = employee.Role,
+                    Token =await _tokenservice.GenerateToken(employeeDTO)
+                };
+
+               return success;
 
             }
             catch

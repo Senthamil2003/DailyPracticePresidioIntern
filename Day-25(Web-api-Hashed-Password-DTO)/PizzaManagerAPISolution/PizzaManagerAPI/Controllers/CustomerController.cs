@@ -17,7 +17,7 @@ namespace PizzaManagerAPI.Controllers
             _customer=customerService;
         }
         [HttpPost("Login")]
-        [ProducesResponseType(typeof(SuccessRegister), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(SuccessLogin), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status401Unauthorized)]
         public async Task<ActionResult<SuccessRegister>> Login(LoginDTO userLoginDTO)
         {
@@ -32,7 +32,7 @@ namespace PizzaManagerAPI.Controllers
             }
         }
         [HttpPost("Register")]
-        [ProducesResponseType(typeof(Customer), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(SuccessRegister), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status400BadRequest)]
         public async Task<ActionResult<SuccessRegister>> Register(RegisterDTO userDTO)
         {
@@ -46,5 +46,6 @@ namespace PizzaManagerAPI.Controllers
                 return BadRequest(new ErrorModel(501, ex.Message));
             }
         }
+
     }
 }

@@ -1,6 +1,7 @@
 ﻿using EmployeeManagerApi.CustomExceptions;
 using EmployeeManagerApi.Interface;
 using EmployeeManagerApi.Model;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -17,6 +18,7 @@ namespace EmployeeManagerApi.Controllers
             _employeebl=employeebl;
 
         }
+        [Authorize]
         [ProducesResponseType(typeof(IList<Employee>), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status404NotFound)]
         [Route("api/getaAllEmployee")]
