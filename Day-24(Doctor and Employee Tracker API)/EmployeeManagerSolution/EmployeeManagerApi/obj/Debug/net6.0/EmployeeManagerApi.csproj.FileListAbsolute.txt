@@ -138,3 +138,4 @@ C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeM
 C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\obj\Debug\net6.0\ref\EmployeeManagerApi.dll
 C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\EmployeeManagerApi.staticwebassets.runtime.json

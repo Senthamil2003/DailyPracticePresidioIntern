@@ -3,11 +3,14 @@ using EmployeeManagerApi.Context;
 using EmployeeManagerApi.Interface;
 using EmployeeManagerApi.Model;
 using EmployeeManagerApi.Reepository;
+using EmployeeManagerApi.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
+using System.Text.Json.Serialization;
 
 namespace EmployeeManagerApi
 {
@@ -19,9 +22,7 @@ namespace EmployeeManagerApi
 
             // Add services to the container.
 
-            builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-            builder.Services.AddEndpointsApiExplorer();
 
             builder.Services.AddSwaggerGen(option =>
             {
@@ -58,11 +59,14 @@ namespace EmployeeManagerApi
                         ValidateIssuer = false,
                         ValidateAudience = false,
                         ValidateIssuerSigningKey = true,
-                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["TokenKey:JWT"]))
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["TokenKey:JWT"])),
+                   
+                        
                     };
 
                 });
 
+            builder.Services.AddControllers();
             #region Context
             builder.Services.AddDbContext<EmployeeContext>(
                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"))
@@ -72,13 +76,16 @@ namespace EmployeeManagerApi
             #region Repository
             builder.Services.AddScoped<IReposiroty<int, Employee>, EmployeeRepository>();
             builder.Services.AddScoped<IReposiroty<int,User>,UserRepository>();
-           
+            builder.Services.AddScoped<IReposiroty<int, Request>, RequestRepository>();
+
             #endregion
 
             #region EmployeeBL
-            builder.Services.AddScoped<EmployeeService, EmployeeBL>();
-            builder.Services.AddScoped<IUserService, UserBL>();
-            builder.Services.AddScoped<ITokenService, TokenBL>();
+            builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
+            builder.Services.AddScoped<ITokenService, TokenService>();
+            builder.Services.AddScoped<IAdminService, AdminService>();
+
 
 
             #endregion

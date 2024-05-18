@@ -1,13 +1,13 @@
-﻿using EmployeeManagerApi.Model.DTO;
-using EmployeeManagerApi.Model;
+﻿using EmployeeManagerApi.Model;
+using EmployeeManagerApi.Model.DTO;
 
 namespace EmployeeManagerApi.Interface
 {
     public interface IUserService
     {
-        public Task<Employee> Login(LoginDTO loginDTO);
-        public Task<SuccessLogin> Register(EmployeeUserDTO employeeDTO);
+        public Task<SuccessRequest> RaiseRequest(RaiseRequestDTO raiser);
+        public Task<IList<RequestListDTO>> GetMyRequests(ViewRequestDTO viewer);
+
+
     }
-
-
 }

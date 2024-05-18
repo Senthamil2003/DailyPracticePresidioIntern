@@ -10,5 +10,6 @@ namespace EmployeeManagerApi.Model
         public string Phone { get; set; }
         public string? Image { get; set; }
         public string Role { get; set; }
+        public ICollection<Request> RaisedRequest { get; set; } 
     }
 }

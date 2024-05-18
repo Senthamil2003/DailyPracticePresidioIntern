@@ -6,13 +6,13 @@ using System.Text;
 
 namespace EmployeeManagerApi.BusinessLogic
 {
-    public class UserBL:IUserService
+    public class AuthenticationService:IAuthenticationService
     {
         private readonly IReposiroty<int, Employee> _employeerepo;
         private readonly IReposiroty<int, User> _userrepo;
         private readonly ITokenService _tokenservice;
 
-        public UserBL(IReposiroty<int,Employee> employeeRepo,IReposiroty<int ,User> userrepo,ITokenService tokenservice) {
+        public AuthenticationService(IReposiroty<int,Employee> employeeRepo,IReposiroty<int ,User> userrepo,ITokenService tokenservice) {
             _employeerepo=employeeRepo;
             _userrepo = userrepo;
             _tokenservice=tokenservice;
@@ -29,7 +29,7 @@ namespace EmployeeManagerApi.BusinessLogic
             }
             return true;
         }
-        public async Task<Employee> Login(LoginDTO loginDTO)
+        public async Task<SuccessLogin> Login(LoginDTO loginDTO)
         {
             try
             {
@@ -40,9 +40,17 @@ namespace EmployeeManagerApi.BusinessLogic
                 }
                 HMACSHA512 hash = new HMACSHA512(user.PaswordHash);
                 var password = hash.ComputeHash(Encoding.UTF8.GetBytes(loginDTO.Password));
-                if(await  CheckPassword(password, user.Password))
+                if(await  CheckPassword(password, user.Password) && user.Status=="Enable")
                 {
-                    return await _employeerepo.Get(user.EmployeeId);
+                    Employee employee= await _employeerepo.Get(user.EmployeeId);
+
+                    SuccessLogin success = new SuccessLogin()
+                    {
+                        Code = 200,
+                        Role = employee.Role,
+                        Token = await _tokenservice.GenerateToken(employee)
+                    };
+                    return success;
                 }
                 throw new Exception("User Name Password not correct");
             }
@@ -94,5 +102,6 @@ namespace EmployeeManagerApi.BusinessLogic
             }
 
         }
+      
     }
 }

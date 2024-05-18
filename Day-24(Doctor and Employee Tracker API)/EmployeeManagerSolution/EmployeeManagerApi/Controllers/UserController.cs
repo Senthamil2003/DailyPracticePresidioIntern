@@ -1,4 +1,5 @@
-﻿using EmployeeManagerApi.Interface;
+﻿using EmployeeManagerApi.CustomExceptions;
+using EmployeeManagerApi.Interface;
 using EmployeeManagerApi.Model;
 using EmployeeManagerApi.Model.DTO;
 using Microsoft.AspNetCore.Authorization;
@@ -7,46 +8,51 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeeManagerApi.Controllers
 {
-    [Route("api/user")]
+    
     [ApiController]
     public class UserController : ControllerBase
     {
         private readonly IUserService _userbl;
 
-        public UserController(IUserService userbl) {
-            _userbl=userbl;
+        public UserController(IUserService employeebl) { 
+
+            _userbl=employeebl;
+
         }
-        [Authorize]
-        [HttpPost("Login")]
-        [ProducesResponseType(typeof(Employee), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status401Unauthorized)]
-        public async Task<ActionResult<Employee>> Login(LoginDTO userLoginDTO)
+        
+        [ProducesResponseType(typeof(SuccessRequest), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status404NotFound)]
+        [Route("api/User/RaiseRequest")]
+        [HttpPut]
+        public async Task<ActionResult<SuccessRequest>> RaiseRequest(RaiseRequestDTO request)
         {
             try
             {
-                var result = await _userbl.Login(userLoginDTO);
-                return Ok(result);
+                var requestresult = await _userbl.RaiseRequest(request);
+                return Ok(requestresult);
             }
-            catch (Exception ex)
+            catch (Exception nefe)
             {
-                return Unauthorized(new ErrorModel(401, ex.Message));
+                return NotFound(new ErrorModel(404, nefe.Message));
             }
         }
-        [HttpPost("Register")]
-        [ProducesResponseType(typeof(SuccessLogin), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status400BadRequest)]
-        public async Task<ActionResult<SuccessLogin>> Register(EmployeeUserDTO userDTO)
+        [ProducesResponseType(typeof(IList<RequestListDTO>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status404NotFound)]
+        [Route("api/User/GetMyRequest")]
+        [HttpPut]
+        public async Task<ActionResult<IList<RequestListDTO>>> GetMyRequest(ViewRequestDTO request)
         {
             try
             {
-                SuccessLogin result = await _userbl.Register(userDTO);
-                return Ok(result);
+                var requestresult = await _userbl.GetMyRequests(request);
+                return Ok(requestresult);
             }
-            catch (Exception ex)
+            catch (Exception nefe)
             {
-                return BadRequest(new ErrorModel(501, ex.Message));
+                return NotFound(new ErrorModel(404, nefe.Message));
             }
         }
+
 
     }
 }

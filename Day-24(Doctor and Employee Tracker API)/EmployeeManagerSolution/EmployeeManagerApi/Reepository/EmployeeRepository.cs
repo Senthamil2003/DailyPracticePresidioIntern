@@ -2,6 +2,7 @@
 using EmployeeManagerApi.CustomExceptions;
 using EmployeeManagerApi.Interface;
 using EmployeeManagerApi.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeManagerApi.Reepository
 {
@@ -48,7 +49,7 @@ namespace EmployeeManagerApi.Reepository
         {
             try
             {
-                Employee employee = _context.Employees.FirstOrDefault(e => e.EmployeeId == key);
+                Employee employee = _context.Employees.Include(e=>e.RaisedRequest).FirstOrDefault(e => e.EmployeeId == key);
                 if (employee != null)
                 {
                     return employee;
@@ -68,7 +69,7 @@ namespace EmployeeManagerApi.Reepository
         {
             try
             {
-               IEnumerable<Employee> employees =_context.Employees;
+               IEnumerable<Employee> employees =_context.Employees.Include(e=>e.RaisedRequest);
                 if (employees !=null)
                 {
                     return  employees;
