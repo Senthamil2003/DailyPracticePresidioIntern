@@ -5,6 +5,7 @@ using EmployeeManagerApi.Model.DTO;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace EmployeeManagerApi.Controllers
 {
@@ -44,6 +45,7 @@ namespace EmployeeManagerApi.Controllers
         {
             try
             {
+                var userId = User.FindFirstValue("Id");
                 var requestresult = await _userbl.GetMyRequests(request);
                 return Ok(requestresult);
             }

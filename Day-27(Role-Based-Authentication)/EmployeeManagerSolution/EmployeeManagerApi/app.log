@@ -1,0 +1,10 @@
+INFO  04:50:00 Now listening on: http://localhost:5071
+INFO  04:50:00 Application started. Press Ctrl+C to shut down.
+INFO  04:50:00 Hosting environment: Development
+INFO  04:50:00 Content root path: C:\Users\VC\Documents\Projects\Day-27(Role-Based-Authentication)\EmployeeManagerSolution\EmployeeManagerApi\
+INFO  04:50:43 Entity Framework Core 6.0.29 initialized 'EmployeeContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.29' with options: None
+INFO  04:50:45 Executed DbCommand (161ms) [Parameters=[@__key_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[EmployeeId], [u].[Password], [u].[PaswordHash], [u].[Status]
+FROM [Users] AS [u]
+WHERE [u].[EmployeeId] = @__key_0
+FATAL 04:50:46 =-----------------------------User is not-------------------------------------No user with the given ID

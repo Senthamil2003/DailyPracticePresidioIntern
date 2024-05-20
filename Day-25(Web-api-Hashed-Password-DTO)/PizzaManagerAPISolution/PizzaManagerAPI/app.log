@@ -1,0 +1,10 @@
+INFO  09:49:38 Now listening on: http://localhost:5050
+INFO  09:49:38 Application started. Press Ctrl+C to shut down.
+INFO  09:49:38 Hosting environment: Development
+INFO  09:49:38 Content root path: C:\Users\VC\Documents\Projects\Day-25(Web-api-Hashed-Password-DTO)\PizzaManagerAPISolution\PizzaManagerAPI\
+INFO  09:50:02 Entity Framework Core 6.0.29 initialized 'PizzaManagerContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.29' with options: None
+INFO  09:50:06 Executed DbCommand (343ms) [Parameters=[@__key_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(2) [u].[UserName], [u].[HashedPassword], [u].[Password], [u].[UserId]
+FROM [UserCredentials] AS [u]
+WHERE [u].[UserId] = @__key_0
+FATAL 09:50:08 No UserCredential with the given ID

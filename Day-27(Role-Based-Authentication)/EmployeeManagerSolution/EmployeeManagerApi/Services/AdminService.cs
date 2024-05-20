@@ -3,6 +3,8 @@ using EmployeeManagerApi.Interface;
 using EmployeeManagerApi.Model;
 using EmployeeManagerApi.Model.DTO;
 
+
+
 namespace EmployeeManagerApi.Services
 {
     public class AdminService:IAdminService
@@ -50,6 +52,7 @@ namespace EmployeeManagerApi.Services
         {
             try
             {
+              
                 List<Request> requests = (await _requestservice.Get()).Where(r => r.RequestStatus == "Open").OrderBy(r=>r.RaiseDate).ToList();
                 if(requests.Count > 0)
                 {
@@ -72,7 +75,8 @@ namespace EmployeeManagerApi.Services
         {
             try
             {
-               Request request=await  _requestservice.Get(RequestId);
+            
+                Request request=await  _requestservice.Get(RequestId);
                 if (request == null)
                 {
                     throw new NoRequestFoundException("No request found for the given Id");

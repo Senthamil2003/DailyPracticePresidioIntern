@@ -21,7 +21,7 @@ namespace EmployeeManagerApi
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
+            builder.Services.AddLogging(l => l.AddLog4Net());
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
             builder.Services.AddSwaggerGen(option =>

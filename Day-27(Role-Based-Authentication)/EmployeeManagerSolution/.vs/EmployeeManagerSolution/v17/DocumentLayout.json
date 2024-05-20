@@ -1,89 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\successrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\dto\\successrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\employeemanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\employeemanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\successregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\dto\\successregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\employeeuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\dto\\employeeuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\customexceptions\\usernotverifiedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\customexceptions\\usernotverifiedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\customexceptions\\useralreadyactivatedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\customexceptions\\useralreadyactivatedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\customexceptions\\useralreadyactivatedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\model\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\successrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\dto\\successrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\successregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\dto\\successregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\employeeuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\dto\\employeeuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\customexceptions\\usernotverifiedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\customexceptions\\usernotverifiedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\model\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\interface\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\interface\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\interface\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\reepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\reepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\reepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\raiserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\raiserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\dto\\raiserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\requestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-27(role-based-authentication)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\requestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\model\\dto\\requestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -98,13 +110,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "UserAlreadyActivatedException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\UserAlreadyActivatedException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\UserAlreadyActivatedException.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\CustomExceptions\\UserAlreadyActivatedException.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\UserAlreadyActivatedException.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\UserAlreadyActivatedException.cs",
               "RelativeToolTip": "EmployeeManagerApi\\CustomExceptions\\UserAlreadyActivatedException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T09:16:50.367Z",
               "IsPinned": true
@@ -112,71 +124,135 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "EmployeeManagerApi\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAowB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T08:26:07.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\UserService.cs",
-              "RelativeToolTip": "EmployeeManagerApi\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T08:27:21.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AdminController.cs*",
-              "RelativeToolTip": "EmployeeManagerApi\\Controllers\\AdminController.cs*",
-              "ViewState": "AQIAADEAAAAAAAAAAAAowD8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T08:58:09.355Z",
+              "Title": "EmployeeManagerApi",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\EmployeeManagerApi.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\EmployeeManagerApi.csproj",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\EmployeeManagerApi.csproj",
+              "RelativeToolTip": "EmployeeManagerApi\\EmployeeManagerApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T16:11:40.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EmployeeManagerApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAADMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:26:07.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:10:49.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\log4net.config",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\log4net.config",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\log4net.config",
+              "RelativeToolTip": "EmployeeManagerApi\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T07:11:47.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AdminService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AdminService.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\AdminService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AdminService.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Services\\AdminService.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAawEoAAAAPAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAA5wFgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T08:54:57.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAARAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Program.cs",
+              "RelativeToolTip": "EmployeeManagerApi\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T06:10:49.15Z"
+              "WhenOpened": "2024-05-20T07:16:44.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EmployeeManagerApi\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA3wDwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:58:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\TokenService.cs",
+              "RelativeToolTip": "EmployeeManagerApi\\Services\\TokenService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:17:14.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "EmployeeManagerApi\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:10:26.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\UserService.cs",
+              "RelativeToolTip": "EmployeeManagerApi\\Services\\UserService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:27:21.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "SuccessRequest.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\SuccessRequest.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\SuccessRequest.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Model\\DTO\\SuccessRequest.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\SuccessRequest.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\SuccessRequest.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Model\\DTO\\SuccessRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,23 +260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\TokenService.cs",
-              "RelativeToolTip": "EmployeeManagerApi\\Services\\TokenService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAlwBYAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T06:17:14.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\ITokenService.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Interface\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\ITokenService.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Interface\\ITokenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,11 +272,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "SuccessRegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\SuccessRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\SuccessRegisterDTO.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Model\\DTO\\SuccessRegisterDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\SuccessRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\SuccessRegisterDTO.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Model\\DTO\\SuccessRegisterDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,11 +284,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "IAuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IAuthenticationService.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Interface\\IAuthenticationService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IAuthenticationService.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Interface\\IAuthenticationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -232,23 +296,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Model\\Employee.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\Employee.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Model\\Employee.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowAwAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T06:11:49.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "EmployeeUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\EmployeeUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\EmployeeUserDTO.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Model\\DTO\\EmployeeUserDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\EmployeeUserDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\EmployeeUserDTO.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Model\\DTO\\EmployeeUserDTO.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAwAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,11 +320,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "UserNotVerifiedException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\UserNotVerifiedException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\UserNotVerifiedException.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\CustomExceptions\\UserNotVerifiedException.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\UserNotVerifiedException.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\UserNotVerifiedException.cs",
               "RelativeToolTip": "EmployeeManagerApi\\CustomExceptions\\UserNotVerifiedException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -268,23 +332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "EmployeeManagerApi\\Services\\AuthenticationService.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAADwv2AAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T09:10:26.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "IAdminService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IAdminService.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Interface\\IAdminService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IAdminService.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Interface\\IAdminService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,23 +344,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IUserService.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Interface\\IUserService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IUserService.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Interface\\IUserService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAABJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAcAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T08:36:29.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Request.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\Request.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\Request.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Model\\Request.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\Request.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\Request.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Model\\Request.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,23 +368,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Reepository\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Reepository\\UserRepository.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Reepository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Reepository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Reepository\\UserRepository.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Reepository\\UserRepository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAANAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T08:27:10.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "RaiseRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\RaiseRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\RaiseRequestDTO.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Model\\DTO\\RaiseRequestDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\RaiseRequestDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\RaiseRequestDTO.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Model\\DTO\\RaiseRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -340,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "RequestListDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\RequestListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\RequestListDTO.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Model\\DTO\\RequestListDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\RequestListDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-27(Role-Based-Authentication)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\RequestListDTO.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Model\\DTO\\RequestListDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

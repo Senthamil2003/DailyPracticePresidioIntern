@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\model\\dto\\successregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\UserController.cs",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\UserService.cs",
@@ -135,20 +135,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AdminController.cs*",
-              "RelativeToolTip": "EmployeeManagerApi\\Controllers\\AdminController.cs*",
-              "ViewState": "AQIAADEAAAAAAAAAAAAowD8AAAASAAAA",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EmployeeManagerApi\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowEEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T08:58:09.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T08:58:09.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AdminService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AdminService.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\AdminService.cs",
@@ -160,7 +159,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\TokenService.cs",
+              "RelativeToolTip": "EmployeeManagerApi\\Services\\TokenService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAlwB4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:17:14.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\AuthenticationController.cs",
@@ -172,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SuccessRequest.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\DTO\\SuccessRequest.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Model\\DTO\\SuccessRequest.cs",
@@ -181,18 +193,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T06:38:28.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\TokenService.cs",
-              "RelativeToolTip": "EmployeeManagerApi\\Services\\TokenService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAlwBYAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T06:17:14.538Z"
             },
             {
               "$type": "Document",
@@ -220,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IAuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IAuthenticationService.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Interface\\IAuthenticationService.cs",
@@ -268,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Services\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Services\\AuthenticationService.cs",

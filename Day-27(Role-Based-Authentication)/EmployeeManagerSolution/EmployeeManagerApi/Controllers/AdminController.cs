@@ -4,6 +4,7 @@ using EmployeeManagerApi.Model.DTO;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace EmployeeManagerApi.Controllers
 {
@@ -28,7 +29,8 @@ namespace EmployeeManagerApi.Controllers
         {
             try
             {
-                SuccessActivation success= await _adminservice.ActiveEmployee(id);
+
+                SuccessActivation success = await _adminservice.ActiveEmployee(id);
                 return Ok(success);
             }
             catch (Exception nefe)

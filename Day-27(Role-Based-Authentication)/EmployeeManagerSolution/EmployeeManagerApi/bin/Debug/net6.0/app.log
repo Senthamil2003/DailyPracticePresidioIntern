@@ -1,0 +1,16 @@
+INFO  12:55:24 Now listening on: http://localhost:5071
+INFO  12:55:24 Application started. Press Ctrl+C to shut down.
+INFO  12:55:24 Hosting environment: Development
+INFO  12:55:24 Content root path: C:\Users\VC\Documents\Projects\Day-27(Role-Based-Authentication)\EmployeeManagerSolution\EmployeeManagerApi\
+INFO  12:55:44 Entity Framework Core 6.0.29 initialized 'EmployeeContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.29' with options: None
+INFO  12:55:45 Executed DbCommand (155ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([Image], [Name], [Phone], [Role])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [EmployeeId]
+FROM [Employees]
+WHERE @@ROWCOUNT = 1 AND [EmployeeId] = scope_identity();
+INFO  12:55:45 Executed DbCommand (8ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 8000) (DbType = Binary), @p2='?' (Size = 8000) (DbType = Binary), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([EmployeeId], [Password], [PaswordHash], [Status])
+VALUES (@p0, @p1, @p2, @p3);

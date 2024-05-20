@@ -1,8 +1,6 @@
 ﻿using EmployeeManagerApi.Interface;
 using EmployeeManagerApi.Model;
 using EmployeeManagerApi.Model.DTO;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeeManagerApi.Controllers
@@ -12,9 +10,11 @@ namespace EmployeeManagerApi.Controllers
     public class AuthenticationController : ControllerBase
     {
         private readonly IAuthenticationService _userbl;
+        private readonly ILogger<UserController> _logger;
 
-        public AuthenticationController(IAuthenticationService userbl) {
+        public AuthenticationController(IAuthenticationService userbl,ILogger<UserController> logger) {
             _userbl=userbl;
+            _logger=logger;
         }
   
         [HttpPost("Login")]
@@ -29,6 +29,8 @@ namespace EmployeeManagerApi.Controllers
             }
             catch (Exception ex)
             {
+
+                _logger.LogCritical("=-----------------------------User is not-------------------------------------"+ex.Message);
                 return Unauthorized(new ErrorModel(401, ex.Message));
             }
         }
