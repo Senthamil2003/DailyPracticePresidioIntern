@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-25(web-api-hashed-password-dto)\\pizzamanagerapisolution\\pizzamanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-25(web-api-hashed-password-dto)\\pizzamanagerapisolution\\pizzamanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-25(web-api-hashed-password-dto)\\pizzamanagerapisolution\\pizzamanagerapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-25(web-api-hashed-password-dto)\\pizzamanagerapisolution\\pizzamanagerapi\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-25(web-api-hashed-password-dto)\\pizzamanagerapisolution\\pizzamanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-25(web-api-hashed-password-dto)\\pizzamanagerapisolution\\pizzamanagerapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-25(web-api-hashed-password-dto)\\pizzamanagerapisolution\\pizzamanagerapi\\context\\pizzamanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\context\\pizzamanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-25(web-api-hashed-password-dto)\\pizzamanagerapisolution\\pizzamanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-25(web-api-hashed-password-dto)\\pizzamanagerapisolution\\pizzamanagerapi\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,11 +114,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Log4net.config",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Log4net.config",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Log4net.config",
@@ -131,20 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T19:15:12.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PizzaController.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Controllers\\PizzaController.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Controllers\\PizzaController.cs",
@@ -152,25 +139,24 @@
               "RelativeToolTip": "PizzaManagerAPI\\Controllers\\PizzaController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAowCMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:08:10.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T04:08:10.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Program.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Program.cs",
               "RelativeToolTip": "PizzaManagerAPI\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIA3wBwAAAArAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAawEMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T16:13:23.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Services\\TokenService.cs",
@@ -178,12 +164,11 @@
               "RelativeToolTip": "PizzaManagerAPI\\Services\\TokenService.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAIBJwA8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:57:45.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:57:45.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PizzaService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Services\\PizzaService.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Services\\PizzaService.cs",
@@ -191,12 +176,11 @@
               "RelativeToolTip": "PizzaManagerAPI\\Services\\PizzaService.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAUwBMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T19:11:31.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T19:11:31.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Services\\CustomerService.cs",
@@ -204,12 +188,36 @@
               "RelativeToolTip": "PizzaManagerAPI\\Services\\CustomerService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAUwBIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:17:46.971Z",
+              "WhenOpened": "2024-05-15T18:17:46.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzaManagerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\appsettings.json",
+              "RelativeToolTip": "PizzaManagerAPI\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T19:19:05.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "PizzaManagerAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "PizzaManagerAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:15:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\ITokenService.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Interface\\ITokenService.cs",
@@ -217,12 +225,11 @@
               "RelativeToolTip": "PizzaManagerAPI\\Interface\\ITokenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:11.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:11.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\ICustomerService.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Interface\\ICustomerService.cs",
@@ -230,12 +237,11 @@
               "RelativeToolTip": "PizzaManagerAPI\\Interface\\ICustomerService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAxwAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:14:35.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T18:14:35.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Interface\\IRepository.cs",
@@ -243,12 +249,11 @@
               "RelativeToolTip": "PizzaManagerAPI\\Interface\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:02:14.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T18:02:14.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CusrtomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Repository\\CusrtomerRepository.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Repository\\CusrtomerRepository.cs",
@@ -256,12 +261,11 @@
               "RelativeToolTip": "PizzaManagerAPI\\Repository\\CusrtomerRepository.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAMwCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:03:00.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T18:03:00.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PizzaRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Repository\\PizzaRepository.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Repository\\PizzaRepository.cs",
@@ -269,12 +273,11 @@
               "RelativeToolTip": "PizzaManagerAPI\\Repository\\PizzaRepository.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAmwC0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:12:32.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T18:12:32.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SuccessLogin.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\SuccessLogin.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Model\\DTO\\SuccessLogin.cs",
@@ -282,21 +285,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\SuccessLogin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAxwAUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:39:45.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\appsettings.json",
-              "RelativeToolTip": "PizzaManagerAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T19:19:05.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T10:39:45.62Z"
             },
             {
               "$type": "Document",
@@ -308,12 +297,11 @@
               "RelativeToolTip": "PizzaManagerAPI\\Model\\Pizza.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAuwAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:31:06.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T16:31:06.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PizzaManagerContext.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Context\\PizzaManagerContext.cs",
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Context\\PizzaManagerContext.cs",
@@ -321,8 +309,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Context\\PizzaManagerContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwBMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:47:49.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T16:47:49.003Z"
             },
             {
               "$type": "Document",
@@ -334,8 +321,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\RegisterDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:57:33.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T17:57:33.953Z"
             },
             {
               "$type": "Document",
@@ -347,8 +333,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Model\\UserCredential.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAswA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:27:23.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T16:27:23.959Z"
             },
             {
               "$type": "Document",
@@ -360,8 +345,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Model\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:24:57.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T16:24:57.537Z"
             },
             {
               "$type": "Document",
@@ -373,8 +357,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\SuccessRegister.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:59:21.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T17:59:21.675Z"
             },
             {
               "$type": "Document",
@@ -386,8 +369,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Repository\\UserCredentialRepository.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAWwCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:09:54.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T18:09:54.321Z"
             },
             {
               "$type": "Document",
@@ -399,8 +381,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\ErrorModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAIwAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:00:45.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T18:00:45.384Z"
             },
             {
               "$type": "Document",
@@ -412,8 +393,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Interface\\IPizzaService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T19:10:11.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T19:10:11.565Z"
             },
             {
               "$type": "Document",
@@ -425,8 +405,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Migrations\\20240516035710_first.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T03:57:11.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T03:57:11.138Z"
             },
             {
               "$type": "Document",
@@ -438,8 +417,7 @@
               "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\LoginDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAABBwAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:56:25.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T17:56:25.973Z"
             },
             {
               "$type": "Document",

@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-28\\SampleLinqSln\\SampleLinqApp\\SampleLinqApp.csproj",
+      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\SampleLinqSln\\SampleLinqApp\\SampleLinqApp.csproj",
       "projectName": "SampleLinqApp",
-      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-28\\SampleLinqSln\\SampleLinqApp\\SampleLinqApp.csproj",
+      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\SampleLinqSln\\SampleLinqApp\\SampleLinqApp.csproj",
       "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-28\\SampleLinqSln\\SampleLinqApp\\obj\\",
+      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\SampleLinqSln\\SampleLinqApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

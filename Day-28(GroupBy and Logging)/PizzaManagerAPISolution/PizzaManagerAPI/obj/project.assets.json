@@ -2986,11 +2986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\PizzaManagerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\PizzaManagerAPI.csproj",
       "projectName": "PizzaManagerAPI",
-      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\PizzaManagerAPI.csproj",
+      "projectPath": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\PizzaManagerAPI.csproj",
       "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\obj\\",
+      "outputPath": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,81 +1,92 @@
-﻿using DoctorPatientAppointmentBLLLibrary;
-using DoctorPatientAppointmentDALLibrary.Model;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DoctorPatientAppointmentApp
+﻿using System;
+namespace FactoryDesignPattern
 {
-    public class SampleTest
+    //Define the Product Interface
+    public interface IDocumentConverter
     {
-        public DoctorBL DoctorBL;
-        public SampleTest() { 
-            DoctorBL = new DoctorBL();
-        } 
-        public async Task GetAllDoctor()
+        string Convert(string content);
+        string TargetExtension { get; }
+    }
+
+    //Concrete Implementations for the Products
+    public class DocxConverter : IDocumentConverter
+    {
+        public string Convert(string content)
         {
-            List<Doctor> doctors=await DoctorBL.GetDoctorList();
-            foreach (Doctor doctor in doctors)
+            Console.WriteLine("Converting content to DOCX format...");
+            // Logic for DOCX conversion, simplified for this example
+            return content + " [Converted to DOCX]";
+        }
+
+        public string TargetExtension => ".docx";
+    }
+
+    public class PdfConverter : IDocumentConverter
+    {
+        public string Convert(string content)
+        {
+            Console.WriteLine("Converting content to PDF format...");
+            // Logic for PDF conversion, simplified for this example
+            return content + " [Converted to PDF]";
+        }
+
+        public string TargetExtension => ".pdf";
+    }
+
+    public class TxtConverter : IDocumentConverter
+    {
+        public string Convert(string content)
+        {
+            Console.WriteLine("Converting content to TXT format...");
+            // Logic for TXT conversion, simplified for this example
+            return content + " [Converted to TXT]";
+        }
+
+        public string TargetExtension => ".txt";
+    }
+
+    //Factory Class to Produce the Products
+    public static class DocumentConverterFactory
+    {
+        public static IDocumentConverter CreateDocumentConverter(string format)
+        {
+            switch (format.ToLower())
             {
-                Console.WriteLine(doctor.Name);
+                case "docx":
+                    return new DocxConverter();
+                case "pdf":
+                    return new PdfConverter();
+                case "txt":
+                    return new TxtConverter();
+                default:
+                    throw new ArgumentException("Unsupported document format");
+            }
+        }
+    }
+
+    // Testing the Factory Design Pattern
+    public class Program
+    {
+        public static void Main(string args)
+        {
+            Console.WriteLine("Enter the content to convert:");
+            string content = Console.ReadLine();
+
+            Console.WriteLine("Select the target format (DOCX, PDF, TXT):");
+            string format = Console.ReadLine();
+
+            try
+            {
+                IDocumentConverter converter = DocumentConverterFactory.CreateDocumentConverter(format);
+                string convertedContent = converter.Convert(content);
+                Console.WriteLine($"Converted content ({converter.TargetExtension}): {convertedContent}");
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
             }
 
-
-        }
-        static async Task Main(string[] args)
-        {
-            SampleTest sampleTest = new SampleTest();   
-            await sampleTest.GetAllDoctor();
-        
-
-            //HospitalManagerContext context = new HospitalManagerContext();
-            //var doctors = context.Doctors.ToList();
-            //foreach (Doctor areasItem in doctors)
-            //{
-            //    Console.WriteLine(areasItem.Name+" "+areasItem.ContactNumber);
-            //}
-            ////Doctor doctor = new Doctor()
-            ////{
-            ////    Id = 3,
-            ////    Name = "tonny",
-            ////    ContactNumber = 12121212,
-            ////    Experience = 12
-
-            ////};
-            ////context.Doctors.Add(doctor);
-            ////doctor = new Doctor()
-            ////{
-            ////    Id = 4,
-            ////    Name = "ponny",
-            ////    ContactNumber = 12121212,
-            ////    Experience = 1
-
-            ////};
-            ////context.Doctors.Add(doctor);
-            ////context.SaveChanges();
-
-            ////Console.WriteLine("Operation success");
-
-            ////Doctor result= doctors.SingleOrDefault(a => a.Name == "tonny");
-            //// if(result!=null) {
-            ////     result.Name = "Tonny stark";
-            ////     context.Doctors.Update(result);
-            ////     context.SaveChanges();
-            //// }
-            //Doctor result = doctors.SingleOrDefault(a => a.Name == "Tonny stark");
-            //if (result != null)
-            //{
-              
-            //    context.Doctors.Remove(result);
-            //    context.SaveChanges();
-            //}
-
-
-
-
-
+            Console.ReadKey();
         }
     }
 }

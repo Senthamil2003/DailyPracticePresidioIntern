@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8g1kHBo9BqHOUdlxEOIIZtn+OJteERcU/vCiZPYDbNF2pxHZs75nmHRjnDVvoft07Yt//Q3AOeyT89ItraOWVA==",
+  "dgSpecHash": "kB8vvsVOW3w5P9mAIXyVV3IeR65eB41zSpuokvbvOh8UVklfmV903bXfyYXttKwPpk49VfS2HiFZvXRaJe7e3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-25(Web-api-Hashed-Password-DTO)\\PizzaManagerAPISolution\\PizzaManagerAPI\\PizzaManagerAPI.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\PizzaManagerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\VC\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",

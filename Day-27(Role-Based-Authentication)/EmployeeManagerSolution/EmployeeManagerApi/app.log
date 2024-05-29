@@ -8,3 +8,7 @@ SELECT TOP(2) [u].[EmployeeId], [u].[Password], [u].[PaswordHash], [u].[Status]
 FROM [Users] AS [u]
 WHERE [u].[EmployeeId] = @__key_0
 FATAL 04:50:46 =-----------------------------User is not-------------------------------------No user with the given ID
+INFO  10:19:53 Now listening on: http://localhost:5071
+INFO  10:19:53 Application started. Press Ctrl+C to shut down.
+INFO  10:19:53 Hosting environment: Development
+INFO  10:19:53 Content root path: C:\Users\VC\Documents\Projects\Day-27(Role-Based-Authentication)\EmployeeManagerSolution\EmployeeManagerApi\
