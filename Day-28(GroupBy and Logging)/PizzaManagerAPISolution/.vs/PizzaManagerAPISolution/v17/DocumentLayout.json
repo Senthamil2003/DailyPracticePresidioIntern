@@ -7,104 +7,12 @@
       "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\repository\\cusrtomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\repository\\cusrtomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\repository\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\repository\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\model\\dto\\successlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\model\\dto\\successlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\context\\pizzamanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\context\\pizzamanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\model\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\model\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\model\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\model\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\model\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\model\\dto\\successregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\model\\dto\\successregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\repository\\usercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\repository\\usercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\model\\dto\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\model\\dto\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\interface\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\interface\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\model\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\model\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\pizzamanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\pizzamanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|c:\\users\\vc\\documents\\projects\\day-28(groupby and logging)\\pizzamanagerapisolution\\pizzamanagerapi\\migrations\\20240516035710_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6121F817-3283-4601-855B-804908A1992D}|PizzaManagerAPI\\PizzaManagerAPI.csproj|solutionrelative:pizzamanagerapi\\migrations\\20240516035710_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.log",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\app.log",
+              "RelativeDocumentMoniker": "PizzaManagerAPI\\app.log",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\app.log",
+              "RelativeToolTip": "PizzaManagerAPI\\app.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-29T15:43:03.207Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -124,22 +45,10 @@
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Log4net.config",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Log4net.config",
               "RelativeToolTip": "PizzaManagerAPI\\Log4net.config",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAMAAAB/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-20T16:09:36.783Z",
+              "WhenOpened": "2024-05-29T15:39:41.334Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T19:15:12.284Z"
             },
             {
               "$type": "Document",
@@ -149,285 +58,10 @@
               "RelativeDocumentMoniker": "PizzaManagerAPI\\Controllers\\PizzaController.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Controllers\\PizzaController.cs",
               "RelativeToolTip": "PizzaManagerAPI\\Controllers\\PizzaController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAowCMAAAAoAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwA8AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:08:10.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Program.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Program.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIA3wBwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:13:23.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Services\\TokenService.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Services\\TokenService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAIBJwA8AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:57:45.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PizzaService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Services\\PizzaService.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Services\\PizzaService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Services\\PizzaService.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Services\\PizzaService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBMAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T19:11:31.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Services\\CustomerService.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Services\\CustomerService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:17:46.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\ITokenService.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Interface\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\ITokenService.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Interface\\ITokenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:11.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Interface\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\ICustomerService.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Interface\\ICustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:14:35.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\IRepository.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Interface\\IRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\IRepository.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Interface\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:02:14.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CusrtomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Repository\\CusrtomerRepository.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Repository\\CusrtomerRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Repository\\CusrtomerRepository.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Repository\\CusrtomerRepository.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAMwCYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:03:00.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PizzaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Repository\\PizzaRepository.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Repository\\PizzaRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Repository\\PizzaRepository.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Repository\\PizzaRepository.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAmwC0AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:12:32.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SuccessLogin.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\SuccessLogin.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Model\\DTO\\SuccessLogin.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\SuccessLogin.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\SuccessLogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:39:45.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\appsettings.json",
-              "RelativeToolTip": "PizzaManagerAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T19:19:05.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Pizza.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\Pizza.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Model\\Pizza.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\Pizza.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Model\\Pizza.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:31:06.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PizzaManagerContext.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Context\\PizzaManagerContext.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Context\\PizzaManagerContext.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Context\\PizzaManagerContext.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Context\\PizzaManagerContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:47:49.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Model\\DTO\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\RegisterDTO.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\RegisterDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:57:33.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserCredential.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\UserCredential.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Model\\UserCredential.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\UserCredential.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Model\\UserCredential.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAswA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:27:23.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\Customer.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Model\\Customer.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\Customer.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Model\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAcAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:24:57.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SuccessRegister.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\SuccessRegister.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Model\\DTO\\SuccessRegister.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\SuccessRegister.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\SuccessRegister.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:59:21.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserCredentialRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Repository\\UserCredentialRepository.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Repository\\UserCredentialRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Repository\\UserCredentialRepository.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Repository\\UserCredentialRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAWwCYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:09:54.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ErrorModel.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\ErrorModel.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Model\\DTO\\ErrorModel.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\ErrorModel.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\ErrorModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:00:45.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IPizzaService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\IPizzaService.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Interface\\IPizzaService.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Interface\\IPizzaService.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Interface\\IPizzaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T19:10:11.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20240516035710_first.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Migrations\\20240516035710_first.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Migrations\\20240516035710_first.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Migrations\\20240516035710_first.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Migrations\\20240516035710_first.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T03:57:11.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\Model\\DTO\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\Model\\DTO\\LoginDTO.cs",
-              "RelativeToolTip": "PizzaManagerAPI\\Model\\DTO\\LoginDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAABBwAUAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:56:25.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "PizzaManagerAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\PizzaManagerAPI.csproj",
-              "RelativeDocumentMoniker": "PizzaManagerAPI\\PizzaManagerAPI.csproj",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-28(GroupBy and Logging)\\PizzaManagerAPISolution\\PizzaManagerAPI\\PizzaManagerAPI.csproj",
-              "RelativeToolTip": "PizzaManagerAPI\\PizzaManagerAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-15T16:23:47.52Z"
+              "WhenOpened": "2024-05-16T04:08:10.069Z",
+              "EditorCaption": ""
             }
           ]
         }

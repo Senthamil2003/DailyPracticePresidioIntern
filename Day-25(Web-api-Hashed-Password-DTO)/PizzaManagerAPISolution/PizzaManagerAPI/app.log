@@ -8,3 +8,15 @@ SELECT TOP(2) [u].[UserName], [u].[HashedPassword], [u].[Password], [u].[UserId]
 FROM [UserCredentials] AS [u]
 WHERE [u].[UserId] = @__key_0
 FATAL 09:50:08 No UserCredential with the given ID
+INFO  09:16:01 Now listening on: http://localhost:5033
+INFO  09:16:02 Application started. Press Ctrl+C to shut down.
+INFO  09:16:02 Hosting environment: Development
+INFO  09:16:02 Content root path: C:\Users\VC\Documents\Pharmacy Manager\PharmacyManagementSolution\PharmacyManagementApi\
+WARN  09:17:36 Failed to determine the https port for redirect.
+INFO  09:17:36 Fetching all pending orders.
+INFO  09:17:37 Entity Framework Core 6.0.30 initialized 'PharmacyContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.30' with options: None
+INFO  09:17:38 Executed DbCommand (62ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [o].[OrderDetailId], [o].[Cost], [o].[DeliveryStatus], [o].[MedicineId], [o].[OrderId], [o].[Quantity], [m].[MedicineId], [m].[CategoryId], [m].[CurrentQuantity], [m].[FeedbackCount], [m].[FeedbackSum], [m].[MedicineName], [m].[SellingPrice]
+FROM [OrderDetails] AS [o]
+INNER JOIN [Medicines] AS [m] ON [o].[MedicineId] = [m].[MedicineId]
+INFO  09:17:39 Fetched 2 pending orders.
