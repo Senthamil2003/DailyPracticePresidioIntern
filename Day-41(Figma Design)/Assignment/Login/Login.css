@@ -1,0 +1,88 @@
+@font-face {
+    font-family:montserrat;
+    src: url("./Fonts/Montserrat-Regular.ttf");
+}
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url("./Images//BG.png");
+    background-color: #2148C0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family:montserrat;
+    margin: 0;
+  
+}
+
+
+.cart-img{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.form-cont {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: auto;
+
+  }
+ 
+  .form-item{
+    padding-left: 43px;
+    margin:20px;
+    border-width: 1px;
+    border: groove;
+    border-color: white;
+    color: white;
+    background-color: #2148C0;
+    height: 45px;
+    width: 300px;
+    background-repeat: no-repeat;
+     background-position: left center;
+
+     color: white;
+     font-family: montserrat;
+  }
+  ::placeholder {
+    margin-left: 4%;
+    color: white;
+  }
+  
+  .form-btn{
+    width: 350px;
+    height: 45px;
+    margin: 20px;
+    background-color: white;
+    color: #2148C0;
+    border-color: white;
+    border-width: 1px;
+    font-family: montserrat;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.form-item:first-of-type {
+    background-image: url('./Images/user.png');
+    background-position: 8px center; 
+  }
+  
+  .form-item:last-of-type {
+    background-image: url('./Images/lock.png');
+    background-position: 8px center; /* Adjust the horizontal and vertical position as needed */
+  }
+  .forgot{
+    text-align: end;
+    margin: 20px;
+    color: white;
+    font-family: montserrat;
+    margin-top: 0.5px;
+
+
+  }
+  

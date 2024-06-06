@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Flexbox</title>
+  <style>
+    .container {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+    .box {
+      flex: 1;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .box1 {
+      background-color: lightblue;
+    }
+    .box2 {
+      background-color: lightgreen;
+    }
+
+    /* Default styles for the flex items */
+    .box1, .box2 {
+      flex: 1;
+    }
+
+    /* Media query to change the layout on smaller screens */
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+      }
+      .box2 {
+        order: -1;
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="box box1">Box 1</div>
+  <div class="box box2">Box 2</div>
+</div>
+
+</body>
+</html>

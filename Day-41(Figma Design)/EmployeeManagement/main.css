@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+ }
+
+
+
+
+.home{
+    height: 550px;
+    width: 100%;
+
+}
+.empcont{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.form-cont{
+    margin-left: 24%;
+    height: 650px;
+    width: 50%;
+    text-align: center;
+    border: groove;
+    
+    
+}
+.form-cont input{
+    height: 30px;
+    border-radius: 10px;
+     border-width: 0.5px;
+     width: 250px;
+     align-items: center;
+     margin-top: 3%;
+     margin-left: 1%;
+
+}
+.card{
+    flex: 30%;
+    text-align: center;
+    margin: 1%;
+    border:groove;
+    padding: 1%;
+    
+}
+.empdet{
+    background-color: aqua;
+}
+@media(max-width: 800px){
+    .card{
+         flex: 100%;
+       
+    }
+ }
+
