@@ -1,6 +1,139 @@
+@font-face {
+  font-family: inter;
+  src: url("./Font/Inter-VariableFont_slnt\,wght.ttf");
+}
+body {
+  margin: 0;
+  font-family: inter;
+  padding: 0;
+  color: #464F60;
+  
+}
+
+tbody{
+  font-size: 15px;
+}
+th{
+  color: #464F60;
+  font-size: 15px;
+}
+.outer-cont{
+ 
+  margin: 3%;
+  box-shadow: 0.5px 0.5px 1px 1px #c9c7c7;
+  border-radius: 8px;
+
+}
 .table-head {
   height: 40px;
-  background-color: rgba(98, 145, 227, 0.75) !important;
+  padding-bottom: 8%;
+  background-color: rgba(0, 0, 0, 0.75);
   color: azure;
+}
 
+.item-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 1.5%;
+
+  background-color: #f4f7fc;
+}
+
+.table>tbody>tr:nth-of-type(odd) {
+  background-color: white;
+  color: inherit;
+}
+
+.table>tbody>tr:nth-of-type(even) {
+  background-color: #F9FAFC;
+  color: inherit;
+}
+
+.left-item {
+  display: flex;
+  align-items: center;
+}
+
+.item1 button {
+  height: 40px;
+  width: 47px;
+  box-shadow: 0.5px 0.5px 1px 1px #c9c7c7;
+
+  background-color: rgb(255, 255, 255);
+}
+.item2 {
+  margin-left: 10%;
+}
+.item2 input {
+  padding-left: 12%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='grey' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: 10px center;
+  width: 320px;
+}
+.button {
+  align-items: center;
+  height: 30px;
+  margin-top: 10%;
+  padding-top: 2%;
+  width: 70px;
+  text-align: center;
+  border-radius: 20px;
+  background-color: #c9c7c7;
+  color: #f4f7fc;
+}
+table tr td{
+  border: none;
+}
+.open {
+  background-color: #f0f1fa;
+  color: #4f5aed;
+  font-weight: 500;
+}
+thead {
+  background-color: #f4f7fc;
+
+}
+
+.negative {
+  color: #d12953;
+  font-weight: 500;
+}
+.positive {
+  font-weight: 500;
+  color: #14804a;
+}
+.paid {
+  font-weight: 500;
+
+  background-color: #e1fcef;
+  color: #14804a;
+}
+.innactive {
+  background-color: #e9edf5;
+  color: #5a6376;
+  font-weight: 500;
+
+}
+.due {
+  background-color: #faf0f3;
+  color: #d12953;
+  font-weight: 500;
+
+}
+
+
+.alignend {
+  text-align: end;
+}
+.head1 {
+  width: 0.1%;
+}
+.head3 {
+  width: 4%;
+}
+.head2 {
+  width: 1%;
 }

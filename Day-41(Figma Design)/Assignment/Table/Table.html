@@ -4,55 +4,440 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="./Table.css" />
+
     <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
-      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="Table.css" />
   </head>
   <body>
-    
-    <table class="table table-hover">
-       
-        <thead class="table-head" >
+    <div class="outer-cont">
+      <div class="item-cont">
+        <div class="left-item">
+          <div class="item1">
+            <button class="btn">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="16"
+                height="25"
+                fill="#464F60"
+                class="bi bi-funnel-fill"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  d="M1.5 1.5A.5.5 0 0 1 2 1h12a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.128.334L10 8.692V13.5a.5.5 0 0 1-.342.474l-3 1A.5.5 0 0 1 6 14.5V8.692L1.628 3.834A.5.5 0 0 1 1.5 3.5z"
+                />
+              </svg>
+            </button>
+          </div>
+          <div class="item2">
+            <div class="form-group">
+              <input
+                type="email"
+                class="form-control"
+                id="exampleInputEmail1"
+                aria-describedby="emailHelp"
+                placeholder="Search"
+              />
+            </div>
+          </div>
+        </div>
+
+        <div class="item3">
+          <button type="button" class="btn btn-primary">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="16"
+              height="26"
+              fill="currentColor"
+              class="bi bi-plus-lg"
+              viewBox="0 0 16 16"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M8 2a.5.5 0 0 1 .5.5v5h5a.5.5 0 0 1 0 1h-5v5a.5.5 0 0 1-1 0v-5h-5a.5.5 0 0 1 0-1h5v-5A.5.5 0 0 1 8 2"
+              />
+            </svg>
+
+            Add customer
+          </button>
+        </div>
+      </div>
+      <table class="table table-hover">
+        <thead>
           <tr>
-            <th scope="col"># </th>
-            <th scope="col">NAME</th>
-            <th scope="col">DESCRIPTION</th>
-            <th scope="col">STATUS</th>
-            <th scope="col">RATE</th>
-            <th scope="col">BALANCE</th>
-            <th scope="col">DEPOSIT</th>
+            <th class="head1">
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </th>
+            <th class="head1">#</th>
+            <th class="head2">NAME</th>
+            <th class="head3">DESCRIPTION</th>
+            <th class="aligncenter head2">STATUS</th>
+            <th class="alignend head2">RATE</th>
+            <th class="alignend head2">BALANCE</th>
+            <th class="alignend head2">DEPOSIT</th>
+            <th class="alignend head1"></th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th scope="row">1</th>
-            <td>Mark</td>
-            <td>Otto</td>
-            <td>@mdo</td>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </td>
+            <th>1</th>
+            <td>
+              <span class="name">Anna Chlhane</span> <br />
+              5684236526
+            </td>
+            <td>
+              Lorem ipsum dolor sit amet,<br />
+              consectetur adipiscing elit. Nulla...
+            </td>
+            <td>
+              <div class="button open">Open</div>
+              <br />
+            </td>
+            <td>
+              <div class="alignend">$70.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend negative">-$270.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend">$500</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td></td>
           </tr>
           <tr>
-            <th scope="row">2</th>
-            <td>Jacob</td>
-            <td>Thornton</td>
-            <td>@fat</td>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </td>
+            <th>2</th>
+            <td>
+              <span class="name">Ahmad Rosser </span> <br />
+              5684236526
+            </td>
+            <td>
+              Lorem ipsum dolor sit amet,<br />
+              consectetur adipiscing elit. Nulla...
+            </td>
+            <td>
+              <div class="button paid">Paid</div>
+              <br />
+            </td>
+            <td>
+              <div class="alignend">$70.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend positive">-$270.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend">$500</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td></td>
           </tr>
           <tr>
-            <th scope="row">3</th>
-            <td colspan="2">Larry the Bird</td>
-            <td>@twitter</td>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </td>
+            <th>3</th>
+            <td>
+              <span class="name">Zain Calzoni</span> <br />
+              5684236526
+            </td>
+            <td>
+              Lorem ipsum dolor sit amet,<br />
+              consectetur adipiscing elit. Nulla...
+            </td>
+            <td>
+              <div class="button open">Open</div>
+              <br />
+            </td>
+            <td>
+              <div class="alignend">$70.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend negative">-$20.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend">$500</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </td>
+            <th>4</th>
+            <td>
+              <span class="name">Leo Stanton</span> <br />
+              5684236526
+            </td>
+            <td>
+              Lorem ipsum dolor sit amet,<br />
+              consectetur adipiscing elit. Nulla...
+            </td>
+            <td>
+              <div class="button innactive">Inactive</div>
+              <br />
+            </td>
+            <td>
+              <div class="alignend">$70.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend positive">$600</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend">$500</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </td>
+            <th>5</th>
+            <td>
+              <span class="name">Kaiya Vetrovs</span> <br />
+              5684236526
+            </td>
+            <td>
+              Lorem ipsum dolor sit amet,<br />
+              consectetur adipiscing elit. Nulla...
+            </td>
+            <td>
+              <div class="button open">Open</div>
+              <br />
+            </td>
+            <td>
+              <div class="alignend">$70.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend negative">-$350.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend">$500</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </td>
+            <th>6</th>
+            <td>
+              <span class="name">Zain Calzoni</span> <br />
+              5684236526
+            </td>
+            <td>
+              Lorem ipsum dolor sit amet,<br />
+              consectetur adipiscing elit. Nulla...
+            </td>
+            <td>
+              <div class="button paid">Paid</div>
+              <br />
+            </td>
+            <td>
+              <div class="alignend">$70.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend negative">-$270.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend">$500</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </td>
+            <th>7</th>
+            <td>
+              <span class="name">Ryan Westervelt</span> <br />
+              5684236526
+            </td>
+            <td>
+              Lorem ipsum dolor sit amet,<br />
+              consectetur adipiscing elit. Nulla...
+            </td>
+            <td>
+              <div class="button due">Due</div>
+              <br />
+            </td>
+            <td>
+              <div class="alignend">$70.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend positive">$300.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend">$500</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </td>
+            <th>8</th>
+            <td>
+              <span class="name">Adison Aminoff</span> <br />
+              5684236526
+            </td>
+            <td>
+              Lorem ipsum dolor sit amet,<br />
+              consectetur adipiscing elit. Nulla...
+            </td>
+            <td>
+              <div class="button open">Open</div>
+              <br />
+            </td>
+            <td>
+              <div class="alignend">$70.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend negative">-$270.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend">$500</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="checkbox"
+                  value=""
+                  id="flexCheckDefault"
+                />
+              </div>
+            </td>
+            <th>9</th>
+            <td>
+              <span class="name">Alfredo Aminoff</span> <br />
+              5684236526
+            </td>
+            <td>
+              Lorem ipsum dolor sit amet,<br />
+              consectetur adipiscing elit. Nulla...
+            </td>
+            <td>
+              <div class="button innactive">Inactive</div>
+              <br />
+            </td>
+            <td>
+              <div class="alignend">$70.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend negative">-$270.00</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td>
+              <div class="alignend">$500</div>
+              <div class="alignend">CAD</div>
+            </td>
+            <td></td>
           </tr>
         </tbody>
       </table>
-
-
-
+    </div>
     <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
       crossorigin="anonymous"
     ></script>
   </body>
