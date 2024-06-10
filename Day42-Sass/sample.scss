@@ -1,0 +1,45 @@
+@import "./colors";
+@mixin sample-check($color1,$color2,$type){
+  margin: 3%;
+  background-color:$color1;
+  color: if($type==error,red,$color2);
+}
+
+body{
+  @include sample-check(rgb(255, 255, 255),rgb(63, 53, 53),error);
+ 
+}
+@each $type,$bcolor,$fcolor in (danger,pink,red),(primary,lightblue,royalblue)
+,(success,lightgreen,green){
+    .#{$type}{
+        background-color:$bcolor;
+        color: $fcolor;
+        height: 50px;
+        width: 150px;
+        border-radius:30px;
+
+    }
+}
+@for $i from 1 to 5{
+  .d#{$i}{
+      width: 100px;
+      position: absolute;
+      left: $i*100px;
+      top:600px;
+      float: left;
+  }
+}
+
+
+
+nav{
+   @include sample-check(rgb(225, 167, 167),red,normal);
+  li{
+    display: inline-block;
+  }
+  a{
+    color: $fontcolor;
+    text-decoration: none;
+  }
+}
+

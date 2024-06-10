@@ -7,19 +7,21 @@ body {
   font-family: inter;
   padding: 0;
   color: #464F60;
+  font-size: 15px;
   
 }
 
 tbody{
-  font-size: 15px;
+  font-size: 1.2vw;
 }
 th{
   color: #464F60;
-  font-size: 15px;
+  font-size:1.2vw;
 }
 .outer-cont{
- 
+  
   margin: 3%;
+  width: auto;
   box-shadow: 0.5px 0.5px 1px 1px #c9c7c7;
   border-radius: 8px;
 
@@ -57,28 +59,44 @@ th{
 }
 
 .item1 button {
-  height: 40px;
-  width: 47px;
+
   box-shadow: 0.5px 0.5px 1px 1px #c9c7c7;
 
   background-color: rgb(255, 255, 255);
 }
+.icon{
+  height: 2vw;
+  width: 1;
+}
+
 .item2 {
   margin-left: 10%;
+}
+.item2 input::placeholder{
+  font-size: 1.13vw;
 }
 .item2 input {
   padding-left: 12%;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='grey' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
-  background-position: 10px center;
-  width: 320px;
+  background-position: 1.2vw center;
+  background-size: 1.2vw;
+  width: 30vw;
 }
+@media (max-width: 767px) {
+  .item2 input {
+    height: 25px;
+  }
+  
+}
+
+
 .button {
   align-items: center;
-  height: 30px;
+  height: 2.3vw;
   margin-top: 10%;
   padding-top: 2%;
-  width: 70px;
+  width: 5.4vw;
   text-align: center;
   border-radius: 20px;
   background-color: #c9c7c7;
@@ -117,11 +135,16 @@ thead {
   font-weight: 500;
 
 }
+
+
 .due {
   background-color: #faf0f3;
   color: #d12953;
   font-weight: 500;
 
+}
+table {
+  border-radius: 10px;
 }
 
 
@@ -136,4 +159,45 @@ thead {
 }
 .head2 {
   width: 1%;
+}
+.add-btn{
+  font-size: 1.2vw;
+}
+
+.page{
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+
+
+}
+.move-btn{
+  height: 2.5vw;
+  width: 2.vw;
+  border: 1px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 0.5px 0.5px 1px 1px #c9c7c7;
+
+}
+.name{
+  font-weight: 700;
+}
+
+tfoot{
+  color: #687182;
+  font-size: 1.2vw;
+  background-color: #F4F7FC;
+  width: 100%;
+}
+.head4{
+  width: 1.5%;
+}
+.page-btn,.page-data{
+  text-align: end;
+}
+
+.plus{
+  font-size: 1.4vw;
+  font-weight: 500;
 }

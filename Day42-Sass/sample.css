@@ -1,0 +1,76 @@
+body {
+  margin: 3%;
+  background-color: rgb(255, 255, 255);
+  color: red;
+}
+
+.danger {
+  background-color: pink;
+  color: red;
+  height: 50px;
+  width: 150px;
+  border-radius: 30px;
+}
+
+.primary {
+  background-color: lightblue;
+  color: royalblue;
+  height: 50px;
+  width: 150px;
+  border-radius: 30px;
+}
+
+.success {
+  background-color: lightgreen;
+  color: green;
+  height: 50px;
+  width: 150px;
+  border-radius: 30px;
+}
+
+.d1 {
+  width: 100px;
+  position: absolute;
+  left: 100px;
+  top: 600px;
+  float: left;
+}
+
+.d2 {
+  width: 100px;
+  position: absolute;
+  left: 200px;
+  top: 600px;
+  float: left;
+}
+
+.d3 {
+  width: 100px;
+  position: absolute;
+  left: 300px;
+  top: 600px;
+  float: left;
+}
+
+.d4 {
+  width: 100px;
+  position: absolute;
+  left: 400px;
+  top: 600px;
+  float: left;
+}
+
+nav {
+  margin: 3%;
+  background-color: rgb(225, 167, 167);
+  color: red;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  color: rgb(159, 157, 157);
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=sample.css.map */

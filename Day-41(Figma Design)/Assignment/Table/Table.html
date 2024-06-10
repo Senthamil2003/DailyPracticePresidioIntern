@@ -18,13 +18,13 @@
       <div class="item-cont">
         <div class="left-item">
           <div class="item1">
-            <button class="btn">
+            <button class="btn filter">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
                 height="25"
                 fill="#464F60"
-                class="bi bi-funnel-fill"
+                class="bi bi-funnel-fill icon"
                 viewBox="0 0 16 16"
               >
                 <path
@@ -36,7 +36,7 @@
           <div class="item2">
             <div class="form-group">
               <input
-                type="email"
+                type="text"
                 class="form-control"
                 id="exampleInputEmail1"
                 aria-describedby="emailHelp"
@@ -47,22 +47,8 @@
         </div>
 
         <div class="item3">
-          <button type="button" class="btn btn-primary">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="26"
-              fill="currentColor"
-              class="bi bi-plus-lg"
-              viewBox="0 0 16 16"
-            >
-              <path
-                fill-rule="evenodd"
-                d="M8 2a.5.5 0 0 1 .5.5v5h5a.5.5 0 0 1 0 1h-5v5a.5.5 0 0 1-1 0v-5h-5a.5.5 0 0 1 0-1h5v-5A.5.5 0 0 1 8 2"
-              />
-            </svg>
-
-            Add customer
+          <button type="button" class="btn btn-primary add-btn">
+           <span class="plus">+</span>  Add customer
           </button>
         </div>
       </div>
@@ -84,8 +70,8 @@
             <th class="head3">DESCRIPTION</th>
             <th class="aligncenter head2">STATUS</th>
             <th class="alignend head2">RATE</th>
-            <th class="alignend head2">BALANCE</th>
-            <th class="alignend head2">DEPOSIT</th>
+            <th class="alignend head4">BALANCE</th>
+            <th class="alignend head4">DEPOSIT</th>
             <th class="alignend head1"></th>
           </tr>
         </thead>
@@ -164,7 +150,9 @@
               <div class="alignend">$500</div>
               <div class="alignend">CAD</div>
             </td>
-            <td></td>
+            <td>
+              
+            </td>
           </tr>
           <tr>
             <td>
@@ -433,6 +421,30 @@
             <td></td>
           </tr>
         </tbody>
+        <tfoot class="table-foot">
+          <tr>
+            <td style="padding-left: 2%; padding-top: 2%" colspan="6">
+              <p>1-10 of 97</p>
+            </td>
+            <td class="page-data">
+              <p style="display: inline">Row per page:</p>
+              <select class="page" name="page" id="page">
+                <option value="">10</option>
+                <option value="">20</option>
+                <option value="">30</option>
+                <option value="">40</option>
+              </select>
+            </td>
+            <td class="page-btn">
+              <div class="cont2-2">
+                <button class="move-btn"><</button>
+                1/10
+                <button class="move-btn">></button>
+              </div>
+            </td>
+            <td></td>
+          </tr>
+        </tfoot>
       </table>
     </div>
     <script
