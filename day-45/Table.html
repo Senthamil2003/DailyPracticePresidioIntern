@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script defer src="./index.js"></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./Table.css">
+  </head>
+  <body>
+    <!-- Button trigger modal -->
+    <button
+      type="button"
+      class="btn btn-primary"
+      data-bs-toggle="modal"
+      data-bs-target="#exampleModal"
+    >
+      + Add Product
+    </button>
+
+    <div
+      class="modal fade"
+      id="exampleModal"
+      tabindex="-1"
+      aria-labelledby="exampleModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel"></h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <div class="mb-3">
+              <label for="Product-name"  class="form-label"
+                >Product name</label
+              >
+              <br/>
+              <span class="notify" id="span-product">sample</span>
+              <input
+                type="email"
+                class="form-control"
+                id="Product-name"
+                placeholder="Name"
+                oninput="ValidateProductName()"
+              />
+            </div>
+            <div class="mb-3">
+              <label for="price" class="form-label"
+                >Price</label
+              >
+              <br/>
+              <span class="notify" id="span-price"></span>
+              <input
+                type="number"
+                class="form-control"
+                id="price"
+                placeholder="price"
+                value="0"
+                oninput="ValidatePrice()"
+              />
+              
+            </div>
+            <div class="mb-3">
+              <label for="Quantity" class="form-label"
+                >Quantity</label
+              >
+              <br/>
+              <span class="notify" id="span-quantity">sample</span>
+              <input
+                type="email"
+                class="form-control"
+                id="Quantity"
+                placeholder="Quantity"
+                oninput="ValidateQuantity()"
+                value="0"
+              />
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Close
+            </button>
+            <button
+              type="button"
+              data-bs-dismiss="modal"
+              class="btn btn-primary"
+              onclick="AddData()"
+            >
+              Save changes
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <table class="table table-dark">
+      <thead>
+        <th scope="col">#</th>
+        <th scope="col">Product Name</th>
+        <th scope="col">Price</th>
+        <th scope="col">Available Quantity</th>
+      </thead>
+      <tbody id="t-body">
+  
+      </tbody>
+    </table>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

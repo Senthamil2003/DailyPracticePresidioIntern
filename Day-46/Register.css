@@ -1,0 +1,49 @@
+form {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  border: 1px solid;
+  margin-top: 5%;
+}
+.form-group,
+.form-check {
+  margin: 3%;
+}
+.btn {
+  text-align: center;
+  width: 95%;
+  margin: 3%;
+}
+.form-cont {
+  margin: 8%;
+}
+.notify {
+  display: none;
+}
+.error-span-name{
+    display: none;
+
+}
+.error {
+  display: block;
+  color: red;
+}
+.good {
+  display: block;
+  color: rgb(12, 235, 45);
+}
+.good-input:focus,.good-input{
+    box-shadow:5px 5 5 5px #09ff00 ;
+    border-color: #09ff00 !important;
+    outline: none !important; 
+
+}
+.error-input{
+    box-shadow:5px 5 5 5px red ;
+    border-color: red !important;
+    outline: none !important; 
+
+
+}

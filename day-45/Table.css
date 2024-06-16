@@ -1,0 +1,27 @@
+.table{
+    text-align: center;
+   
+}
+table{
+   padding: 3%;
+}
+td{
+    background-color: aliceblue !important;
+    color: black;
+}
+.btn{
+    margin-left: 1%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+.notify{
+    display: none;
+}
+.error{
+    display: block;
+    color: red;
+}
+.good{
+    display: block;
+    color: rgb(12, 235, 45);
+}
