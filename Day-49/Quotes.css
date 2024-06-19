@@ -1,0 +1,10 @@
+.tot-cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.input-group{
+    width: 50%;
+    margin: 5%;
+}
