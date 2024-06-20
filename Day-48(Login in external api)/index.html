@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      input{
+        height: 35px;
+        width: 300px;
+      }
+      #loginForm{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      button{
+        height: 35px;
+        width: 300px;
+        background-color: rgb(19, 43, 255);
+        color: white;
+        border:  none;
+        margin: 1%;
+      }
+    </style>
+    <script defer src="./index.js"></script>
+  </head>
+  <body>
+    <form id="loginForm">
+      <h1>Sample Form</h1>
+      <input type="text" id="username" name="username"  placeholder="mail" /><br />
+      <input type="password" id="password" name="password"  placeholder="Password" />
+      <button type="submit">Submit</button>
+      <button onclick="GetAlldata()" >Submit</button>
+      <button onclick="UpdateCart()" >Update</button>
+      <p id="token"></p>
+      
+    </form>
+   
+  </body>
+</html>
