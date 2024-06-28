@@ -1,0 +1,11 @@
+name=input("Enter the name")
+age=input("Enter age")
+dateOfBirth=print("Enter Date of Birth")
+phone=input("Enter Mobile")
+
+print("---------------------------")
+print(f"Details of {name}")
+print(f"Name: {name}")
+print(f"Age: {age}")
+print(f"Mobile number: {phone}")
+print(f"Date of birth: {dateOfBirth}")
