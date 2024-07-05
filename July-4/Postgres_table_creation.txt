@@ -1,0 +1,34 @@
+1.docker pull postgres
+2.docker run --name my_postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+3.docker start my_postgres
+docker exec -it my_postgres psql -U postgres
+
+create database test;
+\c test
+create table
+create table department(id serial primary key,name varchar(20) not null);
+ CREATE TABLE employee (
+    emp_id SERIAL PRIMARY KEY,
+    emp_name VARCHAR(100) NOT NULL,
+    emp_email VARCHAR(100),
+    dept_id INT REFERENCES department(id)
+);
+CREATE TABLE salary (
+    salary_id SERIAL PRIMARY KEY,
+    emp_id INT REFERENCES employee(emp_id),
+    amount int NOT NULL,
+    effective_date DATE NOT NULL
+);
+INSERT INTO department (name) VALUES
+    ('Developer'),
+    ('Market'),
+    ('Research');
+INSERT INTO salary (emp_id, amount, effective_date) VALUES
+    (1, 1000, '2024-01-01'),
+    (1, 2000, '2025-01-01'),
+    (2, 100, '2024-01-01'),
+    (3, .200, '2024-01-01');
+INSERT INTO employee (emp_name, emp_email, dept_id) VALUES
+    ('Eren Jeager', 'Eren@123.com', 1),
+    ('Mikasa', 'mikasa@123.com', 2),
+    ('Armin', 'armin@123.com', 3);
