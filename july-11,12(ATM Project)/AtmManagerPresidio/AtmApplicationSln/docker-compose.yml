@@ -1,0 +1,34 @@
+services:
+  db:
+    image: "mcr.microsoft.com/mssql/server"
+    environment:
+      SA_PASSWORD: "S3cur3P@ssW0rd!"
+      MSSQL_SA_PASSWORD: "S3cur3P@ssW0rd!"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "/opt/mssql-tools/bin/sqlcmd",
+          "-U",
+          "sa",
+          "-P",
+          "S3cur3P@ssW0rd!",
+          "-Q",
+          "select 1",
+        ]
+      interval: 10s
+      retries: 5
+  yourprojectapi:
+    build:
+        context: .
+        dockerfile: Dockerfile
+    # image: sekcjv/atmappwebapi
+
+    ports:
+      - "8000:80"
+    depends_on:
+      db:
+        condition: service_healthy
