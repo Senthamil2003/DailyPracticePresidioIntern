@@ -7,8 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeeManagerApi.Controllers
 {
-    [Authorize(Roles = "Admin")]
-    [Authorize()]
+    //[Authorize(Roles = "Admin")]
+    //[Authorize()]
     [Route("api/[controller]")]
     [ApiController]
     public class AdminController : ControllerBase

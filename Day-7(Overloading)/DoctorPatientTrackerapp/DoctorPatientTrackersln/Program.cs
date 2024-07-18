@@ -1,27 +1,42 @@
-﻿namespace DoctorPatientTrackersln
+﻿using System;
+using System.Data.SqlClient;
+
+class Program
 {
-    public class Sample<T>
+    static void Main(string[] args)
     {
-       private T[] arr = new T[100];
+        string connectionString = "Server=52.143.121.117,1401;Database=ProductManager;User Id=senthamil;Password=Senthamil@2003;";
 
-   // Define the indexer to allow client code to use [] notation.
-   public T this[int i]
-   {
-      get => arr[i];
-      set => arr[i] = value;
-   }
-
-    }
-    internal class Program
-    {
-        static void Main(string[] args)
+        try
         {
-            Sample<string> sample = new Sample<string>();
-            sample[0] = "hello";
-            sample[1] = "bello";
-            Console.WriteLine(sample[0] + sample[1]);
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+                Console.WriteLine("Successfully connected to the database.");
 
-            ;
+                string sql = "SELECT * FROM Products"; // Adjust table name if different
+                using (SqlCommand command = new SqlCommand(sql, connection))
+                {
+                    using (SqlDataReader reader = command.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            Console.WriteLine($"ProductId: {reader["ProductName"]}");
+                        }
+                    }
+                }
+            }
         }
+        catch (SqlException e)
+        {
+            Console.WriteLine($"SQL Error: {e.Message}");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"Error: {e.Message}");
+        }
+
+        Console.WriteLine("Press any key to exit...");
+        Console.ReadKey();
     }
 }

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\context\\doctormanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\context\\doctormanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Migrations\\20240716052636_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoctorClinicManagerWebApi\\Migrations\\20240716052636_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\customexception\\nullvalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,18 +39,6 @@
       "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\migrations\\20240514153903_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\migrations\\20240514153903_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\interface\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\interface\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\doctorclinicmanagerapisolution\\doctorclinicmanagerwebapi\\migrations\\20240716053724_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3082EE-88E8-41DD-8C36-75DB416CDFA4}|DoctorClinicManagerWebApi\\DoctorClinicManagerWebApi.csproj|solutionrelative:doctorclinicmanagerwebapi\\migrations\\20240716053724_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +62,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240716053724_init.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Migrations\\20240716053724_init.cs",
+              "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\Migrations\\20240716053724_init.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Migrations\\20240716053724_init.cs",
+              "RelativeToolTip": "DoctorClinicManagerWebApi\\Migrations\\20240716053724_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:37:25.033Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "20240716052636_init.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Migrations\\20240716052636_init.cs",
+              "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\Migrations\\20240716052636_init.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Migrations\\20240716052636_init.cs",
+              "RelativeToolTip": "DoctorClinicManagerWebApi\\Migrations\\20240716052636_init.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:26:36.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DoctorBL.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\DoctorBusinessLogic\\DoctorBL.cs",
               "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\DoctorBusinessLogic\\DoctorBL.cs",
@@ -74,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DoctorManagerContext.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Context\\DoctorManagerContext.cs",
               "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\Context\\DoctorManagerContext.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Context\\DoctorManagerContext.cs",
               "RelativeToolTip": "DoctorClinicManagerWebApi\\Context\\DoctorManagerContext.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T14:52:44.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DoctorRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Repository\\DoctorRepository.cs",
               "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\Repository\\DoctorRepository.cs",
@@ -99,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "NoDoctorFoundException.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\CustomException\\NoDoctorFoundException.cs",
               "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\CustomException\\NoDoctorFoundException.cs",
@@ -111,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NullValueException.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\CustomException\\NullValueException.cs",
               "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\CustomException\\NullValueException.cs",
@@ -123,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\Controllers\\DoctorController.cs",
@@ -135,39 +163,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Program.cs",
               "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Program.cs",
               "RelativeToolTip": "DoctorClinicManagerWebApi\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBEAAABqAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBEAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T14:39:39.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20240514153903_initial.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Migrations\\20240514153903_initial.cs",
-              "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\Migrations\\20240514153903_initial.cs",
-              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Migrations\\20240514153903_initial.cs",
-              "RelativeToolTip": "DoctorClinicManagerWebApi\\Migrations\\20240514153903_initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:39:03.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\appsettings.json",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\appsettings.json",
               "RelativeToolTip": "DoctorClinicManagerWebApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAMAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-14T15:32:19.09Z"
+              "WhenOpened": "2024-05-14T15:32:19.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -189,7 +206,7 @@
               "RelativeDocumentMoniker": "DoctorClinicManagerWebApi\\Interface\\IRepository.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\DoctorClinicManagerApiSolution\\DoctorClinicManagerWebApi\\Interface\\IRepository.cs",
               "RelativeToolTip": "DoctorClinicManagerWebApi\\Interface\\IRepository.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T14:43:06.281Z"
             },

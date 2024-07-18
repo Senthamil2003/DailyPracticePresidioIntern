@@ -11,19 +11,30 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
 using System.Text.Json.Serialization;
+using Azure.Identity;
+using Azure.Security.KeyVault.Secrets;
+
 
 namespace EmployeeManagerApi
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public async static Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            const string secretName = "connectionstring";
+            var keyVaultName = "secretsql1";
+            var kvUri = $"https://{keyVaultName}.vault.azure.net";
 
-            // Add services to the container.
+            var client = new SecretClient(new Uri(kvUri), new DefaultAzureCredential());
 
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            
 
+            Console.WriteLine($"Retrieving your secret from {keyVaultName}.");
+            var secret = await client.GetSecretAsync(secretName);
+            Console.WriteLine($"Your secret is '{secret.Value.Value}'.");
+
+           
             builder.Services.AddSwaggerGen(option =>
             {
                 option.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
@@ -67,9 +78,12 @@ namespace EmployeeManagerApi
                 });
 
             builder.Services.AddControllers();
+            string connectionString = secret.Value.Value;
+            Console.WriteLine(builder.Configuration.GetConnectionString("defaultConnection"));
+            Console.WriteLine(connectionString);
             #region Context
             builder.Services.AddDbContext<EmployeeContext>(
-                options => options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"))
+                options => options.UseSqlServer(connectionString)
             );
             #endregion
 
@@ -89,6 +103,8 @@ namespace EmployeeManagerApi
 
 
             #endregion
+
+
 
 
             var app = builder.Build();

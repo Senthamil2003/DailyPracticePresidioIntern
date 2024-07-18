@@ -139,3 +139,10 @@ C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeM
 C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\EmployeeManagerApi.staticwebassets.runtime.json
+C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\VC\Documents\Projects\Day-24(Doctor and Employee Tracker API)\EmployeeManagerSolution\EmployeeManagerApi\bin\Debug\net6.0\System.Memory.Data.dll

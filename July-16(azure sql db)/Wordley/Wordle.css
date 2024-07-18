@@ -1,0 +1,25 @@
+.word-tile-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.word-cont{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+.total-cont{
+    height: 100%;
+}
+.tile{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(217, 218, 219);
+    border: 1px black;
+    margin: 1%;
+    
+}

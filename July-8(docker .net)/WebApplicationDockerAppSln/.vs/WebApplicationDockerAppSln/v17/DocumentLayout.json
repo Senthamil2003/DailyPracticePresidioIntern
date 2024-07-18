@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\July-8(docker .net)\\WebApplicationDockerAppSln\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8DB7DA-E1CE-4D4F-8EE4-F510EF4BAEF2}|WebApplicationDockerApp\\WebApplicationDockerApp.csproj|c:\\users\\vc\\documents\\projects\\july-8(docker .net)\\webapplicationdockerappsln\\webapplicationdockerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8DB7DA-E1CE-4D4F-8EE4-F510EF4BAEF2}|WebApplicationDockerApp\\WebApplicationDockerApp.csproj|solutionrelative:webapplicationdockerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8DB7DA-E1CE-4D4F-8EE4-F510EF4BAEF2}|WebApplicationDockerApp\\WebApplicationDockerApp.csproj|c:\\users\\vc\\documents\\projects\\july-8(docker .net)\\webapplicationdockerappsln\\webapplicationdockerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F8DB7DA-E1CE-4D4F-8EE4-F510EF4BAEF2}|WebApplicationDockerApp\\WebApplicationDockerApp.csproj|solutionrelative:webapplicationdockerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8DB7DA-E1CE-4D4F-8EE4-F510EF4BAEF2}|WebApplicationDockerApp\\WebApplicationDockerApp.csproj|c:\\users\\vc\\documents\\projects\\july-8(docker .net)\\webapplicationdockerappsln\\webapplicationdockerapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F8DB7DA-E1CE-4D4F-8EE4-F510EF4BAEF2}|WebApplicationDockerApp\\WebApplicationDockerApp.csproj|solutionrelative:webapplicationdockerapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\July-8(docker .net)\\WebApplicationDockerAppSln\\WebApplicationDockerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationDockerApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\July-8(docker .net)\\WebApplicationDockerAppSln\\WebApplicationDockerApp\\appsettings.json*",
+              "RelativeToolTip": "WebApplicationDockerApp\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T05:11:25.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\July-8(docker .net)\\WebApplicationDockerAppSln\\WebApplicationDockerApp\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApplicationDockerApp\\Dockerfile",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\July-8(docker .net)\\WebApplicationDockerAppSln\\WebApplicationDockerApp\\Dockerfile",
+              "RelativeToolTip": "WebApplicationDockerApp\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-16T05:11:23.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\July-8(docker .net)\\WebApplicationDockerAppSln\\WebApplicationDockerApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationDockerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\July-8(docker .net)\\WebApplicationDockerAppSln\\WebApplicationDockerApp\\Program.cs",
+              "RelativeToolTip": "WebApplicationDockerApp\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:10:11.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

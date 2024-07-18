@@ -1,0 +1,24 @@
+--create db in cli
+
+az group create --name rg_sentha_cli --location "East US" 
+
+az sql server create --name sqlsenthaservercli --resource-group rg_sentha_cli --location "East US"  --admin-user sqlsentha --admin-password Senthamil@2003
+
+az sql server firewall-rule create --resource-group rg_sentha_cli --server sqlsenthaservercli -n AllowYourIp --start-ip-address 152.58.205.52 --end-ip-address 152.58.205.52
+
+az sql db create --resource-group rg_sentha_cli --server sqlsenthaservercli --name firstdb --sample-name AdventureWorksLT --edition GeneralPurpose --family Gen5 --capacity 2 --zone-redundant false
+
+-- create vm in cli
+
+az group create --name rgsenthavm --location "East US"
+
+
+az vm create --resource-group rgsenthavm --name senthaVm --image Win2022AzureEditionCore --public-ip-sku Standard --admin-username senthamil --admin-password Senthamil@2003
+
+20.232.198.70
+
+az vm run-command invoke -g rgsenthavm -n senthaVm --command-id RunPowerShellScript --scripts "Install-WindowsFeature -name Web-Server -IncludeManagementTools"
+
+az vm open-port --port 80 --resource-group rgsenthavm --name senthaVm
+
+az group delete --name rgsenthavm
