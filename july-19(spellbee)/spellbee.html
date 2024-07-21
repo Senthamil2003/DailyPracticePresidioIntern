@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="tot-cont">
+      <input type="text" id="wrod" disabled />
+      <div class="spellcont">
+        <div class="wrod-row">
+          <div class="tile main"></div>
+        </div>
+        <div class="wrod-row">
+          <div class="tile"></div>
+          <div class="tile"></div>
+        </div>
+        <div class="wrod-row">
+          <div class="tile"></div>
+          <div class="tile"></div>
+        </div>
+        <div class="wrod-row">
+          <div class="tile"></div>
+          <div class="tile"></div>
+        </div>
+        <div class="wrod-row action">
+          <button id="submit" onclick="Submit()">Submit</button>
+          <button id="reset" onclick="Shuffle()">Shuffle</button>
+          <button id="delete" onclick="Delete()">Delete</button>
+        </div>
+        <div class="comment" id="comment"></div>
+        <div class="result-cont">
+          <ul id="result"></ul>
+        </div>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>

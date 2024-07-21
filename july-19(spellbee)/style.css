@@ -1,0 +1,63 @@
+body {
+  font-family: sans-serif;
+}
+.tile {
+  height: 60px;
+  width: 60px;
+  background-color: rgb(226, 229, 231);
+  margin: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.action {
+  margin-top: 10%;
+}
+button {
+  height: 35px;
+  width: 80px;
+  border: none;
+  margin: 1%;
+  color: white;
+  cursor: pointer;
+}
+#submit {
+  background-color: rgb(32, 218, 32);
+}
+#delete {
+  background-color: red;
+}
+#reset {
+  background-color: grey;
+}
+.main {
+  background-color: yellow;
+}
+input {
+  height: 30px;
+  width: 200px;
+  margin: 4%;
+  padding: 1%;
+}
+.result-cont {
+  color: green;
+}
+.comment {
+  margin: 1%;
+}
+.tot-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.spellcont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.wrod-row {
+  display: flex;
+}
