@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\customexceptions\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\customexceptions\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|solutionrelative:employeemanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FEEBF8C-7A75-45E7-AFEB-BD8167C29CA3}|EmployeeManagerApi\\EmployeeManagerApi.csproj|c:\\users\\vc\\documents\\projects\\day-24(doctor and employee tracker api)\\employeemanagersolution\\employeemanagerapi\\context\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sample.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\sample.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerApi\\CustomExceptions\\sample.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\CustomExceptions\\sample.cs*",
+              "RelativeToolTip": "EmployeeManagerApi\\CustomExceptions\\sample.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:21:56.364Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -52,14 +69,14 @@
               "RelativeDocumentMoniker": "EmployeeManagerApi\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\appsettings.Development.json",
               "RelativeToolTip": "EmployeeManagerApi\\appsettings.Development.json",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-18T16:15:23.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Model\\User.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Model\\User.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Reepository\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Reepository\\EmployeeRepository.cs",
@@ -85,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Interface\\IRepository.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmployeeContext.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Context\\EmployeeContext.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Context\\EmployeeContext.cs",
@@ -111,33 +128,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Controllers\\AdminController.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAACcAAAADAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBJwCcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T07:05:03.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\Program.cs",
               "RelativeToolTip": "EmployeeManagerApi\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCIAAABJAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAFUAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T06:43:59.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\Day-24(Doctor and Employee Tracker API)\\EmployeeManagerSolution\\EmployeeManagerApi\\appsettings.json",
               "RelativeDocumentMoniker": "EmployeeManagerApi\\appsettings.json",

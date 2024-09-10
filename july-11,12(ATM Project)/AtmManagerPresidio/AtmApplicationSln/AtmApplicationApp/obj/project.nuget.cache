@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "245TB9pnSyDL5BvTTtF0b+Fca+IoCn0Pkaepo6cbBNoI/Vb/aFubxrjN98cWzCrRI+QWW/55nDdSUNtMimxyyQ==",
+  "dgSpecHash": "u+ftUTB3wvAuhxxQ+9hcTo2TvSEoOL/l12E9a0wpRLhyerJiQsWR1vhp7IdS2M2RBxoJd61YOSGnSlf5920bEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\july-11(ATM Project)\\AtmManagerPresidio\\AtmApplicationSln\\AtmApplicationApp\\AtmApplicationApp.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Documents\\Projects\\july-11,12(ATM Project)\\AtmManagerPresidio\\AtmApplicationSln\\AtmApplicationApp\\AtmApplicationApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VC\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\VC\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

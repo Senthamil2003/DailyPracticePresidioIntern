@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\july-11(ATM Project)\\AtmManagerPresidio\\AtmApplicationSln\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Projects\\july-11,12(ATM Project)\\AtmManagerPresidio\\AtmApplicationSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68971408-B995-4158-A475-EAB911EFF16E}|AtmApplicationApp\\AtmApplicationApp.csproj|c:\\users\\vc\\documents\\projects\\july-11,12(atm project)\\atmmanagerpresidio\\atmapplicationsln\\atmapplicationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68971408-B995-4158-A475-EAB911EFF16E}|AtmApplicationApp\\AtmApplicationApp.csproj|solutionrelative:atmapplicationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Projects\\july-11,12(ATM Project)\\AtmManagerPresidio\\AtmApplicationSln\\AtmApplicationApp\\Program.cs",
+              "RelativeDocumentMoniker": "AtmApplicationApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Projects\\july-11,12(ATM Project)\\AtmManagerPresidio\\AtmApplicationSln\\AtmApplicationApp\\Program.cs",
+              "RelativeToolTip": "AtmApplicationApp\\Program.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAQwEMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:53:05.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
